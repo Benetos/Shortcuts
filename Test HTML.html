@@ -1,0 +1,82 @@
+And here is the formatting stuff before said page code...
+
+
+<! DOCTYPE html>
+<html>
+<head>
+<title></title> <meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+<script src="dist/clipboard.min.js"></script>
+
+<style>
+
+button {
+  background-color: #111111;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer
+}
+
+body {  
+      font-family: -apple-system; 
+      font-size: 100%; 
+      font-weight: 500; 
+      text-align: justify; 
+      line-height: 1.75em; 
+      padding: 0 20px;
+      color: #FFF;
+      padding-top: 190px;
+      background-color: #000
+}
+
+info {
+      color: #000;
+      font-size: 80%
+}
+
+textarea {
+      background-color: #000; 
+      color: #FFF; 
+      font-family: -apple-system; 
+      font-size: 100%; 
+      font-weight: 500; 
+      text-align: justify; 
+      line-height: 1.75em; 
+      padding: 0 0px;
+      width: 100%;
+      height: 300px;
+      box-sizing: border-box;
+      border: 0px solid #ccc;
+      border-radius: 1px;
+}
+
+</style>
+
+</head>
+
+<div>
+<h2>Entry for Current Date </h2>
+</div>
+<form class="button">
+<textarea placeholder="Dear Diary..." id="myText"></textarea>
+<p>
+<button class="button" id="btnCopy">Complete</button>
+<br>
+</form>
+<form class="info">This will copy your text to clipboard. Press "Done" once you have pressed this.
+</form>
+<script>
+document.getElementById("btnCopy").addEventListener("click", function(){
+   var copyText = document.getElementById("myText");
+   copyText.select();
+   document.execCommand("Copy");
+   alert("Copied to clipboard!");
+ });
+</script>
