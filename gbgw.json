@@ -1,0 +1,1423 @@
+0 {Part Name: "Gundam Artemis↵[Satellite Cannon]", Part Type: "Back", Base Stat Total (BST): 4981, BST (w. Marks): 6973, Mark Slots: 1, …}
+1 {Part Name: "Graze↵[Ground/Standard]", Part Type: "Head", Base Stat Total (BST): 1933, BST (w. Marks): 5026, Mark Slots: 4, …}
+2 {Part Name: "Graze↵[Ground/Standard]", Part Type: "Torso", Base Stat Total (BST): 1717, BST (w. Marks): 4464, Mark Slots: 4, …}
+3 {Part Name: "Graze↵[Ground/Standard]", Part Type: "Arms", Base Stat Total (BST): 1965, BST (w. Marks): 5109, Mark Slots: 4, …}
+4 {Part Name: "Graze↵[Ground/Standard]", Part Type: "Legs", Base Stat Total (BST): 1633, BST (w. Marks): 4246, Mark Slots: 4, …}
+5 {Part Name: "Battle Axe↵[Graze]", Part Type: "Melee Wep.", Base Stat Total (BST): 1542, BST (w. Marks): 4009, Mark Slots: 4, …}
+6 {Part Name: "Rifle↵[Long Barrel/Graze]", Part Type: "Ranged Wep.", Base Stat Total (BST): 1542, BST (w. Marks): 4009, Mark Slots: 4, …}
+7 {Part Name: "Rifle↵[Short Barrel/Graze]", Part Type: "Ranged Wep.", Base Stat Total (BST): 1542, BST (w. Marks): 4009, Mark Slots: 4, …}
+8 {Part Name: "00 Qan[T] Full Saber", Part Type: "Head", Base Stat Total (BST): 6296, BST (w. Marks): 8814, Mark Slots: 1, …}
+9 {Part Name: "00 Qan[T] Full Saber", Part Type: "Torso", Base Stat Total (BST): 6098, BST (w. Marks): 8537, Mark Slots: 1, …}
+10 {Part Name: "00 Qan[T] Full Saber", Part Type: "Arms", Base Stat Total (BST): 6000, BST (w. Marks): 8400, Mark Slots: 1, …}
+11 {Part Name: "00 Qan[T] Full Saber", Part Type: "Legs", Base Stat Total (BST): 5800, BST (w. Marks): 8120, Mark Slots: 1, …}
+12 {Part Name: "00 Qan[T] Full Saber", Part Type: "Back", Base Stat Total (BST): 5985, BST (w. Marks): 8379, Mark Slots: 1, …}
+13 {Part Name: "00 Raiser", Part Type: "Head", Base Stat Total (BST): 6296, BST (w. Marks): 8814, Mark Slots: 1, …}
+14 {Part Name: "00 Raiser", Part Type: "Torso", Base Stat Total (BST): 6306, BST (w. Marks): 8828, Mark Slots: 1, …}
+15 {Part Name: "00 Raiser", Part Type: "Arms", Base Stat Total (BST): 6085, BST (w. Marks): 8519, Mark Slots: 1, …}
+16 {Part Name: "00 Raiser", Part Type: "Legs", Base Stat Total (BST): 5800, BST (w. Marks): 8120, Mark Slots: 1, …}
+17 {Part Name: "00 Raiser", Part Type: "Back", Base Stat Total (BST): 5875, BST (w. Marks): 8225, Mark Slots: 1, …}
+18 {Part Name: "105mm Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 1628, BST (w. Marks): 4233, Mark Slots: 4, …}
+19 {Part Name: "110mm Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 5145, BST (w. Marks): 7203, Mark Slots: 1, …}
+20 {Part Name: "120mm Long-Range↵Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 5011, BST (w. Marks): 7015, Mark Slots: 1, …}
+21 {Part Name: "120mm Rifle↵[Ryusei-Go]", Part Type: "Ranged Wep.", Base Stat Total (BST): 3460, BST (w. Marks): 6228, Mark Slots: 2, …}
+22 {Part Name: "200mm x 25↵Smoothbore Gun", Part Type: "Ranged Wep.", Base Stat Total (BST): 3351, BST (w. Marks): 6032, Mark Slots: 2, …}
+23 {Part Name: "57mm High-Energy↵Beam Rifle (Aile Strike)", Part Type: "Ranged Wep.", Base Stat Total (BST): 5406, BST (w. Marks): 7568, Mark Slots: 1, …}
+24 {Part Name: "57mm High-Energy↵Beam Rifle (Duel)", Part Type: "Ranged Wep.", Base Stat Total (BST): 3743, BST (w. Marks): 6737, Mark Slots: 2, …}
+25 {Part Name: "60mm High-Energy↵Beam Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 5182, BST (w. Marks): 7255, Mark Slots: 1, …}
+26 {Part Name: "9.1m Experimental Anti-↵Ship Sword", Part Type: "Melee Wep.", Base Stat Total (BST): 3409, BST (w. Marks): 6136, Mark Slots: 2, …}
+27 {Part Name: "ABC Cloak", Part Type: "Shield", Base Stat Total (BST): 3305, BST (w. Marks): 5949, Mark Slots: 2, …}
+28 {Part Name: "ABC Cloak↵[X2]", Part Type: "Shield", Base Stat Total (BST): 5000, BST (w. Marks): 7000, Mark Slots: 1, …}
+29 {Part Name: "Abyss", Part Type: "Head", Base Stat Total (BST): 3834, BST (w. Marks): 6901, Mark Slots: 2, …}
+30 {Part Name: "Abyss", Part Type: "Torso", Base Stat Total (BST): 3618, BST (w. Marks): 6512, Mark Slots: 2, …}
+31 {Part Name: "Abyss", Part Type: "Arms", Base Stat Total (BST): 3743, BST (w. Marks): 6737, Mark Slots: 2, …}
+32 {Part Name: "Abyss", Part Type: "Legs", Base Stat Total (BST): 3334, BST (w. Marks): 6001, Mark Slots: 2, …}
+33 {Part Name: "Abyss", Part Type: "Back", Base Stat Total (BST): 3322, BST (w. Marks): 5980, Mark Slots: 2, …}
+34 {Part Name: "Acguy", Part Type: "Torso↵(+ Legs)", Base Stat Total (BST): 3038, BST (w. Marks): 5468, Mark Slots: 4, …}
+35 {Part Name: "Acguy", Part Type: "Head", Base Stat Total (BST): 1651, BST (w. Marks): 4293, Mark Slots: 4, …}
+36 {Part Name: "Acguy", Part Type: "Arms", Base Stat Total (BST): 1614, BST (w. Marks): 4196, Mark Slots: 4, …}
+37 {Part Name: "Acguy", Part Type: "Back", Base Stat Total (BST): 1554, BST (w. Marks): 4040, Mark Slots: 4, …}
+38 {Part Name: "Aegis", Part Type: "Torso", Base Stat Total (BST): 5360, BST (w. Marks): 7504, Mark Slots: 1, …}
+39 {Part Name: "Aegis", Part Type: "Head", Base Stat Total (BST): 5343, BST (w. Marks): 7480, Mark Slots: 1, …}
+40 {Part Name: "Aegis", Part Type: "Arms", Base Stat Total (BST): 5135, BST (w. Marks): 7189, Mark Slots: 1, …}
+41 {Part Name: "Aegis", Part Type: "Back", Base Stat Total (BST): 4954, BST (w. Marks): 6936, Mark Slots: 1, …}
+42 {Part Name: "Aegis", Part Type: "Legs", Base Stat Total (BST): 4954, BST (w. Marks): 6936, Mark Slots: 1, …}
+43 {Part Name: "AGE Normal", Part Type: "Head", Base Stat Total (BST): 3470, BST (w. Marks): 6246, Mark Slots: 2, …}
+44 {Part Name: "AGE Normal", Part Type: "Torso", Base Stat Total (BST): 3129, BST (w. Marks): 5632, Mark Slots: 2, …}
+45 {Part Name: "AGE Normal", Part Type: "Arms", Base Stat Total (BST): 3463, BST (w. Marks): 6233, Mark Slots: 2, …}
+46 {Part Name: "AGE Normal", Part Type: "Legs", Base Stat Total (BST): 3532, BST (w. Marks): 6358, Mark Slots: 2, …}
+47 {Part Name: "AGE Normal", Part Type: "Back", Base Stat Total (BST): 3532, BST (w. Marks): 6358, Mark Slots: 2, …}
+48 {Part Name: "AGE Titus", Part Type: "Back", Base Stat Total (BST): 3861, BST (w. Marks): 6950, Mark Slots: 2, …}
+49 {Part Name: "AGE Titus", Part Type: "Legs", Base Stat Total (BST): 3861, BST (w. Marks): 6950, Mark Slots: 2, …}
+50 {Part Name: "AGE Titus", Part Type: "Arms", Base Stat Total (BST): 3778, BST (w. Marks): 6800, Mark Slots: 2, …}
+51 {Part Name: "AGE Titus", Part Type: "Head", Base Stat Total (BST): 3778, BST (w. Marks): 6800, Mark Slots: 2, …}
+52 {Part Name: "AGE Titus", Part Type: "Torso", Base Stat Total (BST): 3647, BST (w. Marks): 6565, Mark Slots: 2, …}
+53 {Part Name: "AGE-2 Normal", Part Type: "Head", Base Stat Total (BST): 3912, BST (w. Marks): 7042, Mark Slots: 2, …}
+54 {Part Name: "AGE-2 Normal", Part Type: "Torso", Base Stat Total (BST): 3886, BST (w. Marks): 6995, Mark Slots: 2, …}
+55 {Part Name: "AGE-2 Normal", Part Type: "Arms", Base Stat Total (BST): 4309, BST (w. Marks): 7756, Mark Slots: 2, …}
+56 {Part Name: "AGE-2 Normal", Part Type: "Legs", Base Stat Total (BST): 3040, BST (w. Marks): 5472, Mark Slots: 2, …}
+57 {Part Name: "AGE-2 Normal", Part Type: "Back", Base Stat Total (BST): 3040, BST (w. Marks): 5472, Mark Slots: 2, …}
+58 {Part Name: "Aile Strike", Part Type: "Head", Base Stat Total (BST): 5370, BST (w. Marks): 7518, Mark Slots: 1, …}
+59 {Part Name: "Aile Strike", Part Type: "Arms", Base Stat Total (BST): 5148, BST (w. Marks): 7207, Mark Slots: 1, …}
+60 {Part Name: "Aile Strike", Part Type: "Torso", Base Stat Total (BST): 4973, BST (w. Marks): 6962, Mark Slots: 1, …}
+61 {Part Name: "Aile Strike", Part Type: "Back", Base Stat Total (BST): 4593, BST (w. Marks): 6430, Mark Slots: 1, …}
+62 {Part Name: "Aile Strike", Part Type: "Legs", Base Stat Total (BST): 4584, BST (w. Marks): 6418, Mark Slots: 1, …}
+63 {Part Name: "Aina Sahalin", Part Type: "Pilot", Base Stat Total (BST): 3719, BST (w. Marks): 3719, Mark Slots: 0, …}
+64 {Part Name: "Akahana", Part Type: "Pilot", Base Stat Total (BST): 2219, BST (w. Marks): 2219, Mark Slots: 0, …}
+65 {Part Name: "Akatsuki↵(Oowashi Pack)", Part Type: "Head", Base Stat Total (BST): 5353, BST (w. Marks): 7494, Mark Slots: 1, …}
+66 {Part Name: "Akatsuki↵(Oowashi Pack)", Part Type: "Torso", Base Stat Total (BST): 5356, BST (w. Marks): 7498, Mark Slots: 1, …}
+67 {Part Name: "Akatsuki↵(Oowashi Pack)", Part Type: "Arms", Base Stat Total (BST): 5357, BST (w. Marks): 7500, Mark Slots: 1, …}
+68 {Part Name: "Akatsuki↵(Oowashi Pack)", Part Type: "Legs", Base Stat Total (BST): 4759, BST (w. Marks): 6663, Mark Slots: 1, …}
+69 {Part Name: "Akatsuki↵(Oowashi Pack)", Part Type: "Back", Base Stat Total (BST): 4750, BST (w. Marks): 6650, Mark Slots: 1, …}
+70 {Part Name: "Amuro Ray", Part Type: "Pilot", Base Stat Total (BST): 5004, BST (w. Marks): 5004, Mark Slots: 0, …}
+71 {Part Name: "Amuro Ray↵(Pre-Reg. Reward)", Part Type: "Pilot", Base Stat Total (BST): 2175, BST (w. Marks): 2175, Mark Slots: 0, …}
+72 {Part Name: "Anavel Gato", Part Type: "Pilot", Base Stat Total (BST): 5157, BST (w. Marks): 5157, Mark Slots: 0, …}
+73 {Part Name: "Andrew Waltfeld", Part Type: "Pilot", Base Stat Total (BST): 3472, BST (w. Marks): 3472, Mark Slots: 0, …}
+74 {Part Name: "Angelo Sauper", Part Type: "Pilot", Base Stat Total (BST): 3394, BST (w. Marks): 3394, Mark Slots: 0, …}
+75 {Part Name: "Anti-Beam Shield", Part Type: "Shield", Base Stat Total (BST): 5523, BST (w. Marks): 7732, Mark Slots: 1, …}
+76 {Part Name: "Anti-Beam Shield↵(Aegis)", Part Type: "Shield", Base Stat Total (BST): 4598, BST (w. Marks): 6437, Mark Slots: 1, …}
+77 {Part Name: "Anti-Beam Shield↵(Aile Strike)", Part Type: "Shield", Base Stat Total (BST): 4605, BST (w. Marks): 6447, Mark Slots: 1, …}
+78 {Part Name: "Anti-Beam Shield↵(Blue Frame)", Part Type: "Shield", Base Stat Total (BST): 4964, BST (w. Marks): 6950, Mark Slots: 1, …}
+79 {Part Name: "Anti-Beam Shield↵(Duel)", Part Type: "Shield", Base Stat Total (BST): 3305, BST (w. Marks): 5949, Mark Slots: 2, …}
+80 {Part Name: "Anti-Beam Shield↵(Green Frame)", Part Type: "Shield", Base Stat Total (BST): 2279, BST (w. Marks): 5014, Mark Slots: 3, …}
+81 {Part Name: "Anti-Beam Shield↵(Red Frame)", Part Type: "Shield", Base Stat Total (BST): 4532, BST (w. Marks): 6345, Mark Slots: 1, …}
+82 {Part Name: "Anti-Beam Shield↵(Strike Rouge)", Part Type: "Shield", Base Stat Total (BST): 3552, BST (w. Marks): 6394, Mark Slots: 2, …}
+83 {Part Name: "Anti-Material Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 4169, BST (w. Marks): 5837, Mark Slots: 1, …}
+84 {Part Name: "Anti-Ship Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 1497, BST (w. Marks): 3892, Mark Slots: 4, …}
+85 {Part Name: "Anti-Ship Rifle [ALT]", Part Type: "Ranged Wep.", Base Stat Total (BST): 1497, BST (w. Marks): 3892, Mark Slots: 4, …}
+86 {Part Name: "Apolly Bay", Part Type: "Pilot", Base Stat Total (BST): 2175, BST (w. Marks): 2175, Mark Slots: 0, …}
+87 {Part Name: "Arche", Part Type: "Head", Base Stat Total (BST): 3965, BST (w. Marks): 7137, Mark Slots: 2, …}
+88 {Part Name: "Arche", Part Type: "Torso", Base Stat Total (BST): 3928, BST (w. Marks): 7070, Mark Slots: 2, …}
+89 {Part Name: "Arche", Part Type: "Arms", Base Stat Total (BST): 4325, BST (w. Marks): 7785, Mark Slots: 2, …}
+90 {Part Name: "Arche", Part Type: "Legs", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+91 {Part Name: "Arche", Part Type: "Back", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+92 {Part Name: "Arondight↵(Artemis)", Part Type: "Melee Wep.", Base Stat Total (BST): 4793, BST (w. Marks): 6710, Mark Slots: 1, …}
+93 {Part Name: "Arondight↵(Destiny)", Part Type: "Melee Wep.", Base Stat Total (BST): 5171, BST (w. Marks): 7239, Mark Slots: 1, …}
+94 {Part Name: "Artemis", Part Type: "Torso", Base Stat Total (BST): 5337, BST (w. Marks): 7472, Mark Slots: 1, …}
+95 {Part Name: "Artemis", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 10758, BST (w. Marks): 12910, Mark Slots: 1, …}
+96 {Part Name: "Artemis", Part Type: "Head", Base Stat Total (BST): 5566, BST (w. Marks): 7792, Mark Slots: 1, …}
+97 {Part Name: "Artemis", Part Type: "Back", Base Stat Total (BST): 4949, BST (w. Marks): 6929, Mark Slots: 1, …}
+98 {Part Name: "Artemis", Part Type: "Legs", Base Stat Total (BST): 4949, BST (w. Marks): 6929, Mark Slots: 1, …}
+99 {Part Name: "Asagi Caldwell", Part Type: "Pilot", Base Stat Total (BST): 2438, BST (w. Marks): 2438, Mark Slots: 0, …}
+100 {Part Name: "Astaroth", Part Type: "Head", Base Stat Total (BST): 5324, BST (w. Marks): 7454, Mark Slots: 1, …}
+101 {Part Name: "Astaroth", Part Type: "Torso", Base Stat Total (BST): 5364, BST (w. Marks): 7510, Mark Slots: 1, …}
+102 {Part Name: "Astaroth", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 10548, BST (w. Marks): 12658, Mark Slots: 1, …}
+103 {Part Name: "Astaroth", Part Type: "Legs", Base Stat Total (BST): 4098, BST (w. Marks): 5737, Mark Slots: 1, …}
+104 {Part Name: "Astaroth", Part Type: "Back", Base Stat Total (BST): 4098, BST (w. Marks): 5737, Mark Slots: 1, …}
+105 {Part Name: "Astray Blue Frame", Part Type: "Head", Base Stat Total (BST): 5130, BST (w. Marks): 7182, Mark Slots: 1, …}
+106 {Part Name: "Astray Blue Frame", Part Type: "Torso", Base Stat Total (BST): 4950, BST (w. Marks): 6930, Mark Slots: 1, …}
+107 {Part Name: "Astray Blue Frame", Part Type: "Arms", Base Stat Total (BST): 5341, BST (w. Marks): 7477, Mark Slots: 1, …}
+108 {Part Name: "Astray Blue Frame", Part Type: "Legs", Base Stat Total (BST): 5388, BST (w. Marks): 7543, Mark Slots: 1, …}
+109 {Part Name: "Astray Blue Frame", Part Type: "Back", Base Stat Total (BST): 5388, BST (w. Marks): 7543, Mark Slots: 1, …}
+110 {Part Name: "Astray Gold Frame↵Amatsu", Part Type: "Head", Base Stat Total (BST): 5560, BST (w. Marks): 7784, Mark Slots: 1, …}
+111 {Part Name: "Astray Gold Frame↵Amatsu", Part Type: "Torso", Base Stat Total (BST): 5332, BST (w. Marks): 7465, Mark Slots: 1, …}
+112 {Part Name: "Astray Gold Frame↵Amatsu", Part Type: "Arms", Base Stat Total (BST): 5912, BST (w. Marks): 8277, Mark Slots: 1, …}
+113 {Part Name: "Astray Gold Frame↵Amatsu", Part Type: "Legs", Base Stat Total (BST): 4942, BST (w. Marks): 6919, Mark Slots: 1, …}
+114 {Part Name: "Astray Gold Frame↵Amatsu", Part Type: "Back", Base Stat Total (BST): 4942, BST (w. Marks): 6919, Mark Slots: 1, …}
+115 {Part Name: "Astray Green Frame", Part Type: "Arms", Base Stat Total (BST): 2795, BST (w. Marks): 6149, Mark Slots: 3, …}
+116 {Part Name: "Astray Green Frame", Part Type: "Torso", Base Stat Total (BST): 2528, BST (w. Marks): 5562, Mark Slots: 3, …}
+117 {Part Name: "Astray Green Frame", Part Type: "Back", Base Stat Total (BST): 2338, BST (w. Marks): 5144, Mark Slots: 3, …}
+118 {Part Name: "Astray Green Frame", Part Type: "Legs", Base Stat Total (BST): 2338, BST (w. Marks): 5144, Mark Slots: 3, …}
+119 {Part Name: "Astray Green Frame", Part Type: "Head", Base Stat Total (BST): 2160, BST (w. Marks): 4752, Mark Slots: 3, …}
+120 {Part Name: "Astray Red Frame", Part Type: "Head", Base Stat Total (BST): 4916, BST (w. Marks): 6882, Mark Slots: 1, …}
+121 {Part Name: "Astray Red Frame", Part Type: "Torso", Base Stat Total (BST): 5327, BST (w. Marks): 7458, Mark Slots: 1, …}
+122 {Part Name: "Astray Red Frame", Part Type: "Arms", Base Stat Total (BST): 5941, BST (w. Marks): 8317, Mark Slots: 1, …}
+123 {Part Name: "Astray Red Frame", Part Type: "Legs", Base Stat Total (BST): 4878, BST (w. Marks): 6829, Mark Slots: 1, …}
+124 {Part Name: "Astray Red Frame", Part Type: "Back", Base Stat Total (BST): 4884, BST (w. Marks): 6838, Mark Slots: 1, …}
+125 {Part Name: "Astray Red Frame↵(Beginner Campaign)", Part Type: "Head", Base Stat Total (BST): 4207, BST (w. Marks): 5890, Mark Slots: 1, …}
+126 {Part Name: "Astray Red Frame↵(Beginner Campaign)", Part Type: "Torso", Base Stat Total (BST): 4626, BST (w. Marks): 6476, Mark Slots: 1, …}
+127 {Part Name: "Astray Red Frame↵(Beginner Campaign)", Part Type: "Arms", Base Stat Total (BST): 5387, BST (w. Marks): 7542, Mark Slots: 1, …}
+128 {Part Name: "Astray Red Frame↵(Beginner Campaign)", Part Type: "Legs", Base Stat Total (BST): 4369, BST (w. Marks): 6117, Mark Slots: 1, …}
+129 {Part Name: "Astray Red Frame↵(Beginner Campaign)", Part Type: "Back", Base Stat Total (BST): 4369, BST (w. Marks): 6117, Mark Slots: 1, …}
+130 {Part Name: "Astray Red Frame↵Custom", Part Type: "Head", Base Stat Total (BST): 4511, BST (w. Marks): 6315, Mark Slots: 1, …}
+131 {Part Name: "Astray Red Frame↵Custom", Part Type: "Torso", Base Stat Total (BST): 5359, BST (w. Marks): 7503, Mark Slots: 1, …}
+132 {Part Name: "Astray Red Frame↵Custom", Part Type: "Arms", Base Stat Total (BST): 5939, BST (w. Marks): 8315, Mark Slots: 1, …}
+133 {Part Name: "Astray Red Frame↵Custom", Part Type: "Legs", Base Stat Total (BST): 4682, BST (w. Marks): 6555, Mark Slots: 1, …}
+134 {Part Name: "Astray Red Frame↵Custom", Part Type: "Back", Base Stat Total (BST): 4682, BST (w. Marks): 6555, Mark Slots: 1, …}
+135 {Part Name: "Athrun Zala", Part Type: "Pilot", Base Stat Total (BST): 5171, BST (w. Marks): 5171, Mark Slots: 0, …}
+136 {Part Name: "Atomic Bazooka", Part Type: "Ranged Wep.", Base Stat Total (BST): 5011, BST (w. Marks): 7015, Mark Slots: 1, …}
+137 {Part Name: "Auel Neider", Part Type: "Pilot", Base Stat Total (BST): 3739, BST (w. Marks): 3739, Mark Slots: 0, …}
+138 {Part Name: "Bael", Part Type: "Head", Base Stat Total (BST): 4556, BST (w. Marks): 6378, Mark Slots: 1, …}
+139 {Part Name: "Bael", Part Type: "Torso", Base Stat Total (BST): 5379, BST (w. Marks): 7531, Mark Slots: 1, …}
+140 {Part Name: "Bael", Part Type: "Arms", Base Stat Total (BST): 5931, BST (w. Marks): 8303, Mark Slots: 1, …}
+141 {Part Name: "Bael", Part Type: "Legs", Base Stat Total (BST): 4990, BST (w. Marks): 6986, Mark Slots: 1, …}
+142 {Part Name: "Bael", Part Type: "Back", Base Stat Total (BST): 4990, BST (w. Marks): 6986, Mark Slots: 1, …}
+143 {Part Name: "Bael Sword", Part Type: "Melee Wep.", Base Stat Total (BST): 5011, BST (w. Marks): 7015, Mark Slots: 1, …}
+144 {Part Name: "Banshee", Part Type: "Head", Base Stat Total (BST): 5960, BST (w. Marks): 8344, Mark Slots: 1, …}
+145 {Part Name: "Banshee", Part Type: "Torso", Base Stat Total (BST): 6229, BST (w. Marks): 8721, Mark Slots: 1, …}
+146 {Part Name: "Banshee", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 11705, BST (w. Marks): 14046, Mark Slots: 1, …}
+147 {Part Name: "Banshee", Part Type: "Legs", Base Stat Total (BST): 5546, BST (w. Marks): 7764, Mark Slots: 1, …}
+148 {Part Name: "Banshee", Part Type: "Back", Base Stat Total (BST): 5546, BST (w. Marks): 7764, Mark Slots: 1, …}
+149 {Part Name: "Barbatos↵(4th Form)", Part Type: "Arms", Base Stat Total (BST): 5950, BST (w. Marks): 8330, Mark Slots: 1, …}
+150 {Part Name: "Barbatos↵(4th Form)", Part Type: "Torso", Base Stat Total (BST): 5382, BST (w. Marks): 7535, Mark Slots: 1, …}
+151 {Part Name: "Barbatos↵(4th Form)", Part Type: "Legs", Base Stat Total (BST): 4165, BST (w. Marks): 5831, Mark Slots: 1, …}
+152 {Part Name: "Barbatos↵(4th Form)", Part Type: "Back", Base Stat Total (BST): 4145, BST (w. Marks): 5803, Mark Slots: 1, …}
+153 {Part Name: "Barbatos↵(4th Form)", Part Type: "Head", Base Stat Total (BST): 5361, BST (w. Marks): 7505, Mark Slots: 1, …}
+154 {Part Name: "Barbatos↵(6th Form)", Part Type: "Head", Base Stat Total (BST): 4511, BST (w. Marks): 6315, Mark Slots: 1, …}
+155 {Part Name: "Barbatos↵(6th Form)", Part Type: "Torso", Base Stat Total (BST): 5359, BST (w. Marks): 7503, Mark Slots: 1, …}
+156 {Part Name: "Barbatos↵(6th Form)", Part Type: "Arms", Base Stat Total (BST): 5939, BST (w. Marks): 8315, Mark Slots: 1, …}
+157 {Part Name: "Barbatos↵(6th Form)", Part Type: "Legs", Base Stat Total (BST): 4682, BST (w. Marks): 6555, Mark Slots: 1, …}
+158 {Part Name: "Barbatos↵(6th Form)", Part Type: "Back", Base Stat Total (BST): 4682, BST (w. Marks): 6555, Mark Slots: 1, …}
+159 {Part Name: "Barbatos Lupus", Part Type: "Head", Base Stat Total (BST): 5533, BST (w. Marks): 7746, Mark Slots: 1, …}
+160 {Part Name: "Barbatos Lupus", Part Type: "Torso", Base Stat Total (BST): 6213, BST (w. Marks): 8698, Mark Slots: 1, …}
+161 {Part Name: "Barbatos Lupus", Part Type: "Arms", Base Stat Total (BST): 6705, BST (w. Marks): 9387, Mark Slots: 1, …}
+162 {Part Name: "Barbatos Lupus", Part Type: "Legs", Base Stat Total (BST): 5910, BST (w. Marks): 8274, Mark Slots: 1, …}
+163 {Part Name: "Barbatos Lupus", Part Type: "Back", Base Stat Total (BST): 5910, BST (w. Marks): 8274, Mark Slots: 1, …}
+164 {Part Name: "Battle Axe↵[Ryusei-Go]", Part Type: "Melee Wep.", Base Stat Total (BST): 3460, BST (w. Marks): 6228, Mark Slots: 2, …}
+165 {Part Name: "Bazooka↵(Serpent)", Part Type: "Ranged Wep.", Base Stat Total (BST): 1638, BST (w. Marks): 4259, Mark Slots: 4, …}
+166 {Part Name: "Bazooka [ALT]↵(Serpent)", Part Type: "Ranged Wep.", Base Stat Total (BST): 1638, BST (w. Marks): 4259, Mark Slots: 4, …}
+167 {Part Name: "Beam Cannon↵(Serpent)", Part Type: "Ranged Wep.", Base Stat Total (BST): 1638, BST (w. Marks): 4259, Mark Slots: 4, …}
+168 {Part Name: "Beam Cannon [ALT]↵(Serpent)", Part Type: "Ranged Wep.", Base Stat Total (BST): 1638, BST (w. Marks): 4259, Mark Slots: 4, …}
+169 {Part Name: "Beam Gatling Gun", Part Type: "Ranged Wep.↵(+ Shield)", Base Stat Total (BST): 6954, BST (w. Marks): 9736, Mark Slots: 2, …}
+170 {Part Name: "Beam Glaive", Part Type: "Melee Wep.", Base Stat Total (BST): 4583, BST (w. Marks): 6416, Mark Slots: 1, …}
+171 {Part Name: "Beam Gun↵(GM Command)", Part Type: "Ranged Wep.", Base Stat Total (BST): 1667, BST (w. Marks): 4334, Mark Slots: 4, …}
+172 {Part Name: "Beam Javelin", Part Type: "Melee Wep.", Base Stat Total (BST): 4806, BST (w. Marks): 6728, Mark Slots: 1, …}
+173 {Part Name: "Beam Javelin↵(DX)", Part Type: "Melee Wep.", Base Stat Total (BST): 5380, BST (w. Marks): 7532, Mark Slots: 1, …}
+174 {Part Name: "Beam Javelin↵(Pre-Reg. Reward)", Part Type: "Melee Wep.", Base Stat Total (BST): 2251, BST (w. Marks): 4952, Mark Slots: 3, …}
+175 {Part Name: "Beam Lance↵(Abyss)", Part Type: "Melee Wep.", Base Stat Total (BST): 3117, BST (w. Marks): 5611, Mark Slots: 2, …}
+176 {Part Name: "Beam Launcher↵(F91)", Part Type: "Ranged Wep.", Base Stat Total (BST): 4806, BST (w. Marks): 6728, Mark Slots: 1, …}
+177 {Part Name: "Beam Machine Gun↵(Geara Doga)", Part Type: "Ranged Wep.", Base Stat Total (BST): 2141, BST (w. Marks): 4710, Mark Slots: 3, …}
+178 {Part Name: "Beam Machine Gun↵(Gerbera Tetra)", Part Type: "Ranged Wep.", Base Stat Total (BST): 3743, BST (w. Marks): 6737, Mark Slots: 2, …}
+179 {Part Name: "Beam Machine Gun↵(X Divider)", Part Type: "Ranged Wep.", Base Stat Total (BST): 5184, BST (w. Marks): 7258, Mark Slots: 1, …}
+180 {Part Name: "Beam Magnum", Part Type: "Ranged Wep.", Base Stat Total (BST): 5145, BST (w. Marks): 7203, Mark Slots: 1, …}
+181 {Part Name: "Beam Rapier", Part Type: "Melee Wep.", Base Stat Total (BST): 4407, BST (w. Marks): 6170, Mark Slots: 1, …}
+182 {Part Name: "Beam Ribbon", Part Type: "Melee Wep.", Base Stat Total (BST): 5228, BST (w. Marks): 7319, Mark Slots: 1, …}
+183 {Part Name: "Beam Rifle↵(Artemis)", Part Type: "Ranged Wep.", Base Stat Total (BST): 4793, BST (w. Marks): 6710, Mark Slots: 1, …}
+184 {Part Name: "Beam Rifle↵(Beginning 30)", Part Type: "Ranged Wep.", Base Stat Total (BST): 4402, BST (w. Marks): 6163, Mark Slots: 1, …}
+185 {Part Name: "Beam Rifle↵(Build Gundam Mk-II)", Part Type: "Ranged Wep.", Base Stat Total (BST): 3743, BST (w. Marks): 6737, Mark Slots: 2, …}
+186 {Part Name: "Beam Rifle↵(Build Strike)", Part Type: "Ranged Wep.", Base Stat Total (BST): 4806, BST (w. Marks): 6728, Mark Slots: 1, …}
+187 {Part Name: "Beam Rifle↵(Code Phi)", Part Type: "Ranged Wep.", Base Stat Total (BST): 4169, BST (w. Marks): 5837, Mark Slots: 1, …}
+188 {Part Name: "Beam Rifle↵(Delta Plus)", Part Type: "Ranged Wep.", Base Stat Total (BST): 3195, BST (w. Marks): 5751, Mark Slots: 2, …}
+189 {Part Name: "Beam Rifle↵(Doven Wolf)", Part Type: "Ranged Wep.", Base Stat Total (BST): 2202, BST (w. Marks): 4844, Mark Slots: 3, …}
+190 {Part Name: "Beam Rifle↵(EARTHREE)", Part Type: "Ranged Wep.", Base Stat Total (BST): 4788, BST (w. Marks): 6703, Mark Slots: 1, …}
+191 {Part Name: "Beam Rifle↵(F91)", Part Type: "Ranged Wep.", Base Stat Total (BST): 4806, BST (w. Marks): 6728, Mark Slots: 1, …}
+192 {Part Name: "Beam Rifle↵(Gelgoog)", Part Type: "Ranged Wep.", Base Stat Total (BST): 1487, BST (w. Marks): 3866, Mark Slots: 4, …}
+193 {Part Name: "Beam Rifle↵(GP01)", Part Type: "Ranged Wep.", Base Stat Total (BST): 4583, BST (w. Marks): 6416, Mark Slots: 1, …}
+194 {Part Name: "Beam Rifle↵(Guncannon)", Part Type: "Ranged Wep.", Base Stat Total (BST): 1663, BST (w. Marks): 4324, Mark Slots: 4, …}
+195 {Part Name: "Beam Rifle↵(Gundam)", Part Type: "Ranged Wep.", Base Stat Total (BST): 4806, BST (w. Marks): 6728, Mark Slots: 1, …}
+196 {Part Name: "Beam Rifle↵(Hyaku Shiki)", Part Type: "Ranged Wep.", Base Stat Total (BST): 3883, BST (w. Marks): 6989, Mark Slots: 2, …}
+197 {Part Name: "Beam Rifle↵(Jesta Cannon)", Part Type: "Ranged Wep.", Base Stat Total (BST): 2333, BST (w. Marks): 5133, Mark Slots: 3, …}
+198 {Part Name: "Beam Rifle↵(Jesta)", Part Type: "Ranged Wep.", Base Stat Total (BST): 2246, BST (w. Marks): 4941, Mark Slots: 3, …}
+199 {Part Name: "Beam Rifle↵(Mk-II)", Part Type: "Ranged Wep.", Base Stat Total (BST): 1952, BST (w. Marks): 4294, Mark Slots: 3, …}
+200 {Part Name: "Beam Rifle↵(Moon)", Part Type: "Ranged Wep.", Base Stat Total (BST): 4597, BST (w. Marks): 6436, Mark Slots: 1, …}
+201 {Part Name: "Beam Rifle↵(NT-1)", Part Type: "Ranged Wep.", Base Stat Total (BST): 4380, BST (w. Marks): 6132, Mark Slots: 1, …}
+202 {Part Name: "Beam Rifle↵(Nu Ver.Ka)", Part Type: "Ranged Wep.", Base Stat Total (BST): 5412, BST (w. Marks): 7577, Mark Slots: 1, …}
+203 {Part Name: "Beam Rifle↵(Rebawoo)", Part Type: "Ranged Wep.", Base Stat Total (BST): 3320, BST (w. Marks): 5976, Mark Slots: 2, …}
+204 {Part Name: "Beam Rifle↵(Stark Jegan)", Part Type: "Ranged Wep.", Base Stat Total (BST): 1772, BST (w. Marks): 4607, Mark Slots: 4, …}
+205 {Part Name: "Beam Rifle↵(TR-1 Advanced Hazel)", Part Type: "Ranged Wep.", Base Stat Total (BST): 3351, BST (w. Marks): 6032, Mark Slots: 2, …}
+206 {Part Name: "Beam Rifle↵(Turn A)", Part Type: "Ranged Wep.", Base Stat Total (BST): 4844, BST (w. Marks): 6782, Mark Slots: 1, …}
+207 {Part Name: "Beam Rifle↵(Victory)", Part Type: "Ranged Wep.", Base Stat Total (BST): 4589, BST (w. Marks): 6425, Mark Slots: 1, …}
+208 {Part Name: "Beam Rifle↵(Zeta)", Part Type: "Ranged Wep.", Base Stat Total (BST): 5170, BST (w. Marks): 7238, Mark Slots: 1, …}
+209 {Part Name: "Beam Rifle↵[Lightning]", Part Type: "Ranged Wep.", Base Stat Total (BST): 5011, BST (w. Marks): 7015, Mark Slots: 1, …}
+210 {Part Name: "Beam Rifle↵[Long Barrel]", Part Type: "Ranged Wep.", Base Stat Total (BST): 5011, BST (w. Marks): 7015, Mark Slots: 1, …}
+211 {Part Name: "Beam Rifle (Gundam)↵(Pre-Reg. Reward)", Part Type: "Ranged Wep.", Base Stat Total (BST): 2251, BST (w. Marks): 4952, Mark Slots: 3, …}
+212 {Part Name: "Beam Rifle [ALT]↵(Doven Wolf)", Part Type: "Ranged Wep.", Base Stat Total (BST): 2202, BST (w. Marks): 4844, Mark Slots: 3, …}
+213 {Part Name: "Beam Rifle [ALT]↵(Jesta Cannon)", Part Type: "Ranged Wep.", Base Stat Total (BST): 2333, BST (w. Marks): 5133, Mark Slots: 3, …}
+214 {Part Name: "Beam Rifle [ALT]↵(Stark Jegan)", Part Type: "Ranged Wep.", Base Stat Total (BST): 1772, BST (w. Marks): 4607, Mark Slots: 4, …}
+215 {Part Name: "Beam Rifle Mk-II", Part Type: "Ranged Wep.", Base Stat Total (BST): 3743, BST (w. Marks): 6737, Mark Slots: 2, …}
+216 {Part Name: "Beam Ring", Part Type: "Melee Wep.", Base Stat Total (BST): 3409, BST (w. Marks): 6136, Mark Slots: 2, …}
+217 {Part Name: "Beam Saber", Part Type: "Melee Wep.", Base Stat Total (BST): 1713, BST (w. Marks): 4454, Mark Slots: 4, …}
+218 {Part Name: "Beam Saber↵(Aile Strike)", Part Type: "Melee Wep.", Base Stat Total (BST): 4407, BST (w. Marks): 6170, Mark Slots: 1, …}
+219 {Part Name: "Beam Saber↵(Beginning 30)", Part Type: "Melee Wep.", Base Stat Total (BST): 5402, BST (w. Marks): 7563, Mark Slots: 1, …}
+220 {Part Name: "Beam Saber↵(Build Gundam Mk-II)", Part Type: "Melee Wep.", Base Stat Total (BST): 3309, BST (w. Marks): 5956, Mark Slots: 2, …}
+221 {Part Name: "Beam Saber↵(Delta Plus)", Part Type: "Melee Wep.", Base Stat Total (BST): 3906, BST (w. Marks): 7031, Mark Slots: 2, …}
+222 {Part Name: "Beam Saber↵(EARTHREE)", Part Type: "Melee Wep.", Base Stat Total (BST): 4788, BST (w. Marks): 6703, Mark Slots: 1, …}
+223 {Part Name: "Beam Saber↵(F91)", Part Type: "Melee Wep.", Base Stat Total (BST): 4806, BST (w. Marks): 6728, Mark Slots: 1, …}
+224 {Part Name: "Beam Saber↵(Gundam)", Part Type: "Melee Wep.", Base Stat Total (BST): 4806, BST (w. Marks): 6728, Mark Slots: 1, …}
+225 {Part Name: "Beam Saber↵(Hyaku Shiki)", Part Type: "Melee Wep.", Base Stat Total (BST): 3117, BST (w. Marks): 5611, Mark Slots: 2, …}
+226 {Part Name: "Beam Saber↵(Mk-II)", Part Type: "Melee Wep.", Base Stat Total (BST): 2496, BST (w. Marks): 5491, Mark Slots: 3, …}
+227 {Part Name: "Beam Saber↵(Nu Ver.Ka)", Part Type: "Melee Wep.", Base Stat Total (BST): 5017, BST (w. Marks): 7024, Mark Slots: 1, …}
+228 {Part Name: "Beam Saber↵(Sazabi)", Part Type: "Melee Wep.", Base Stat Total (BST): 5412, BST (w. Marks): 7577, Mark Slots: 1, …}
+229 {Part Name: "Beam Saber↵(Turn A)", Part Type: "Melee Wep.", Base Stat Total (BST): 5988, BST (w. Marks): 8383, Mark Slots: 1, …}
+230 {Part Name: "Beam Saber↵(Unicorn)", Part Type: "Melee Wep.", Base Stat Total (BST): 5380, BST (w. Marks): 7532, Mark Slots: 1, …}
+231 {Part Name: "Beam Saber↵(Victory)", Part Type: "Melee Wep.", Base Stat Total (BST): 5011, BST (w. Marks): 7015, Mark Slots: 1, …}
+232 {Part Name: "Beam Saber↵(Virsago)", Part Type: "Melee Wep.", Base Stat Total (BST): 4575, BST (w. Marks): 6405, Mark Slots: 1, …}
+233 {Part Name: "Beam Saber↵(Wing)", Part Type: "Melee Wep.", Base Stat Total (BST): 4995, BST (w. Marks): 6993, Mark Slots: 1, …}
+234 {Part Name: "Beam Saber↵(Zeta)", Part Type: "Melee Wep.", Base Stat Total (BST): 5170, BST (w. Marks): 7238, Mark Slots: 1, …}
+235 {Part Name: "Beam Saber (Gundam)↵(Pre-Reg. Reward)", Part Type: "Melee Wep.", Base Stat Total (BST): 2251, BST (w. Marks): 4952, Mark Slots: 3, …}
+236 {Part Name: "Beam Saber (Wing)↵(Pre-Reg. Reward)", Part Type: "Melee Wep.", Base Stat Total (BST): 2141, BST (w. Marks): 4710, Mark Slots: 3, …}
+237 {Part Name: "Beam Saber with Heat↵Knife", Part Type: "Melee Wep.", Base Stat Total (BST): 3164, BST (w. Marks): 5695, Mark Slots: 2, …}
+238 {Part Name: "Beam Scissors", Part Type: "Melee Wep.", Base Stat Total (BST): 5386, BST (w. Marks): 7540, Mark Slots: 1, …}
+239 {Part Name: "Beam Scythe", Part Type: "Melee Wep.", Base Stat Total (BST): 5011, BST (w. Marks): 7015, Mark Slots: 1, …}
+240 {Part Name: "Beam Scythe↵(Code Phi)", Part Type: "Melee Wep.", Base Stat Total (BST): 5363, BST (w. Marks): 7508, Mark Slots: 1, …}
+241 {Part Name: "Beam Shot Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 5806, BST (w. Marks): 8128, Mark Slots: 1, …}
+242 {Part Name: "Beam Shotgun", Part Type: "Ranged Wep.", Base Stat Total (BST): 3409, BST (w. Marks): 6136, Mark Slots: 2, …}
+243 {Part Name: "Beam Spray Gun", Part Type: "Ranged Wep.", Base Stat Total (BST): 1542, BST (w. Marks): 4009, Mark Slots: 4, …}
+244 {Part Name: "Beam Sword-Axe", Part Type: "Melee Wep.", Base Stat Total (BST): 2333, BST (w. Marks): 5133, Mark Slots: 3, …}
+245 {Part Name: "Beam Tomahawk↵(Dreissen)", Part Type: "Melee Wep.", Base Stat Total (BST): 1723, BST (w. Marks): 4480, Mark Slots: 4, …}
+246 {Part Name: "Beam Tomahawk↵(Moon)", Part Type: "Melee Wep.", Base Stat Total (BST): 4995, BST (w. Marks): 6993, Mark Slots: 1, …}
+247 {Part Name: "Beam Tomahawk↵(Sazabi)", Part Type: "Melee Wep.", Base Stat Total (BST): 5412, BST (w. Marks): 7577, Mark Slots: 1, …}
+248 {Part Name: "Beam Zanba", Part Type: "Melee Wep.", Base Stat Total (BST): 3906, BST (w. Marks): 7031, Mark Slots: 2, …}
+249 {Part Name: "Beam Zanba↵[X2]", Part Type: "Melee Wep.", Base Stat Total (BST): 4589, BST (w. Marks): 6425, Mark Slots: 1, …}
+250 {Part Name: "Beargguy", Part Type: "Arms", Base Stat Total (BST): 3983, BST (w. Marks): 7169, Mark Slots: 2, …}
+251 {Part Name: "Beargguy", Part Type: "Back", Base Stat Total (BST): 3814, BST (w. Marks): 6865, Mark Slots: 2, …}
+252 {Part Name: "Beargguy", Part Type: "Torso↵(+ Legs)", Base Stat Total (BST): 7601, BST (w. Marks): 10641, Mark Slots: 2, …}
+253 {Part Name: "Beargguy", Part Type: "Head", Base Stat Total (BST): 3745, BST (w. Marks): 6741, Mark Slots: 2, …}
+254 {Part Name: "Beargguy [ALT]", Part Type: "Arms", Base Stat Total (BST): 3983, BST (w. Marks): 7169, Mark Slots: 2, …}
+255 {Part Name: "Beargguy [ALT]", Part Type: "Back", Base Stat Total (BST): 3814, BST (w. Marks): 6865, Mark Slots: 2, …}
+256 {Part Name: "Beargguy [ALT]", Part Type: "Torso↵(+ Legs)", Base Stat Total (BST): 7601, BST (w. Marks): 10641, Mark Slots: 2, …}
+257 {Part Name: "Beargguy [ALT]", Part Type: "Head", Base Stat Total (BST): 3745, BST (w. Marks): 6741, Mark Slots: 2, …}
+258 {Part Name: "Beginning 30", Part Type: "Head", Base Stat Total (BST): 5356, BST (w. Marks): 7498, Mark Slots: 1, …}
+259 {Part Name: "Beginning 30", Part Type: "Torso", Base Stat Total (BST): 5382, BST (w. Marks): 7535, Mark Slots: 1, …}
+260 {Part Name: "Beginning 30", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 10586, BST (w. Marks): 12703, Mark Slots: 1, …}
+261 {Part Name: "Beginning 30", Part Type: "Legs", Base Stat Total (BST): 4165, BST (w. Marks): 5831, Mark Slots: 1, …}
+262 {Part Name: "Beginning 30", Part Type: "Back", Base Stat Total (BST): 4165, BST (w. Marks): 5831, Mark Slots: 1, …}
+263 {Part Name: "Beginning 30↵(Beginner Campaign)", Part Type: "Head", Base Stat Total (BST): 4859, BST (w. Marks): 6803, Mark Slots: 1, …}
+264 {Part Name: "Beginning 30↵(Beginner Campaign)", Part Type: "Torso", Base Stat Total (BST): 4698, BST (w. Marks): 6577, Mark Slots: 1, …}
+265 {Part Name: "Beginning 30↵(Beginner Campaign)", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 9938, BST (w. Marks): 11926, Mark Slots: 1, …}
+266 {Part Name: "Beginning 30↵(Beginner Campaign)", Part Type: "Legs", Base Stat Total (BST): 3702, BST (w. Marks): 5183, Mark Slots: 1, …}
+267 {Part Name: "Beginning 30↵(Beginner Campaign)", Part Type: "Back", Base Stat Total (BST): 3702, BST (w. Marks): 5183, Mark Slots: 1, …}
+268 {Part Name: "Bernard Wiseman", Part Type: "Pilot", Base Stat Total (BST): 4795, BST (w. Marks): 4795, Mark Slots: 0, …}
+269 {Part Name: "BIG BEAM BAZOOKA", Part Type: "Ranged Wep.", Base Stat Total (BST): 5406, BST (w. Marks): 7568, Mark Slots: 1, …}
+270 {Part Name: "Blitz", Part Type: "Torso", Base Stat Total (BST): 3637, BST (w. Marks): 6547, Mark Slots: 2, …}
+271 {Part Name: "Blitz", Part Type: "Arms", Base Stat Total (BST): 3944, BST (w. Marks): 7099, Mark Slots: 2, …}
+272 {Part Name: "Blitz", Part Type: "Back", Base Stat Total (BST): 3848, BST (w. Marks): 6926, Mark Slots: 2, …}
+273 {Part Name: "Blitz", Part Type: "Legs", Base Stat Total (BST): 3848, BST (w. Marks): 6926, Mark Slots: 2, …}
+274 {Part Name: "Blitz", Part Type: "Head", Base Stat Total (BST): 3818, BST (w. Marks): 6872, Mark Slots: 2, …}
+275 {Part Name: "Blue Destiny Unit-1", Part Type: "Head", Base Stat Total (BST): 3965, BST (w. Marks): 7137, Mark Slots: 2, …}
+276 {Part Name: "Blue Destiny Unit-1", Part Type: "Torso", Base Stat Total (BST): 3928, BST (w. Marks): 7070, Mark Slots: 2, …}
+277 {Part Name: "Blue Destiny Unit-1", Part Type: "Arms", Base Stat Total (BST): 4325, BST (w. Marks): 7785, Mark Slots: 2, …}
+278 {Part Name: "Blue Destiny Unit-1", Part Type: "Legs", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+279 {Part Name: "Build Burning", Part Type: "Head", Base Stat Total (BST): 4556, BST (w. Marks): 6378, Mark Slots: 1, …}
+280 {Part Name: "Build Burning", Part Type: "Torso", Base Stat Total (BST): 5379, BST (w. Marks): 7531, Mark Slots: 1, …}
+281 {Part Name: "Build Burning", Part Type: "Arms", Base Stat Total (BST): 5931, BST (w. Marks): 8303, Mark Slots: 1, …}
+282 {Part Name: "Build Burning", Part Type: "Legs", Base Stat Total (BST): 4990, BST (w. Marks): 6986, Mark Slots: 1, …}
+283 {Part Name: "Build Burning", Part Type: "Back", Base Stat Total (BST): 4990, BST (w. Marks): 6986, Mark Slots: 1, …}
+284 {Part Name: "Build Gundam Mk-II", Part Type: "Head", Base Stat Total (BST): 3891, BST (w. Marks): 7004, Mark Slots: 2, …}
+285 {Part Name: "Build Gundam Mk-II", Part Type: "Torso", Base Stat Total (BST): 3826, BST (w. Marks): 6887, Mark Slots: 2, …}
+286 {Part Name: "Build Gundam Mk-II", Part Type: "Arms", Base Stat Total (BST): 3783, BST (w. Marks): 6809, Mark Slots: 2, …}
+287 {Part Name: "Build Gundam Mk-II", Part Type: "Legs", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+288 {Part Name: "Build Gundam Mk-II", Part Type: "Back", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+289 {Part Name: "Build Strike↵(Full Package)", Part Type: "Head", Base Stat Total (BST): 5573, BST (w. Marks): 7802, Mark Slots: 1, …}
+290 {Part Name: "Build Strike↵(Full Package)", Part Type: "Torso", Base Stat Total (BST): 5304, BST (w. Marks): 7426, Mark Slots: 1, …}
+291 {Part Name: "Build Strike↵(Full Package)", Part Type: "Arms", Base Stat Total (BST): 5917, BST (w. Marks): 8284, Mark Slots: 1, …}
+292 {Part Name: "Build Strike↵(Full Package)", Part Type: "Legs", Base Stat Total (BST): 4899, BST (w. Marks): 6859, Mark Slots: 1, …}
+293 {Part Name: "Build Strike↵(Full Package)", Part Type: "Back", Base Stat Total (BST): 4899, BST (w. Marks): 6859, Mark Slots: 1, …}
+294 {Part Name: "Bullpup Machine↵Gun", Part Type: "Ranged Wep.", Base Stat Total (BST): 1667, BST (w. Marks): 4334, Mark Slots: 4, …}
+295 {Part Name: "Burst Saber", Part Type: "Melee Wep.", Base Stat Total (BST): 5380, BST (w. Marks): 7532, Mark Slots: 1, …}
+296 {Part Name: "Buster", Part Type: "Head", Base Stat Total (BST): 4062, BST (w. Marks): 7312, Mark Slots: 2, …}
+297 {Part Name: "Buster", Part Type: "Torso", Base Stat Total (BST): 3852, BST (w. Marks): 6934, Mark Slots: 2, …}
+298 {Part Name: "Buster", Part Type: "Arms", Base Stat Total (BST): 3599, BST (w. Marks): 6478, Mark Slots: 2, …}
+299 {Part Name: "Buster", Part Type: "Legs", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+300 {Part Name: "Buster", Part Type: "Back", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+301 {Part Name: "Buster Gun↵[X2]", Part Type: "Ranged Wep.", Base Stat Total (BST): 5011, BST (w. Marks): 7015, Mark Slots: 1, …}
+302 {Part Name: "Buster Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 4596, BST (w. Marks): 6434, Mark Slots: 1, …}
+303 {Part Name: "Buster Rifle↵(Pre-Reg. Reward)", Part Type: "Ranged Wep.", Base Stat Total (BST): 2333, BST (w. Marks): 5133, Mark Slots: 3, …}
+304 {Part Name: "Buster Rifle Custom", Part Type: "Ranged Wep.", Base Stat Total (BST): 5406, BST (w. Marks): 7568, Mark Slots: 1, …}
+305 {Part Name: "Buster Shield", Part Type: "Shield", Base Stat Total (BST): 4964, BST (w. Marks): 6950, Mark Slots: 1, …}
+306 {Part Name: "Byarlant Custom", Part Type: "Arms", Base Stat Total (BST): 2344, BST (w. Marks): 5157, Mark Slots: 3, …}
+307 {Part Name: "Byarlant Custom", Part Type: "Torso", Base Stat Total (BST): 2527, BST (w. Marks): 5559, Mark Slots: 3, …}
+308 {Part Name: "Byarlant Custom", Part Type: "Back", Base Stat Total (BST): 2338, BST (w. Marks): 5144, Mark Slots: 3, …}
+309 {Part Name: "Byarlant Custom", Part Type: "Legs", Base Stat Total (BST): 2338, BST (w. Marks): 5144, Mark Slots: 3, …}
+310 {Part Name: "Byarlant Custom", Part Type: "Head", Base Stat Total (BST): 2611, BST (w. Marks): 5744, Mark Slots: 3, …}
+311 {Part Name: "Byarlant Custom [ALT]", Part Type: "Arms", Base Stat Total (BST): 2344, BST (w. Marks): 5157, Mark Slots: 3, …}
+312 {Part Name: "Byarlant Custom [ALT]", Part Type: "Torso", Base Stat Total (BST): 2527, BST (w. Marks): 5559, Mark Slots: 3, …}
+313 {Part Name: "Byarlant Custom [ALT]", Part Type: "Back", Base Stat Total (BST): 2338, BST (w. Marks): 5144, Mark Slots: 3, …}
+314 {Part Name: "Byarlant Custom [ALT]", Part Type: "Legs", Base Stat Total (BST): 2338, BST (w. Marks): 5144, Mark Slots: 3, …}
+315 {Part Name: "Byarlant Custom [ALT]", Part Type: "Head", Base Stat Total (BST): 2611, BST (w. Marks): 5744, Mark Slots: 3, …}
+316 {Part Name: "Cagalli Yula Athha", Part Type: "Pilot", Base Stat Total (BST): 3759, BST (w. Marks): 3759, Mark Slots: 0, …}
+317 {Part Name: "Carozzo Ronah", Part Type: "Pilot", Base Stat Total (BST): 4393, BST (w. Marks): 4393, Mark Slots: 0, …}
+318 {Part Name: "Cecily Fairchild", Part Type: "Pilot", Base Stat Total (BST): 3739, BST (w. Marks): 3739, Mark Slots: 0, …}
+319 {Part Name: "Chang Wufei", Part Type: "Pilot", Base Stat Total (BST): 5172, BST (w. Marks): 5172, Mark Slots: 0, …}
+320 {Part Name: "Char Aznable", Part Type: "Pilot", Base Stat Total (BST): 4795, BST (w. Marks): 4795, Mark Slots: 0, …}
+321 {Part Name: "Chara Soon", Part Type: "Pilot", Base Stat Total (BST): 3719, BST (w. Marks): 3719, Mark Slots: 0, …}
+322 {Part Name: "Chevalier Saber", Part Type: "Melee Wep.", Base Stat Total (BST): 3875, BST (w. Marks): 6975, Mark Slots: 2, …}
+323 {Part Name: "Chevalier Saber [ALT]", Part Type: "Melee Wep.", Base Stat Total (BST): 3875, BST (w. Marks): 6975, Mark Slots: 2, …}
+324 {Part Name: "Chloe Croce", Part Type: "Pilot", Base Stat Total (BST): 3719, BST (w. Marks): 3719, Mark Slots: 0, …}
+325 {Part Name: "Chobham Shield", Part Type: "Shield", Base Stat Total (BST): 4834, BST (w. Marks): 6768, Mark Slots: 1, …}
+326 {Part Name: "Christina Mackenzie", Part Type: "Pilot", Base Stat Total (BST): 4737, BST (w. Marks): 4737, Mark Slots: 0, …}
+327 {Part Name: "Cima Garahau", Part Type: "Pilot", Base Stat Total (BST): 3794, BST (w. Marks): 3794, Mark Slots: 0, …}
+328 {Part Name: "Claw Module", Part Type: "Melee Wep.", Base Stat Total (BST): 1542, BST (w. Marks): 4009, Mark Slots: 4, …}
+329 {Part Name: "Clay Bazooka", Part Type: "Ranged Wep.", Base Stat Total (BST): 3883, BST (w. Marks): 6989, Mark Slots: 2, …}
+330 {Part Name: "Code Phi", Part Type: "Torso", Base Stat Total (BST): 5364, BST (w. Marks): 7510, Mark Slots: 1, …}
+331 {Part Name: "Code Phi", Part Type: "Head", Base Stat Total (BST): 5324, BST (w. Marks): 7454, Mark Slots: 1, …}
+332 {Part Name: "Code Phi", Part Type: "Arms", Base Stat Total (BST): 5965, BST (w. Marks): 8351, Mark Slots: 1, …}
+333 {Part Name: "Code Phi", Part Type: "Legs", Base Stat Total (BST): 4098, BST (w. Marks): 5737, Mark Slots: 1, …}
+334 {Part Name: "Combine Shield", Part Type: "Ranged Wep.↵(+ Shield)", Base Stat Total (BST): 7035, BST (w. Marks): 9849, Mark Slots: 2, …}
+335 {Part Name: "Command", Part Type: "Head", Base Stat Total (BST): 3834, BST (w. Marks): 6901, Mark Slots: 2, …}
+336 {Part Name: "Command", Part Type: "Torso", Base Stat Total (BST): 3618, BST (w. Marks): 6512, Mark Slots: 2, …}
+337 {Part Name: "Command", Part Type: "Arms", Base Stat Total (BST): 3743, BST (w. Marks): 6737, Mark Slots: 2, …}
+338 {Part Name: "Command", Part Type: "Legs", Base Stat Total (BST): 3334, BST (w. Marks): 6001, Mark Slots: 2, …}
+339 {Part Name: "Command", Part Type: "Back", Base Stat Total (BST): 3322, BST (w. Marks): 5980, Mark Slots: 2, …}
+340 {Part Name: "Command Knife", Part Type: "Melee Wep.", Base Stat Total (BST): 3117, BST (w. Marks): 5611, Mark Slots: 2, …}
+341 {Part Name: "Crossbone X1", Part Type: "Head", Base Stat Total (BST): 3613, BST (w. Marks): 6503, Mark Slots: 2, …}
+342 {Part Name: "Crossbone X1", Part Type: "Torso", Base Stat Total (BST): 3826, BST (w. Marks): 6887, Mark Slots: 2, …}
+343 {Part Name: "Crossbone X1", Part Type: "Arms", Base Stat Total (BST): 4327, BST (w. Marks): 7789, Mark Slots: 2, …}
+344 {Part Name: "Crossbone X1", Part Type: "Legs", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+345 {Part Name: "Crossbone X1", Part Type: "Back", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+346 {Part Name: "Crossbone X2", Part Type: "Head", Base Stat Total (BST): 5510, BST (w. Marks): 7714, Mark Slots: 1, …}
+347 {Part Name: "Crossbone X2", Part Type: "Torso", Base Stat Total (BST): 5379, BST (w. Marks): 7531, Mark Slots: 1, …}
+348 {Part Name: "Crossbone X2", Part Type: "Arms", Base Stat Total (BST): 4977, BST (w. Marks): 6968, Mark Slots: 1, …}
+349 {Part Name: "Crossbone X2", Part Type: "Legs", Base Stat Total (BST): 4990, BST (w. Marks): 6986, Mark Slots: 1, …}
+350 {Part Name: "Crossbone X2", Part Type: "Back", Base Stat Total (BST): 4990, BST (w. Marks): 6986, Mark Slots: 1, …}
+351 {Part Name: "Curved Shield↵(GM Command)", Part Type: "Shield", Base Stat Total (BST): 1658, BST (w. Marks): 4311, Mark Slots: 4, …}
+352 {Part Name: "Curved Shield↵(GM Custom)", Part Type: "Shield", Base Stat Total (BST): 1535, BST (w. Marks): 3991, Mark Slots: 4, …}
+353 {Part Name: "Darkness Cannon", Part Type: "Ranged Wep.", Base Stat Total (BST): 5275, BST (w. Marks): 7385, Mark Slots: 1, …}
+354 {Part Name: "Darkness Sword", Part Type: "Melee Wep.", Base Stat Total (BST): 5275, BST (w. Marks): 7385, Mark Slots: 1, …}
+355 {Part Name: "Dead End G", Part Type: "Melee Wep.", Base Stat Total (BST): 2078, BST (w. Marks): 4572, Mark Slots: 3, …}
+356 {Part Name: "Dearka Elsman", Part Type: "Pilot", Base Stat Total (BST): 3535, BST (w. Marks): 3535, Mark Slots: 0, …}
+357 {Part Name: "Deathscythe", Part Type: "Torso", Base Stat Total (BST): 4950, BST (w. Marks): 6930, Mark Slots: 1, …}
+358 {Part Name: "Deathscythe", Part Type: "Arms", Base Stat Total (BST): 5341, BST (w. Marks): 7477, Mark Slots: 1, …}
+359 {Part Name: "Deathscythe", Part Type: "Back", Base Stat Total (BST): 5388, BST (w. Marks): 7543, Mark Slots: 1, …}
+360 {Part Name: "Deathscythe", Part Type: "Legs", Base Stat Total (BST): 5388, BST (w. Marks): 7543, Mark Slots: 1, …}
+361 {Part Name: "Deathscythe", Part Type: "Head", Base Stat Total (BST): 5130, BST (w. Marks): 7182, Mark Slots: 1, …}
+362 {Part Name: "Deathscythe Hell↵(Endless Waltz Ver.)", Part Type: "Head", Base Stat Total (BST): 4964, BST (w. Marks): 6950, Mark Slots: 1, …}
+363 {Part Name: "Deathscythe Hell↵(Endless Waltz Ver.)", Part Type: "Torso", Base Stat Total (BST): 5357, BST (w. Marks): 7500, Mark Slots: 1, …}
+364 {Part Name: "Deathscythe Hell↵(Endless Waltz Ver.)", Part Type: "Arms", Base Stat Total (BST): 5937, BST (w. Marks): 8312, Mark Slots: 1, …}
+365 {Part Name: "Deathscythe Hell↵(Endless Waltz Ver.)", Part Type: "Legs", Base Stat Total (BST): 4949, BST (w. Marks): 6929, Mark Slots: 1, …}
+366 {Part Name: "Deathscythe Hell↵(Endless Waltz Ver.)", Part Type: "Back", Base Stat Total (BST): 4949, BST (w. Marks): 6929, Mark Slots: 1, …}
+367 {Part Name: "Defense Plate", Part Type: "Shield", Base Stat Total (BST): 5495, BST (w. Marks): 7693, Mark Slots: 1, …}
+368 {Part Name: "Delta Plus", Part Type: "Head", Base Stat Total (BST): 3611, BST (w. Marks): 6500, Mark Slots: 2, …}
+369 {Part Name: "Delta Plus", Part Type: "Torso", Base Stat Total (BST): 3825, BST (w. Marks): 6885, Mark Slots: 2, …}
+370 {Part Name: "Delta Plus", Part Type: "Arms", Base Stat Total (BST): 4328, BST (w. Marks): 7790, Mark Slots: 2, …}
+371 {Part Name: "Delta Plus", Part Type: "Legs", Base Stat Total (BST): 3618, BST (w. Marks): 6512, Mark Slots: 2, …}
+372 {Part Name: "Delta Plus", Part Type: "Back", Base Stat Total (BST): 3618, BST (w. Marks): 6512, Mark Slots: 2, …}
+373 {Part Name: "Demolition Knife", Part Type: "Melee Wep.", Base Stat Total (BST): 5363, BST (w. Marks): 7508, Mark Slots: 1, …}
+374 {Part Name: "Den'an Zon", Part Type: "Back", Base Stat Total (BST): 2360, BST (w. Marks): 5192, Mark Slots: 3, …}
+375 {Part Name: "Den'an Zon", Part Type: "Legs", Base Stat Total (BST): 2360, BST (w. Marks): 5192, Mark Slots: 3, …}
+376 {Part Name: "Den'an Zon", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 4486, BST (w. Marks): 7178, Mark Slots: 3, …}
+377 {Part Name: "Den'an Zon", Part Type: "Torso", Base Stat Total (BST): 2502, BST (w. Marks): 5504, Mark Slots: 3, …}
+378 {Part Name: "Den'an Zon", Part Type: "Head", Base Stat Total (BST): 2502, BST (w. Marks): 5504, Mark Slots: 3, …}
+379 {Part Name: "Destiny", Part Type: "Head", Base Stat Total (BST): 6114, BST (w. Marks): 8560, Mark Slots: 1, …}
+380 {Part Name: "Destiny", Part Type: "Torso", Base Stat Total (BST): 6162, BST (w. Marks): 8627, Mark Slots: 1, …}
+381 {Part Name: "Destiny", Part Type: "Arms", Base Stat Total (BST): 6349, BST (w. Marks): 8889, Mark Slots: 1, …}
+382 {Part Name: "Destiny", Part Type: "Legs", Base Stat Total (BST): 5523, BST (w. Marks): 7732, Mark Slots: 1, …}
+383 {Part Name: "Destiny", Part Type: "Back", Base Stat Total (BST): 5523, BST (w. Marks): 7732, Mark Slots: 1, …}
+384 {Part Name: "Divider", Part Type: "Shield", Base Stat Total (BST): 4978, BST (w. Marks): 6969, Mark Slots: 1, …}
+385 {Part Name: "Dober Gun", Part Type: "Ranged Wep.", Base Stat Total (BST): 4811, BST (w. Marks): 6735, Mark Slots: 1, …}
+386 {Part Name: "DODS Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 2569, BST (w. Marks): 4624, Mark Slots: 2, …}
+387 {Part Name: "Dom", Part Type: "Arms", Base Stat Total (BST): 1597, BST (w. Marks): 4152, Mark Slots: 4, …}
+388 {Part Name: "Dom", Part Type: "Torso", Base Stat Total (BST): 1679, BST (w. Marks): 4365, Mark Slots: 4, …}
+389 {Part Name: "Dom", Part Type: "Back", Base Stat Total (BST): 1552, BST (w. Marks): 4035, Mark Slots: 4, …}
+390 {Part Name: "Dom", Part Type: "Legs", Base Stat Total (BST): 1540, BST (w. Marks): 4004, Mark Slots: 4, …}
+391 {Part Name: "Dom", Part Type: "Head", Base Stat Total (BST): 1735, BST (w. Marks): 4511, Mark Slots: 4, …}
+392 {Part Name: "Dom Tropen", Part Type: "Arms", Base Stat Total (BST): 1733, BST (w. Marks): 4506, Mark Slots: 4, …}
+393 {Part Name: "Dom Tropen", Part Type: "Torso", Base Stat Total (BST): 1766, BST (w. Marks): 4592, Mark Slots: 4, …}
+394 {Part Name: "Dom Tropen", Part Type: "Back", Base Stat Total (BST): 1549, BST (w. Marks): 4027, Mark Slots: 4, …}
+395 {Part Name: "Dom Tropen", Part Type: "Legs", Base Stat Total (BST): 1538, BST (w. Marks): 3999, Mark Slots: 4, …}
+396 {Part Name: "Dom Tropen", Part Type: "Head", Base Stat Total (BST): 1732, BST (w. Marks): 4503, Mark Slots: 4, …}
+397 {Part Name: "Dom Tropen↵(Sand Brown)", Part Type: "Arms", Base Stat Total (BST): 1733, BST (w. Marks): 4506, Mark Slots: 4, …}
+398 {Part Name: "Dom Tropen↵(Sand Brown)", Part Type: "Torso", Base Stat Total (BST): 1766, BST (w. Marks): 4592, Mark Slots: 4, …}
+399 {Part Name: "Dom Tropen↵(Sand Brown)", Part Type: "Back", Base Stat Total (BST): 1549, BST (w. Marks): 4027, Mark Slots: 4, …}
+400 {Part Name: "Dom Tropen↵(Sand Brown)", Part Type: "Legs", Base Stat Total (BST): 1538, BST (w. Marks): 3999, Mark Slots: 4, …}
+401 {Part Name: "Dom Tropen↵(Sand Brown)", Part Type: "Head", Base Stat Total (BST): 1732, BST (w. Marks): 4503, Mark Slots: 4, …}
+402 {Part Name: "Domon Kasshu", Part Type: "Pilot", Base Stat Total (BST): 4954, BST (w. Marks): 4954, Mark Slots: 0, …}
+403 {Part Name: "Double X", Part Type: "Head", Base Stat Total (BST): 5979, BST (w. Marks): 8371, Mark Slots: 1, …}
+404 {Part Name: "Double X", Part Type: "Torso", Base Stat Total (BST): 6224, BST (w. Marks): 8714, Mark Slots: 1, …}
+405 {Part Name: "Double X", Part Type: "Arms", Base Stat Total (BST): 6331, BST (w. Marks): 8863, Mark Slots: 1, …}
+406 {Part Name: "Double X", Part Type: "Legs", Base Stat Total (BST): 5541, BST (w. Marks): 7757, Mark Slots: 1, …}
+407 {Part Name: "Double X", Part Type: "Back", Base Stat Total (BST): 5541, BST (w. Marks): 7757, Mark Slots: 1, …}
+408 {Part Name: "Doven Wolf", Part Type: "Arms", Base Stat Total (BST): 2775, BST (w. Marks): 6105, Mark Slots: 3, …}
+409 {Part Name: "Doven Wolf", Part Type: "Torso", Base Stat Total (BST): 2544, BST (w. Marks): 5597, Mark Slots: 3, …}
+410 {Part Name: "Doven Wolf", Part Type: "Back", Base Stat Total (BST): 2353, BST (w. Marks): 5177, Mark Slots: 3, …}
+411 {Part Name: "Doven Wolf", Part Type: "Legs", Base Stat Total (BST): 2353, BST (w. Marks): 5177, Mark Slots: 3, …}
+412 {Part Name: "Doven Wolf", Part Type: "Head", Base Stat Total (BST): 2563, BST (w. Marks): 5639, Mark Slots: 3, …}
+413 {Part Name: "Doven Wolf [ALT]", Part Type: "Arms", Base Stat Total (BST): 2775, BST (w. Marks): 6105, Mark Slots: 3, …}
+414 {Part Name: "Doven Wolf [ALT]", Part Type: "Back", Base Stat Total (BST): 2353, BST (w. Marks): 5177, Mark Slots: 3, …}
+415 {Part Name: "Doven Wolf [ALT]", Part Type: "Head", Base Stat Total (BST): 2563, BST (w. Marks): 5639, Mark Slots: 3, …}
+416 {Part Name: "Doven Wolf [ALT]", Part Type: "Legs", Base Stat Total (BST): 2353, BST (w. Marks): 5177, Mark Slots: 3, …}
+417 {Part Name: "Doven Wolf [ALT]", Part Type: "Torso", Base Stat Total (BST): 2544, BST (w. Marks): 5597, Mark Slots: 3, …}
+418 {Part Name: "Dozle Zabi", Part Type: "Pilot", Base Stat Total (BST): 3885, BST (w. Marks): 3885, Mark Slots: 0, …}
+419 {Part Name: "Dragon", Part Type: "Arms", Base Stat Total (BST): 4295, BST (w. Marks): 7731, Mark Slots: 2, …}
+420 {Part Name: "Dragon", Part Type: "Torso", Base Stat Total (BST): 3875, BST (w. Marks): 6975, Mark Slots: 2, …}
+421 {Part Name: "Dragon", Part Type: "Back", Base Stat Total (BST): 3059, BST (w. Marks): 5506, Mark Slots: 2, …}
+422 {Part Name: "Dragon", Part Type: "Legs", Base Stat Total (BST): 3059, BST (w. Marks): 5506, Mark Slots: 2, …}
+423 {Part Name: "Dragon", Part Type: "Head", Base Stat Total (BST): 3900, BST (w. Marks): 7020, Mark Slots: 2, …}
+424 {Part Name: "Dreissen↵(Unicorn Ver.)", Part Type: "Arms", Base Stat Total (BST): 1938, BST (w. Marks): 5039, Mark Slots: 4, …}
+425 {Part Name: "Dreissen↵(Unicorn Ver.)", Part Type: "Torso", Base Stat Total (BST): 1803, BST (w. Marks): 4688, Mark Slots: 4, …}
+426 {Part Name: "Dreissen↵(Unicorn Ver.)", Part Type: "Back", Base Stat Total (BST): 1607, BST (w. Marks): 4178, Mark Slots: 4, …}
+427 {Part Name: "Dreissen↵(Unicorn Ver.)", Part Type: "Legs", Base Stat Total (BST): 1607, BST (w. Marks): 4178, Mark Slots: 4, …}
+428 {Part Name: "Dreissen↵(Unicorn Ver.)", Part Type: "Head", Base Stat Total (BST): 1527, BST (w. Marks): 3970, Mark Slots: 4, …}
+429 {Part Name: "Duel", Part Type: "Back", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+430 {Part Name: "Duel", Part Type: "Legs", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+431 {Part Name: "Duel", Part Type: "Arms", Base Stat Total (BST): 3783, BST (w. Marks): 6809, Mark Slots: 2, …}
+432 {Part Name: "Duel", Part Type: "Torso", Base Stat Total (BST): 3826, BST (w. Marks): 6887, Mark Slots: 2, …}
+433 {Part Name: "Duel", Part Type: "Head", Base Stat Total (BST): 3891, BST (w. Marks): 7004, Mark Slots: 2, …}
+434 {Part Name: "Duel↵(Assault Shroud)", Part Type: "Head", Base Stat Total (BST): 5515, BST (w. Marks): 7721, Mark Slots: 1, …}
+435 {Part Name: "Duel↵(Assault Shroud)", Part Type: "Torso", Base Stat Total (BST): 5359, BST (w. Marks): 7503, Mark Slots: 1, …}
+436 {Part Name: "Duel↵(Assault Shroud)", Part Type: "Arms", Base Stat Total (BST): 4935, BST (w. Marks): 6909, Mark Slots: 1, …}
+437 {Part Name: "Duel↵(Assault Shroud)", Part Type: "Legs", Base Stat Total (BST): 4812, BST (w. Marks): 6737, Mark Slots: 1, …}
+438 {Part Name: "Duel↵(Assault Shroud)", Part Type: "Back", Base Stat Total (BST): 4812, BST (w. Marks): 6737, Mark Slots: 1, …}
+439 {Part Name: "Duel (Assault Shroud)↵(Beginner Campaign)", Part Type: "Head", Base Stat Total (BST): 5250, BST (w. Marks): 7350, Mark Slots: 1, …}
+440 {Part Name: "Duel (Assault Shroud)↵(Beginner Campaign)", Part Type: "Torso", Base Stat Total (BST): 4783, BST (w. Marks): 6696, Mark Slots: 1, …}
+441 {Part Name: "Duel (Assault Shroud)↵(Beginner Campaign)", Part Type: "Arms", Base Stat Total (BST): 4530, BST (w. Marks): 6342, Mark Slots: 1, …}
+442 {Part Name: "Duel (Assault Shroud)↵(Beginner Campaign)", Part Type: "Legs", Base Stat Total (BST): 4209, BST (w. Marks): 5893, Mark Slots: 1, …}
+443 {Part Name: "Duel (Assault Shroud)↵(Beginner Campaign)", Part Type: "Back", Base Stat Total (BST): 4209, BST (w. Marks): 5893, Mark Slots: 1, …}
+444 {Part Name: "Duo Maxwell", Part Type: "Pilot", Base Stat Total (BST): 5004, BST (w. Marks): 5004, Mark Slots: 0, …}
+445 {Part Name: "DX Buster Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 5158, BST (w. Marks): 7221, Mark Slots: 1, …}
+446 {Part Name: "Dynames", Part Type: "Arms", Base Stat Total (BST): 4935, BST (w. Marks): 6909, Mark Slots: 1, …}
+447 {Part Name: "Dynames", Part Type: "Torso", Base Stat Total (BST): 5359, BST (w. Marks): 7503, Mark Slots: 1, …}
+448 {Part Name: "Dynames", Part Type: "Back", Base Stat Total (BST): 4812, BST (w. Marks): 6737, Mark Slots: 1, …}
+449 {Part Name: "Dynames", Part Type: "Legs", Base Stat Total (BST): 4812, BST (w. Marks): 6737, Mark Slots: 1, …}
+450 {Part Name: "Dynames", Part Type: "Head", Base Stat Total (BST): 5515, BST (w. Marks): 7721, Mark Slots: 1, …}
+451 {Part Name: "EARTHREE", Part Type: "Head", Base Stat Total (BST): 5560, BST (w. Marks): 7784, Mark Slots: 1, …}
+452 {Part Name: "EARTHREE", Part Type: "Torso", Base Stat Total (BST): 5332, BST (w. Marks): 7465, Mark Slots: 1, …}
+453 {Part Name: "EARTHREE", Part Type: "Arms", Base Stat Total (BST): 5912, BST (w. Marks): 8277, Mark Slots: 1, …}
+454 {Part Name: "EARTHREE", Part Type: "Legs", Base Stat Total (BST): 4942, BST (w. Marks): 6919, Mark Slots: 1, …}
+455 {Part Name: "EARTHREE", Part Type: "Back", Base Stat Total (BST): 4942, BST (w. Marks): 6919, Mark Slots: 1, …}
+456 {Part Name: "Efreet Custom", Part Type: "Head", Base Stat Total (BST): 3912, BST (w. Marks): 7042, Mark Slots: 2, …}
+457 {Part Name: "Efreet Custom", Part Type: "Torso", Base Stat Total (BST): 3886, BST (w. Marks): 6995, Mark Slots: 2, …}
+458 {Part Name: "Efreet Custom", Part Type: "Arms", Base Stat Total (BST): 4309, BST (w. Marks): 7756, Mark Slots: 2, …}
+459 {Part Name: "Efreet Custom", Part Type: "Legs", Base Stat Total (BST): 3040, BST (w. Marks): 5472, Mark Slots: 2, …}
+460 {Part Name: "Efreet Custom", Part Type: "Back", Base Stat Total (BST): 3040, BST (w. Marks): 5472, Mark Slots: 2, …}
+461 {Part Name: "Electrospear", Part Type: "Melee Wep.", Base Stat Total (BST): 5778, BST (w. Marks): 8089, Mark Slots: 1, …}
+462 {Part Name: "Eledore Massis", Part Type: "Pilot", Base Stat Total (BST): 2219, BST (w. Marks): 2219, Mark Slots: 0, …}
+463 {Part Name: "Elle Vianno", Part Type: "Pilot", Base Stat Total (BST): 3632, BST (w. Marks): 3632, Mark Slots: 0, …}
+464 {Part Name: "Elpeo Ple", Part Type: "Pilot", Base Stat Total (BST): 3759, BST (w. Marks): 3759, Mark Slots: 0, …}
+465 {Part Name: "Emma Sheen", Part Type: "Pilot", Base Stat Total (BST): 3759, BST (w. Marks): 3759, Mark Slots: 0, …}
+466 {Part Name: "Enhanced Beam Rifle↵(Build Strike)", Part Type: "Ranged Wep.", Base Stat Total (BST): 4968, BST (w. Marks): 6955, Mark Slots: 1, …}
+467 {Part Name: "Enhanced Shield↵Booster", Part Type: "Shield", Base Stat Total (BST): 3391, BST (w. Marks): 6104, Mark Slots: 2, …}
+468 {Part Name: "Enhanced ZZ↵(Ver. Ka)", Part Type: "Head", Base Stat Total (BST): 6119, BST (w. Marks): 8567, Mark Slots: 1, …}
+469 {Part Name: "Enhanced ZZ↵(Ver. Ka)", Part Type: "Torso", Base Stat Total (BST): 6276, BST (w. Marks): 8786, Mark Slots: 1, …}
+470 {Part Name: "Enhanced ZZ↵(Ver. Ka)", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 11030, BST (w. Marks): 13236, Mark Slots: 1, …}
+471 {Part Name: "Enhanced ZZ↵(Ver. Ka)", Part Type: "Legs", Base Stat Total (BST): 5676, BST (w. Marks): 7946, Mark Slots: 1, …}
+472 {Part Name: "Enhanced ZZ↵(Ver. Ka)", Part Type: "Back", Base Stat Total (BST): 5676, BST (w. Marks): 7946, Mark Slots: 1, …}
+473 {Part Name: "Exia", Part Type: "Head", Base Stat Total (BST): 4556, BST (w. Marks): 6378, Mark Slots: 1, …}
+474 {Part Name: "Exia", Part Type: "Torso", Base Stat Total (BST): 5379, BST (w. Marks): 7531, Mark Slots: 1, …}
+475 {Part Name: "Exia", Part Type: "Arms", Base Stat Total (BST): 5931, BST (w. Marks): 8303, Mark Slots: 1, …}
+476 {Part Name: "Exia", Part Type: "Legs", Base Stat Total (BST): 4990, BST (w. Marks): 6986, Mark Slots: 1, …}
+477 {Part Name: "Exia", Part Type: "Back", Base Stat Total (BST): 4990, BST (w. Marks): 6986, Mark Slots: 1, …}
+478 {Part Name: "Exia↵(Beginner Campaign)", Part Type: "Head", Base Stat Total (BST): 4047, BST (w. Marks): 5666, Mark Slots: 1, …}
+479 {Part Name: "Exia↵(Beginner Campaign)", Part Type: "Torso", Base Stat Total (BST): 4849, BST (w. Marks): 6789, Mark Slots: 1, …}
+480 {Part Name: "Exia↵(Beginner Campaign)", Part Type: "Arms", Base Stat Total (BST): 5653, BST (w. Marks): 7914, Mark Slots: 1, …}
+481 {Part Name: "Exia↵(Beginner Campaign)", Part Type: "Legs", Base Stat Total (BST): 4376, BST (w. Marks): 6126, Mark Slots: 1, …}
+482 {Part Name: "Exia↵(Beginner Campaign)", Part Type: "Back", Base Stat Total (BST): 4376, BST (w. Marks): 6126, Mark Slots: 1, …}
+483 {Part Name: "Experimental Twin Beam↵Saber (Single)", Part Type: "Melee Wep.", Base Stat Total (BST): 4987, BST (w. Marks): 6982, Mark Slots: 1, …}
+484 {Part Name: "F91", Part Type: "Head", Base Stat Total (BST): 5573, BST (w. Marks): 7802, Mark Slots: 1, …}
+485 {Part Name: "F91", Part Type: "Torso", Base Stat Total (BST): 5304, BST (w. Marks): 7426, Mark Slots: 1, …}
+486 {Part Name: "F91", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 10759, BST (w. Marks): 12911, Mark Slots: 1, …}
+487 {Part Name: "F91", Part Type: "Legs", Base Stat Total (BST): 4899, BST (w. Marks): 6859, Mark Slots: 1, …}
+488 {Part Name: "F91", Part Type: "Back", Base Stat Total (BST): 4899, BST (w. Marks): 6859, Mark Slots: 1, …}
+489 {Part Name: "Fa Yuiry", Part Type: "Pilot", Base Stat Total (BST): 3794, BST (w. Marks): 3794, Mark Slots: 0, …}
+490 {Part Name: "Feilong Flag", Part Type: "Melee Wep.", Base Stat Total (BST): 3875, BST (w. Marks): 6975, Mark Slots: 2, …}
+491 {Part Name: "Fist Module", Part Type: "Melee Wep.", Base Stat Total (BST): 1542, BST (w. Marks): 4009, Mark Slots: 4, …}
+492 {Part Name: "Flit Asuno", Part Type: "Pilot", Base Stat Total (BST): 3394, BST (w. Marks): 3394, Mark Slots: 0, …}
+493 {Part Name: "Folding Bazooka", Part Type: "Ranged Wep.", Base Stat Total (BST): 4380, BST (w. Marks): 6132, Mark Slots: 1, …}
+494 {Part Name: "Folding Shield", Part Type: "Shield", Base Stat Total (BST): 4594, BST (w. Marks): 6432, Mark Slots: 1, …}
+495 {Part Name: "Force Impulse", Part Type: "Head", Base Stat Total (BST): 5560, BST (w. Marks): 7784, Mark Slots: 1, …}
+496 {Part Name: "Force Impulse", Part Type: "Torso", Base Stat Total (BST): 5332, BST (w. Marks): 7465, Mark Slots: 1, …}
+497 {Part Name: "Force Impulse", Part Type: "Arms", Base Stat Total (BST): 5912, BST (w. Marks): 8277, Mark Slots: 1, …}
+498 {Part Name: "Force Impulse", Part Type: "Legs", Base Stat Total (BST): 4942, BST (w. Marks): 6919, Mark Slots: 1, …}
+499 {Part Name: "Force Impulse", Part Type: "Back", Base Stat Total (BST): 4942, BST (w. Marks): 6919, Mark Slots: 1, …}
+500 {Part Name: "Force Impulse↵(Beginner Campaign)", Part Type: "Head", Base Stat Total (BST): 4932, BST (w. Marks): 6905, Mark Slots: 1, …}
+501 {Part Name: "Force Impulse↵(Beginner Campaign)", Part Type: "Torso", Base Stat Total (BST): 4816, BST (w. Marks): 6742, Mark Slots: 1, …}
+502 {Part Name: "Force Impulse↵(Beginner Campaign)", Part Type: "Arms", Base Stat Total (BST): 5376, BST (w. Marks): 7526, Mark Slots: 1, …}
+503 {Part Name: "Force Impulse↵(Beginner Campaign)", Part Type: "Legs", Base Stat Total (BST): 4342, BST (w. Marks): 6079, Mark Slots: 1, …}
+504 {Part Name: "Force Impulse↵(Beginner Campaign)", Part Type: "Back", Base Stat Total (BST): 4342, BST (w. Marks): 6079, Mark Slots: 1, …}
+505 {Part Name: "Fragarach 3-Beam Blade", Part Type: "Melee Wep.", Base Stat Total (BST): 3320, BST (w. Marks): 5976, Mark Slots: 2, …}
+506 {Part Name: "Freedom", Part Type: "Head", Base Stat Total (BST): 6304, BST (w. Marks): 8826, Mark Slots: 1, …}
+507 {Part Name: "Freedom", Part Type: "Torso", Base Stat Total (BST): 6350, BST (w. Marks): 8890, Mark Slots: 1, …}
+508 {Part Name: "Freedom", Part Type: "Arms", Base Stat Total (BST): 6000, BST (w. Marks): 8400, Mark Slots: 1, …}
+509 {Part Name: "Freedom", Part Type: "Legs", Base Stat Total (BST): 5894, BST (w. Marks): 8252, Mark Slots: 1, …}
+510 {Part Name: "Freedom", Part Type: "Back", Base Stat Total (BST): 5894, BST (w. Marks): 8252, Mark Slots: 1, …}
+511 {Part Name: "Full Armor↵(Thunderbolt Ver.)", Part Type: "Head", Base Stat Total (BST): 5566, BST (w. Marks): 7792, Mark Slots: 1, …}
+512 {Part Name: "Full Armor↵(Thunderbolt Ver.)", Part Type: "Torso", Base Stat Total (BST): 5337, BST (w. Marks): 7472, Mark Slots: 1, …}
+513 {Part Name: "Full Armor↵(Thunderbolt Ver.)", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 10758, BST (w. Marks): 12910, Mark Slots: 1, …}
+514 {Part Name: "Full Armor↵(Thunderbolt Ver.)", Part Type: "Legs", Base Stat Total (BST): 4949, BST (w. Marks): 6929, Mark Slots: 1, …}
+515 {Part Name: "Full Armor↵(Thunderbolt Ver.)", Part Type: "Back", Base Stat Total (BST): 4949, BST (w. Marks): 6929, Mark Slots: 1, …}
+516 {Part Name: "Full Frontal", Part Type: "Pilot", Base Stat Total (BST): 5186, BST (w. Marks): 5186, Mark Slots: 0, …}
+517 {Part Name: "G-Hammer↵(DX)", Part Type: "Melee Wep.", Base Stat Total (BST): 5380, BST (w. Marks): 7532, Mark Slots: 1, …}
+518 {Part Name: "Gae Bulg", Part Type: "Ranged Wep.", Base Stat Total (BST): 3743, BST (w. Marks): 6737, Mark Slots: 2, …}
+519 {Part Name: "Gaelio Bauduin", Part Type: "Pilot", Base Stat Total (BST): 5004, BST (w. Marks): 5004, Mark Slots: 0, …}
+520 {Part Name: "Gafran", Part Type: "Torso", Base Stat Total (BST): 2362, BST (w. Marks): 5196, Mark Slots: 3, …}
+521 {Part Name: "Gafran", Part Type: "Arms", Base Stat Total (BST): 2423, BST (w. Marks): 5331, Mark Slots: 3, …}
+522 {Part Name: "Gafran", Part Type: "Back", Base Stat Total (BST): 2530, BST (w. Marks): 5566, Mark Slots: 3, …}
+523 {Part Name: "Gafran", Part Type: "Legs", Base Stat Total (BST): 2530, BST (w. Marks): 5566, Mark Slots: 3, …}
+524 {Part Name: "Gafran", Part Type: "Head", Base Stat Total (BST): 2530, BST (w. Marks): 5566, Mark Slots: 3, …}
+525 {Part Name: "Gafran [ALT]", Part Type: "Torso", Base Stat Total (BST): 2362, BST (w. Marks): 5196, Mark Slots: 3, …}
+526 {Part Name: "Gafran [ALT]", Part Type: "Arms", Base Stat Total (BST): 2423, BST (w. Marks): 5331, Mark Slots: 3, …}
+527 {Part Name: "Gafran [ALT]", Part Type: "Back", Base Stat Total (BST): 2530, BST (w. Marks): 5566, Mark Slots: 3, …}
+528 {Part Name: "Gafran [ALT]", Part Type: "Legs", Base Stat Total (BST): 2530, BST (w. Marks): 5566, Mark Slots: 3, …}
+529 {Part Name: "Gafran [ALT]", Part Type: "Head", Base Stat Total (BST): 2530, BST (w. Marks): 5566, Mark Slots: 3, …}
+530 {Part Name: "Gai Murakumo", Part Type: "Pilot", Base Stat Total (BST): 5004, BST (w. Marks): 5004, Mark Slots: 0, …}
+531 {Part Name: "Gaia", Part Type: "Head", Base Stat Total (BST): 3965, BST (w. Marks): 7137, Mark Slots: 2, …}
+532 {Part Name: "Gaia", Part Type: "Torso", Base Stat Total (BST): 3928, BST (w. Marks): 7070, Mark Slots: 2, …}
+533 {Part Name: "Gaia", Part Type: "Arms", Base Stat Total (BST): 4325, BST (w. Marks): 7785, Mark Slots: 2, …}
+534 {Part Name: "Gaia", Part Type: "Legs", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+535 {Part Name: "Gaia", Part Type: "Back", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+536 {Part Name: "Gaia", Part Type: "Pilot", Base Stat Total (BST): 2280, BST (w. Marks): 2280, Mark Slots: 0, …}
+537 {Part Name: "Garma Zabi", Part Type: "Pilot", Base Stat Total (BST): 3129, BST (w. Marks): 3129, Mark Slots: 0, …}
+538 {Part Name: "Garrod Ran", Part Type: "Pilot", Base Stat Total (BST): 5384, BST (w. Marks): 5384, Mark Slots: 0, …}
+539 {Part Name: "Gatling Shield", Part Type: "Ranged Wep.↵(+ Shield)", Base Stat Total (BST): 7122, BST (w. Marks): 9971, Mark Slots: 2, …}
+540 {Part Name: "Geara Doga", Part Type: "Arms", Base Stat Total (BST): 2795, BST (w. Marks): 6149, Mark Slots: 3, …}
+541 {Part Name: "Geara Doga", Part Type: "Torso", Base Stat Total (BST): 2527, BST (w. Marks): 5559, Mark Slots: 3, …}
+542 {Part Name: "Geara Doga", Part Type: "Back", Base Stat Total (BST): 2338, BST (w. Marks): 5144, Mark Slots: 3, …}
+543 {Part Name: "Geara Doga", Part Type: "Legs", Base Stat Total (BST): 2338, BST (w. Marks): 5144, Mark Slots: 3, …}
+544 {Part Name: "Geara Doga", Part Type: "Head", Base Stat Total (BST): 2160, BST (w. Marks): 4752, Mark Slots: 3, …}
+545 {Part Name: "Gelgoog↵(Mass Production Type)", Part Type: "Arms", Base Stat Total (BST): 1683, BST (w. Marks): 4376, Mark Slots: 4, …}
+546 {Part Name: "Gelgoog↵(Mass Production Type)", Part Type: "Torso", Base Stat Total (BST): 1837, BST (w. Marks): 4776, Mark Slots: 4, …}
+547 {Part Name: "Gelgoog↵(Mass Production Type)", Part Type: "Back", Base Stat Total (BST): 1638, BST (w. Marks): 4259, Mark Slots: 4, …}
+548 {Part Name: "Gelgoog↵(Mass Production Type)", Part Type: "Legs", Base Stat Total (BST): 1638, BST (w. Marks): 4259, Mark Slots: 4, …}
+549 {Part Name: "Gelgoog↵(Mass Production Type)", Part Type: "Head", Base Stat Total (BST): 1733, BST (w. Marks): 4506, Mark Slots: 4, …}
+550 {Part Name: "Gelgoog Cannon", Part Type: "Arms", Base Stat Total (BST): 1636, BST (w. Marks): 4254, Mark Slots: 4, …}
+551 {Part Name: "Gelgoog Cannon", Part Type: "Torso", Base Stat Total (BST): 1773, BST (w. Marks): 4610, Mark Slots: 4, …}
+552 {Part Name: "Gelgoog Cannon", Part Type: "Back", Base Stat Total (BST): 1687, BST (w. Marks): 4386, Mark Slots: 4, …}
+553 {Part Name: "Gelgoog Cannon", Part Type: "Legs", Base Stat Total (BST): 1687, BST (w. Marks): 4386, Mark Slots: 4, …}
+554 {Part Name: "Gelgoog Cannon", Part Type: "Head", Base Stat Total (BST): 1795, BST (w. Marks): 4667, Mark Slots: 4, …}
+555 {Part Name: "Gelgoog Jaeger", Part Type: "Arms", Base Stat Total (BST): 2431, BST (w. Marks): 5348, Mark Slots: 3, …}
+556 {Part Name: "Gelgoog Jaeger", Part Type: "Torso", Base Stat Total (BST): 2349, BST (w. Marks): 5168, Mark Slots: 3, …}
+557 {Part Name: "Gelgoog Jaeger", Part Type: "Back", Base Stat Total (BST): 2167, BST (w. Marks): 4767, Mark Slots: 3, …}
+558 {Part Name: "Gelgoog Jaeger", Part Type: "Legs", Base Stat Total (BST): 2159, BST (w. Marks): 4750, Mark Slots: 3, …}
+559 {Part Name: "Gelgoog Jaeger", Part Type: "Head", Base Stat Total (BST): 2463, BST (w. Marks): 5419, Mark Slots: 3, …}
+560 {Part Name: "George de Sand", Part Type: "Pilot", Base Stat Total (BST): 4737, BST (w. Marks): 4737, Mark Slots: 0, …}
+561 {Part Name: "Gerbera Straight", Part Type: "Melee Wep.", Base Stat Total (BST): 5340, BST (w. Marks): 7476, Mark Slots: 1, …}
+562 {Part Name: "Gerbera Straight/↵Tiger Pierce", Part Type: "Melee Wep.", Base Stat Total (BST): 5228, BST (w. Marks): 7319, Mark Slots: 1, …}
+563 {Part Name: "Gerbera Tetra", Part Type: "Back", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+564 {Part Name: "Gerbera Tetra", Part Type: "Legs", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+565 {Part Name: "Gerbera Tetra", Part Type: "Arms", Base Stat Total (BST): 3783, BST (w. Marks): 6809, Mark Slots: 2, …}
+566 {Part Name: "Gerbera Tetra", Part Type: "Torso", Base Stat Total (BST): 3826, BST (w. Marks): 6887, Mark Slots: 2, …}
+567 {Part Name: "Gerbera Tetra", Part Type: "Head", Base Stat Total (BST): 3891, BST (w. Marks): 7004, Mark Slots: 2, …}
+568 {Part Name: "Giant Bazooka↵(Dreissen)", Part Type: "Ranged Wep.", Base Stat Total (BST): 1457, BST (w. Marks): 3788, Mark Slots: 4, …}
+569 {Part Name: "Ginias Sahalin", Part Type: "Pilot", Base Stat Total (BST): 3472, BST (w. Marks): 3472, Mark Slots: 0, …}
+570 {Part Name: "GM", Part Type: "Arms", Base Stat Total (BST): 1965, BST (w. Marks): 5109, Mark Slots: 4, …}
+571 {Part Name: "GM", Part Type: "Torso", Base Stat Total (BST): 1717, BST (w. Marks): 4464, Mark Slots: 4, …}
+572 {Part Name: "GM", Part Type: "Back", Base Stat Total (BST): 1633, BST (w. Marks): 4246, Mark Slots: 4, …}
+573 {Part Name: "GM", Part Type: "Legs", Base Stat Total (BST): 1633, BST (w. Marks): 4246, Mark Slots: 4, …}
+574 {Part Name: "GM", Part Type: "Head", Base Stat Total (BST): 1933, BST (w. Marks): 5026, Mark Slots: 4, …}
+575 {Part Name: "GM Command↵(Space Type)", Part Type: "Arms", Base Stat Total (BST): 1665, BST (w. Marks): 4329, Mark Slots: 4, …}
+576 {Part Name: "GM Command↵(Space Type)", Part Type: "Torso", Base Stat Total (BST): 1803, BST (w. Marks): 4688, Mark Slots: 4, …}
+577 {Part Name: "GM Command↵(Space Type)", Part Type: "Back", Base Stat Total (BST): 1635, BST (w. Marks): 4251, Mark Slots: 4, …}
+578 {Part Name: "GM Command↵(Space Type)", Part Type: "Legs", Base Stat Total (BST): 1635, BST (w. Marks): 4251, Mark Slots: 4, …}
+579 {Part Name: "GM Command↵(Space Type)", Part Type: "Head", Base Stat Total (BST): 1800, BST (w. Marks): 4680, Mark Slots: 4, …}
+580 {Part Name: "GM Custom", Part Type: "Arms", Base Stat Total (BST): 1729, BST (w. Marks): 4495, Mark Slots: 4, …}
+581 {Part Name: "GM Custom", Part Type: "Torso", Base Stat Total (BST): 1644, BST (w. Marks): 4274, Mark Slots: 4, …}
+582 {Part Name: "GM Custom", Part Type: "Back", Base Stat Total (BST): 1544, BST (w. Marks): 4014, Mark Slots: 4, …}
+583 {Part Name: "GM Custom", Part Type: "Legs", Base Stat Total (BST): 1558, BST (w. Marks): 4051, Mark Slots: 4, …}
+584 {Part Name: "GM Custom", Part Type: "Head", Base Stat Total (BST): 1807, BST (w. Marks): 4698, Mark Slots: 4, …}
+585 {Part Name: "GM II", Part Type: "Arms", Base Stat Total (BST): 1965, BST (w. Marks): 5109, Mark Slots: 4, …}
+586 {Part Name: "GM II", Part Type: "Torso", Base Stat Total (BST): 1717, BST (w. Marks): 4464, Mark Slots: 4, …}
+587 {Part Name: "GM II", Part Type: "Back", Base Stat Total (BST): 1633, BST (w. Marks): 4246, Mark Slots: 4, …}
+588 {Part Name: "GM II", Part Type: "Legs", Base Stat Total (BST): 1633, BST (w. Marks): 4246, Mark Slots: 4, …}
+589 {Part Name: "GM II", Part Type: "Head", Base Stat Total (BST): 1933, BST (w. Marks): 5026, Mark Slots: 4, …}
+590 {Part Name: "GM III", Part Type: "Arms", Base Stat Total (BST): 1930, BST (w. Marks): 5018, Mark Slots: 4, …}
+591 {Part Name: "GM III", Part Type: "Torso", Base Stat Total (BST): 1828, BST (w. Marks): 4753, Mark Slots: 4, …}
+592 {Part Name: "GM III", Part Type: "Back", Base Stat Total (BST): 1633, BST (w. Marks): 4246, Mark Slots: 4, …}
+593 {Part Name: "GM III", Part Type: "Legs", Base Stat Total (BST): 1633, BST (w. Marks): 4246, Mark Slots: 4, …}
+594 {Part Name: "GM III", Part Type: "Head", Base Stat Total (BST): 1647, BST (w. Marks): 4282, Mark Slots: 4, …}
+595 {Part Name: "GN Archer", Part Type: "Arms", Base Stat Total (BST): 2431, BST (w. Marks): 5348, Mark Slots: 3, …}
+596 {Part Name: "GN Archer", Part Type: "Torso", Base Stat Total (BST): 2369, BST (w. Marks): 5212, Mark Slots: 3, …}
+597 {Part Name: "GN Archer", Part Type: "Back", Base Stat Total (BST): 2167, BST (w. Marks): 4767, Mark Slots: 3, …}
+598 {Part Name: "GN Archer", Part Type: "Legs", Base Stat Total (BST): 2159, BST (w. Marks): 4750, Mark Slots: 3, …}
+599 {Part Name: "GN Archer", Part Type: "Head", Base Stat Total (BST): 2463, BST (w. Marks): 5419, Mark Slots: 3, …}
+600 {Part Name: "GN Bazooka↵(GN-XIII)", Part Type: "Ranged Wep.", Base Stat Total (BST): 2412, BST (w. Marks): 5306, Mark Slots: 3, …}
+601 {Part Name: "GN Bazooka↵(Virtue)", Part Type: "Ranged Wep.", Base Stat Total (BST): 3589, BST (w. Marks): 6460, Mark Slots: 2, …}
+602 {Part Name: "GN Beam Rifle↵(GN-X / Long Barrel)", Part Type: "Ranged Wep.", Base Stat Total (BST): 2323, BST (w. Marks): 5111, Mark Slots: 3, …}
+603 {Part Name: "GN Beam Rifle↵(GN-X)", Part Type: "Ranged Wep.", Base Stat Total (BST): 2323, BST (w. Marks): 5111, Mark Slots: 3, …}
+604 {Part Name: "GN Beam Rifle↵(GN-XII/Long Barrel)", Part Type: "Ranged Wep.", Base Stat Total (BST): 2412, BST (w. Marks): 5306, Mark Slots: 3, …}
+605 {Part Name: "GN Beam Rifle↵(GN-XIII)", Part Type: "Ranged Wep.", Base Stat Total (BST): 2412, BST (w. Marks): 5306, Mark Slots: 3, …}
+606 {Part Name: "GN Beam Rifle↵(Nadleeh)", Part Type: "Ranged Wep.", Base Stat Total (BST): 3407, BST (w. Marks): 6133, Mark Slots: 2, …}
+607 {Part Name: "GN Beam Saber↵(GN-X)", Part Type: "Melee Wep.", Base Stat Total (BST): 2323, BST (w. Marks): 5111, Mark Slots: 3, …}
+608 {Part Name: "GN Beam Saber↵(GN-XIII)", Part Type: "Melee Wep.", Base Stat Total (BST): 2128, BST (w. Marks): 4682, Mark Slots: 3, …}
+609 {Part Name: "GN Beam Saber↵(Nadleeh)", Part Type: "Melee Wep.", Base Stat Total (BST): 3409, BST (w. Marks): 6136, Mark Slots: 2, …}
+610 {Part Name: "GN Beam Saber↵(Throne Drei)", Part Type: "Melee Wep.", Base Stat Total (BST): 3309, BST (w. Marks): 5956, Mark Slots: 2, …}
+611 {Part Name: "GN Beam Submachine↵Gun", Part Type: "Ranged Wep.", Base Stat Total (BST): 2992, BST (w. Marks): 5386, Mark Slots: 2, …}
+612 {Part Name: "GN Buster Sword↵(Arche)", Part Type: "Melee Wep.", Base Stat Total (BST): 3409, BST (w. Marks): 6136, Mark Slots: 2, …}
+613 {Part Name: "GN Buster Sword Rifle↵Mode (Arche)", Part Type: "Ranged Wep.", Base Stat Total (BST): 3409, BST (w. Marks): 6136, Mark Slots: 2, …}
+614 {Part Name: "GN Gun Blade↵(Blade Mode)", Part Type: "Melee Wep.", Base Stat Total (BST): 6042, BST (w. Marks): 8459, Mark Slots: 1, …}
+615 {Part Name: "GN Lance", Part Type: "Melee Wep.", Base Stat Total (BST): 2128, BST (w. Marks): 4682, Mark Slots: 3, …}
+616 {Part Name: "GN Lance↵(Rifle Mode)", Part Type: "Ranged Wep.", Base Stat Total (BST): 2412, BST (w. Marks): 5306, Mark Slots: 3, …}
+617 {Part Name: "GN Shield↵(Arche)", Part Type: "Shield", Base Stat Total (BST): 3552, BST (w. Marks): 6394, Mark Slots: 2, …}
+618 {Part Name: "GN Shield↵(Exia)", Part Type: "Shield", Base Stat Total (BST): 5000, BST (w. Marks): 7000, Mark Slots: 1, …}
+619 {Part Name: "GN Shield↵(GN-X)", Part Type: "Shield", Base Stat Total (BST): 2331, BST (w. Marks): 5128, Mark Slots: 3, …}
+620 {Part Name: "GN Shield↵(Kyrios)", Part Type: "Shield", Base Stat Total (BST): 3266, BST (w. Marks): 5879, Mark Slots: 2, …}
+621 {Part Name: "GN Shield↵(Nadleeh)", Part Type: "Shield", Base Stat Total (BST): 3552, BST (w. Marks): 6394, Mark Slots: 2, …}
+622 {Part Name: "GN Sniper Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 4968, BST (w. Marks): 6955, Mark Slots: 1, …}
+623 {Part Name: "GN Sword", Part Type: "Melee Wep.", Base Stat Total (BST): 4575, BST (w. Marks): 6405, Mark Slots: 1, …}
+624 {Part Name: "GN Sword↵Rifle Mode", Part Type: "Ranged Wep.", Base Stat Total (BST): 5182, BST (w. Marks): 7255, Mark Slots: 1, …}
+625 {Part Name: "GN Sword II", Part Type: "Melee Wep.", Base Stat Total (BST): 6042, BST (w. Marks): 8459, Mark Slots: 1, …}
+626 {Part Name: "GN Sword III", Part Type: "Melee Wep.", Base Stat Total (BST): 6042, BST (w. Marks): 8459, Mark Slots: 1, …}
+627 {Part Name: "GN Sword III Rifle Mode", Part Type: "Ranged Wep.", Base Stat Total (BST): 5769, BST (w. Marks): 8077, Mark Slots: 1, …}
+628 {Part Name: "GN Sword IV↵(Katar Mode)", Part Type: "Melee Wep.", Base Stat Total (BST): 4995, BST (w. Marks): 6993, Mark Slots: 1, …}
+629 {Part Name: "GN Sword IV↵(Rifle Mode)", Part Type: "Ranged Wep.", Base Stat Total (BST): 5769, BST (w. Marks): 8077, Mark Slots: 1, …}
+630 {Part Name: "GN Sword IV↵(Saber Mode)", Part Type: "Melee Wep.", Base Stat Total (BST): 6042, BST (w. Marks): 8459, Mark Slots: 1, …}
+631 {Part Name: "GN Sword IV Full Saber", Part Type: "Melee Wep.", Base Stat Total (BST): 5228, BST (w. Marks): 7319, Mark Slots: 1, …}
+632 {Part Name: "GN-Shield↵(GN-XIII)", Part Type: "Shield", Base Stat Total (BST): 2140, BST (w. Marks): 4708, Mark Slots: 3, …}
+633 {Part Name: "GN-X", Part Type: "Torso", Base Stat Total (BST): 2358, BST (w. Marks): 5188, Mark Slots: 3, …}
+634 {Part Name: "GN-X", Part Type: "Arms", Base Stat Total (BST): 2536, BST (w. Marks): 5579, Mark Slots: 3, …}
+635 {Part Name: "GN-X", Part Type: "Back", Base Stat Total (BST): 2523, BST (w. Marks): 5551, Mark Slots: 3, …}
+636 {Part Name: "GN-X", Part Type: "Legs", Base Stat Total (BST): 2523, BST (w. Marks): 5551, Mark Slots: 3, …}
+637 {Part Name: "GN-X", Part Type: "Head", Base Stat Total (BST): 2456, BST (w. Marks): 5403, Mark Slots: 3, …}
+638 {Part Name: "GN-XIII", Part Type: "Back", Base Stat Total (BST): 2360, BST (w. Marks): 5192, Mark Slots: 3, …}
+639 {Part Name: "GN-XIII", Part Type: "Legs", Base Stat Total (BST): 2360, BST (w. Marks): 5192, Mark Slots: 3, …}
+640 {Part Name: "GN-XIII", Part Type: "Arms", Base Stat Total (BST): 2438, BST (w. Marks): 5364, Mark Slots: 3, …}
+641 {Part Name: "GN-XIII", Part Type: "Torso", Base Stat Total (BST): 2502, BST (w. Marks): 5504, Mark Slots: 3, …}
+642 {Part Name: "GN-XIII", Part Type: "Head", Base Stat Total (BST): 2502, BST (w. Marks): 5504, Mark Slots: 3, …}
+643 {Part Name: "Gouf", Part Type: "Arms", Base Stat Total (BST): 1934, BST (w. Marks): 5028, Mark Slots: 4, …}
+644 {Part Name: "Gouf", Part Type: "Torso", Base Stat Total (BST): 1773, BST (w. Marks): 4610, Mark Slots: 4, …}
+645 {Part Name: "Gouf", Part Type: "Back", Base Stat Total (BST): 1687, BST (w. Marks): 4386, Mark Slots: 4, …}
+646 {Part Name: "Gouf", Part Type: "Legs", Base Stat Total (BST): 1687, BST (w. Marks): 4386, Mark Slots: 4, …}
+647 {Part Name: "Gouf", Part Type: "Head", Base Stat Total (BST): 1497, BST (w. Marks): 3892, Mark Slots: 4, …}
+648 {Part Name: "Gouf Custom", Part Type: "Head", Base Stat Total (BST): 3818, BST (w. Marks): 6872, Mark Slots: 2, …}
+649 {Part Name: "Gouf Custom", Part Type: "Torso", Base Stat Total (BST): 3637, BST (w. Marks): 6547, Mark Slots: 2, …}
+650 {Part Name: "Gouf Custom", Part Type: "Arms", Base Stat Total (BST): 3944, BST (w. Marks): 7099, Mark Slots: 2, …}
+651 {Part Name: "Gouf Custom", Part Type: "Legs", Base Stat Total (BST): 3848, BST (w. Marks): 6926, Mark Slots: 2, …}
+652 {Part Name: "Gouf Custom", Part Type: "Back", Base Stat Total (BST): 3848, BST (w. Marks): 6926, Mark Slots: 2, …}
+653 {Part Name: "GP01↵(Zephyranthes)", Part Type: "Head", Base Stat Total (BST): 5182, BST (w. Marks): 7255, Mark Slots: 1, …}
+654 {Part Name: "GP01↵(Zephyranthes)", Part Type: "Torso", Base Stat Total (BST): 5355, BST (w. Marks): 7497, Mark Slots: 1, …}
+655 {Part Name: "GP01↵(Zephyranthes)", Part Type: "Arms", Base Stat Total (BST): 5321, BST (w. Marks): 7449, Mark Slots: 1, …}
+656 {Part Name: "GP01↵(Zephyranthes)", Part Type: "Legs", Base Stat Total (BST): 5135, BST (w. Marks): 7189, Mark Slots: 1, …}
+657 {Part Name: "GP01↵(Zephyranthes)", Part Type: "Back", Base Stat Total (BST): 5135, BST (w. Marks): 7189, Mark Slots: 1, …}
+658 {Part Name: "GP01Fb↵(Zephyranthes Fb)", Part Type: "Head", Base Stat Total (BST): 5560, BST (w. Marks): 7784, Mark Slots: 1, …}
+659 {Part Name: "GP01Fb↵(Zephyranthes Fb)", Part Type: "Torso", Base Stat Total (BST): 5332, BST (w. Marks): 7465, Mark Slots: 1, …}
+660 {Part Name: "GP01Fb↵(Zephyranthes Fb)", Part Type: "Arms", Base Stat Total (BST): 5912, BST (w. Marks): 8277, Mark Slots: 1, …}
+661 {Part Name: "GP01Fb↵(Zephyranthes Fb)", Part Type: "Legs", Base Stat Total (BST): 4942, BST (w. Marks): 6919, Mark Slots: 1, …}
+662 {Part Name: "GP01Fb↵(Zephyranthes Fb)", Part Type: "Back", Base Stat Total (BST): 4942, BST (w. Marks): 6919, Mark Slots: 1, …}
+663 {Part Name: "GP01Fb (Zephyranthes Fb)↵(Beginner Campaign)", Part Type: "Head", Base Stat Total (BST): 4932, BST (w. Marks): 6905, Mark Slots: 1, …}
+664 {Part Name: "GP01Fb (Zephyranthes Fb)↵(Beginner Campaign)", Part Type: "Torso", Base Stat Total (BST): 4816, BST (w. Marks): 6742, Mark Slots: 1, …}
+665 {Part Name: "GP01Fb (Zephyranthes Fb)↵(Beginner Campaign)", Part Type: "Arms", Base Stat Total (BST): 5376, BST (w. Marks): 7526, Mark Slots: 1, …}
+666 {Part Name: "GP01Fb (Zephyranthes Fb)↵(Beginner Campaign)", Part Type: "Legs", Base Stat Total (BST): 4342, BST (w. Marks): 6079, Mark Slots: 1, …}
+667 {Part Name: "GP01Fb (Zephyranthes Fb)↵(Beginner Campaign)", Part Type: "Back", Base Stat Total (BST): 4342, BST (w. Marks): 6079, Mark Slots: 1, …}
+668 {Part Name: "GP02A↵(Physalis)", Part Type: "Head", Base Stat Total (BST): 5182, BST (w. Marks): 7255, Mark Slots: 1, …}
+669 {Part Name: "GP02A↵(Physalis)", Part Type: "Torso", Base Stat Total (BST): 5355, BST (w. Marks): 7497, Mark Slots: 1, …}
+670 {Part Name: "GP02A↵(Physalis)", Part Type: "Arms", Base Stat Total (BST): 5321, BST (w. Marks): 7449, Mark Slots: 1, …}
+671 {Part Name: "GP02A↵(Physalis)", Part Type: "Legs", Base Stat Total (BST): 5135, BST (w. Marks): 7189, Mark Slots: 1, …}
+672 {Part Name: "GP02A↵(Physalis)", Part Type: "Back", Base Stat Total (BST): 5135, BST (w. Marks): 7189, Mark Slots: 1, …}
+673 {Part Name: "GP03↵(Stamen)", Part Type: "Head", Base Stat Total (BST): 4964, BST (w. Marks): 6950, Mark Slots: 1, …}
+674 {Part Name: "GP03↵(Stamen)", Part Type: "Torso", Base Stat Total (BST): 5357, BST (w. Marks): 7500, Mark Slots: 1, …}
+675 {Part Name: "GP03↵(Stamen)", Part Type: "Arms", Base Stat Total (BST): 5937, BST (w. Marks): 8312, Mark Slots: 1, …}
+676 {Part Name: "GP03↵(Stamen)", Part Type: "Legs", Base Stat Total (BST): 4949, BST (w. Marks): 6929, Mark Slots: 1, …}
+677 {Part Name: "GP03↵(Stamen)", Part Type: "Back", Base Stat Total (BST): 4949, BST (w. Marks): 6929, Mark Slots: 1, …}
+678 {Part Name: "Grand Slam", Part Type: "Melee Wep.", Base Stat Total (BST): 4407, BST (w. Marks): 6170, Mark Slots: 1, …}
+679 {Part Name: "Grenade Launcher w/↵Laser Machine Gun", Part Type: "Ranged Wep.", Base Stat Total (BST): 3883, BST (w. Marks): 6989, Mark Slots: 2, …}
+680 {Part Name: "Guncannon", Part Type: "Legs", Base Stat Total (BST): 1593, BST (w. Marks): 4142, Mark Slots: 4, …}
+681 {Part Name: "Guncannon", Part Type: "Back", Base Stat Total (BST): 1591, BST (w. Marks): 4137, Mark Slots: 4, …}
+682 {Part Name: "Guncannon", Part Type: "Arms", Base Stat Total (BST): 1693, BST (w. Marks): 4402, Mark Slots: 4, …}
+683 {Part Name: "Guncannon", Part Type: "Torso", Base Stat Total (BST): 1858, BST (w. Marks): 4831, Mark Slots: 4, …}
+684 {Part Name: "Guncannon", Part Type: "Head", Base Stat Total (BST): 1802, BST (w. Marks): 4685, Mark Slots: 4, …}
+685 {Part Name: "Gundam", Part Type: "Arms", Base Stat Total (BST): 5917, BST (w. Marks): 8284, Mark Slots: 1, …}
+686 {Part Name: "Gundam", Part Type: "Torso", Base Stat Total (BST): 5304, BST (w. Marks): 7426, Mark Slots: 1, …}
+687 {Part Name: "Gundam", Part Type: "Back", Base Stat Total (BST): 4899, BST (w. Marks): 6859, Mark Slots: 1, …}
+688 {Part Name: "Gundam", Part Type: "Legs", Base Stat Total (BST): 4899, BST (w. Marks): 6859, Mark Slots: 1, …}
+689 {Part Name: "Gundam", Part Type: "Head", Base Stat Total (BST): 5573, BST (w. Marks): 7802, Mark Slots: 1, …}
+690 {Part Name: "Gundam↵(Pre-Reg. Reward)", Part Type: "Torso", Base Stat Total (BST): 2360, BST (w. Marks): 5192, Mark Slots: 3, …}
+691 {Part Name: "Gundam↵(Pre-Reg. Reward)", Part Type: "Arms", Base Stat Total (BST): 2423, BST (w. Marks): 5331, Mark Slots: 3, …}
+692 {Part Name: "Gundam↵(Pre-Reg. Reward)", Part Type: "Back", Base Stat Total (BST): 2530, BST (w. Marks): 5566, Mark Slots: 3, …}
+693 {Part Name: "Gundam↵(Pre-Reg. Reward)", Part Type: "Legs", Base Stat Total (BST): 2530, BST (w. Marks): 5566, Mark Slots: 3, …}
+694 {Part Name: "Gundam↵(Pre-Reg. Reward)", Part Type: "Head", Base Stat Total (BST): 2423, BST (w. Marks): 5331, Mark Slots: 3, …}
+695 {Part Name: "Gundam Hammer", Part Type: "Melee Wep.", Base Stat Total (BST): 5988, BST (w. Marks): 8383, Mark Slots: 1, …}
+696 {Part Name: "Gundam X", Part Type: "Head", Base Stat Total (BST): 5515, BST (w. Marks): 7721, Mark Slots: 1, …}
+697 {Part Name: "Gundam X", Part Type: "Torso", Base Stat Total (BST): 5359, BST (w. Marks): 7503, Mark Slots: 1, …}
+698 {Part Name: "Gundam X", Part Type: "Arms", Base Stat Total (BST): 4935, BST (w. Marks): 6909, Mark Slots: 1, …}
+699 {Part Name: "Gundam X", Part Type: "Legs", Base Stat Total (BST): 4812, BST (w. Marks): 6737, Mark Slots: 1, …}
+700 {Part Name: "Gundam X", Part Type: "Back", Base Stat Total (BST): 4812, BST (w. Marks): 6737, Mark Slots: 1, …}
+701 {Part Name: "Guntank", Part Type: "Torso", Base Stat Total (BST): 1580, BST (w. Marks): 4108, Mark Slots: 4, …}
+702 {Part Name: "Guntank", Part Type: "Arms", Base Stat Total (BST): 1732, BST (w. Marks): 4503, Mark Slots: 4, …}
+703 {Part Name: "Guntank", Part Type: "Back", Base Stat Total (BST): 1771, BST (w. Marks): 4605, Mark Slots: 4, …}
+704 {Part Name: "Guntank", Part Type: "Legs", Base Stat Total (BST): 1771, BST (w. Marks): 4605, Mark Slots: 4, …}
+705 {Part Name: "Guntank", Part Type: "Head", Base Stat Total (BST): 1678, BST (w. Marks): 4363, Mark Slots: 4, …}
+706 {Part Name: "Gusion", Part Type: "Head", Base Stat Total (BST): 3745, BST (w. Marks): 6741, Mark Slots: 2, …}
+707 {Part Name: "Gusion", Part Type: "Torso", Base Stat Total (BST): 3832, BST (w. Marks): 6898, Mark Slots: 2, …}
+708 {Part Name: "Gusion", Part Type: "Arms", Base Stat Total (BST): 3983, BST (w. Marks): 7169, Mark Slots: 2, …}
+709 {Part Name: "Gusion", Part Type: "Legs", Base Stat Total (BST): 3814, BST (w. Marks): 6865, Mark Slots: 2, …}
+710 {Part Name: "Gusion", Part Type: "Back", Base Stat Total (BST): 3814, BST (w. Marks): 6865, Mark Slots: 2, …}
+711 {Part Name: "Gusion Hammer", Part Type: "Melee Wep.", Base Stat Total (BST): 3351, BST (w. Marks): 6032, Mark Slots: 2, …}
+712 {Part Name: "Gusion Rebake", Part Type: "Head", Base Stat Total (BST): 5132, BST (w. Marks): 7185, Mark Slots: 1, …}
+713 {Part Name: "Gusion Rebake", Part Type: "Torso", Base Stat Total (BST): 4952, BST (w. Marks): 6933, Mark Slots: 1, …}
+714 {Part Name: "Gusion Rebake", Part Type: "Arms", Base Stat Total (BST): 5343, BST (w. Marks): 7480, Mark Slots: 1, …}
+715 {Part Name: "Gusion Rebake", Part Type: "Legs", Base Stat Total (BST): 5392, BST (w. Marks): 7549, Mark Slots: 1, …}
+716 {Part Name: "Gusion Rebake", Part Type: "Back", Base Stat Total (BST): 5392, BST (w. Marks): 7549, Mark Slots: 1, …}
+717 {Part Name: "Gyan", Part Type: "Arms", Base Stat Total (BST): 1930, BST (w. Marks): 5018, Mark Slots: 4, …}
+718 {Part Name: "Gyan", Part Type: "Torso", Base Stat Total (BST): 1828, BST (w. Marks): 4753, Mark Slots: 4, …}
+719 {Part Name: "Gyan", Part Type: "Back", Base Stat Total (BST): 1633, BST (w. Marks): 4246, Mark Slots: 4, …}
+720 {Part Name: "Gyan", Part Type: "Legs", Base Stat Total (BST): 1633, BST (w. Marks): 4246, Mark Slots: 4, …}
+721 {Part Name: "Gyan", Part Type: "Head", Base Stat Total (BST): 1647, BST (w. Marks): 4282, Mark Slots: 4, …}
+722 {Part Name: "Halberd", Part Type: "Melee Wep.", Base Stat Total (BST): 5011, BST (w. Marks): 7015, Mark Slots: 1, …}
+723 {Part Name: "Haman Karn", Part Type: "Pilot", Base Stat Total (BST): 5004, BST (w. Marks): 5004, Mark Slots: 0, …}
+724 {Part Name: "Hand Beam Gun", Part Type: "Ranged Wep.", Base Stat Total (BST): 3314, BST (w. Marks): 5965, Mark Slots: 2, …}
+725 {Part Name: "Haro", Part Type: "Pilot", Base Stat Total (BST): 1525, BST (w. Marks): 1525, Mark Slots: 0, …}
+726 {Part Name: "Harry Ord", Part Type: "Pilot", Base Stat Total (BST): 3535, BST (w. Marks): 3535, Mark Slots: 0, …}
+727 {Part Name: "Hayato Kobayashi", Part Type: "Pilot", Base Stat Total (BST): 2457, BST (w. Marks): 2457, Mark Slots: 0, …}
+728 {Part Name: "Heat Fan", Part Type: "Melee Wep.", Base Stat Total (BST): 3617, BST (w. Marks): 6511, Mark Slots: 2, …}
+729 {Part Name: "Heat Hawk", Part Type: "Melee Wep.", Base Stat Total (BST): 1650, BST (w. Marks): 4290, Mark Slots: 4, …}
+730 {Part Name: "HEAT REV SWORD", Part Type: "Melee Wep.", Base Stat Total (BST): 5011, BST (w. Marks): 7015, Mark Slots: 1, …}
+731 {Part Name: "Heat Rod↵(Gouf Custom)", Part Type: "Melee Wep.", Base Stat Total (BST): 3544, BST (w. Marks): 6379, Mark Slots: 2, …}
+732 {Part Name: "Heat Saber↵(Efreet Custom)", Part Type: "Melee Wep.", Base Stat Total (BST): 3886, BST (w. Marks): 6995, Mark Slots: 2, …}
+733 {Part Name: "Heat Saber↵(Gouf)", Part Type: "Melee Wep.", Base Stat Total (BST): 1638, BST (w. Marks): 4259, Mark Slots: 4, …}
+734 {Part Name: "Heat Sword↵(Gouf Custom)", Part Type: "Melee Wep.", Base Stat Total (BST): 3544, BST (w. Marks): 6379, Mark Slots: 2, …}
+735 {Part Name: "Heavy Autocannon", Part Type: "Ranged Wep.", Base Stat Total (BST): 3883, BST (w. Marks): 6989, Mark Slots: 2, …}
+736 {Part Name: "Heavyarms", Part Type: "Head", Base Stat Total (BST): 3895, BST (w. Marks): 7011, Mark Slots: 2, …}
+737 {Part Name: "Heavyarms", Part Type: "Torso", Base Stat Total (BST): 3827, BST (w. Marks): 6889, Mark Slots: 2, …}
+738 {Part Name: "Heavyarms", Part Type: "Arms", Base Stat Total (BST): 3789, BST (w. Marks): 6820, Mark Slots: 2, …}
+739 {Part Name: "Heavyarms", Part Type: "Legs", Base Stat Total (BST): 3626, BST (w. Marks): 6527, Mark Slots: 2, …}
+740 {Part Name: "Heavyarms", Part Type: "Back", Base Stat Total (BST): 3626, BST (w. Marks): 6527, Mark Slots: 2, …}
+741 {Part Name: "Heero Yuy", Part Type: "Pilot", Base Stat Total (BST): 5004, BST (w. Marks): 5004, Mark Slots: 0, …}
+742 {Part Name: "Heero Yuy↵(Pre-Reg. Reward)", Part Type: "Pilot", Base Stat Total (BST): 2417, BST (w. Marks): 2417, Mark Slots: 0, …}
+743 {Part Name: "Heine Westenfluss", Part Type: "Pilot", Base Stat Total (BST): 3632, BST (w. Marks): 3632, Mark Slots: 0, …}
+744 {Part Name: "Hi-Mega Shield↵[Hi-nu HWS (Ver. Ka)]", Part Type: "Shield", Base Stat Total (BST): 5758, BST (w. Marks): 8061, Mark Slots: 1, …}
+745 {Part Name: "Hi-nu Gundam HWS↵(Ver. Ka)", Part Type: "Head", Base Stat Total (BST): 6052, BST (w. Marks): 8473, Mark Slots: 1, …}
+746 {Part Name: "Hi-nu Gundam HWS↵(Ver. Ka)", Part Type: "Torso", Base Stat Total (BST): 6278, BST (w. Marks): 8789, Mark Slots: 1, …}
+747 {Part Name: "Hi-nu Gundam HWS↵(Ver. Ka)", Part Type: "Arms", Base Stat Total (BST): 5304, BST (w. Marks): 7426, Mark Slots: 1, …}
+748 {Part Name: "Hi-nu Gundam HWS↵(Ver. Ka)", Part Type: "Legs", Base Stat Total (BST): 5900, BST (w. Marks): 8260, Mark Slots: 1, …}
+749 {Part Name: "Hi-nu Gundam HWS↵(Ver. Ka)", Part Type: "Back", Base Stat Total (BST): 5900, BST (w. Marks): 8260, Mark Slots: 1, …}
+750 {Part Name: "High Mobility Gelgoog↵(Johnny Ridden)", Part Type: "Head", Base Stat Total (BST): 3346, BST (w. Marks): 6023, Mark Slots: 2, …}
+751 {Part Name: "High Mobility Gelgoog↵(Johnny Ridden)", Part Type: "Torso", Base Stat Total (BST): 3852, BST (w. Marks): 6934, Mark Slots: 2, …}
+752 {Part Name: "High Mobility Gelgoog↵(Johnny Ridden)", Part Type: "Arms", Base Stat Total (BST): 4315, BST (w. Marks): 7767, Mark Slots: 2, …}
+753 {Part Name: "High Mobility Gelgoog↵(Johnny Ridden)", Part Type: "Legs", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+754 {Part Name: "High Mobility Gelgoog↵(Johnny Ridden)", Part Type: "Back", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+755 {Part Name: "High-Energy Beam Rifle↵(Destiny)", Part Type: "Ranged Wep.", Base Stat Total (BST): 5325, BST (w. Marks): 7455, Mark Slots: 1, …}
+756 {Part Name: "High-Energy Beam Rifle↵(Gaia)", Part Type: "Ranged Wep.", Base Stat Total (BST): 3409, BST (w. Marks): 6136, Mark Slots: 2, …}
+757 {Part Name: "Hy-Gogg", Part Type: "Arms", Base Stat Total (BST): 2536, BST (w. Marks): 5579, Mark Slots: 3, …}
+758 {Part Name: "Hy-Gogg", Part Type: "Back", Base Stat Total (BST): 2523, BST (w. Marks): 5551, Mark Slots: 3, …}
+759 {Part Name: "Hy-Gogg", Part Type: "Legs", Base Stat Total (BST): 2523, BST (w. Marks): 5551, Mark Slots: 3, …}
+760 {Part Name: "Hy-Gogg", Part Type: "Torso↵(+ Head)", Base Stat Total (BST): 4656, BST (w. Marks): 7450, Mark Slots: 3, …}
+761 {Part Name: "Hy-Gogg [ALT]", Part Type: "Torso↵(+ Head)", Base Stat Total (BST): 4656, BST (w. Marks): 7450, Mark Slots: 3, …}
+762 {Part Name: "Hy-Gogg [ALT]", Part Type: "Arms", Base Stat Total (BST): 2536, BST (w. Marks): 5579, Mark Slots: 3, …}
+763 {Part Name: "Hy-Gogg [ALT]", Part Type: "Back", Base Stat Total (BST): 2523, BST (w. Marks): 5551, Mark Slots: 3, …}
+764 {Part Name: "Hy-Gogg [ALT]", Part Type: "Legs", Base Stat Total (BST): 2523, BST (w. Marks): 5551, Mark Slots: 3, …}
+765 {Part Name: "Hyaku Shiki", Part Type: "Arms", Base Stat Total (BST): 3743, BST (w. Marks): 6737, Mark Slots: 2, …}
+766 {Part Name: "Hyaku Shiki", Part Type: "Torso", Base Stat Total (BST): 3618, BST (w. Marks): 6512, Mark Slots: 2, …}
+767 {Part Name: "Hyaku Shiki", Part Type: "Back", Base Stat Total (BST): 3322, BST (w. Marks): 5980, Mark Slots: 2, …}
+768 {Part Name: "Hyaku Shiki", Part Type: "Legs", Base Stat Total (BST): 3334, BST (w. Marks): 6001, Mark Slots: 2, …}
+769 {Part Name: "Hyaku Shiki", Part Type: "Head", Base Stat Total (BST): 3834, BST (w. Marks): 6901, Mark Slots: 2, …}
+770 {Part Name: "Hyakurai", Part Type: "Ranged Wep.", Base Stat Total (BST): 5181, BST (w. Marks): 7253, Mark Slots: 1, …}
+771 {Part Name: "Hyper Bazooka", Part Type: "Ranged Wep.", Base Stat Total (BST): 4806, BST (w. Marks): 6728, Mark Slots: 1, …}
+772 {Part Name: "Hyper Bazooka↵(Build Gundam Mk-II)", Part Type: "Ranged Wep.", Base Stat Total (BST): 3743, BST (w. Marks): 6737, Mark Slots: 2, …}
+773 {Part Name: "Hyper Bazooka↵(Mk-II)", Part Type: "Ranged Wep.", Base Stat Total (BST): 1952, BST (w. Marks): 4294, Mark Slots: 3, …}
+774 {Part Name: "Hyper Bazooka↵(Stark Jegan)", Part Type: "Ranged Wep.", Base Stat Total (BST): 1772, BST (w. Marks): 4607, Mark Slots: 4, …}
+775 {Part Name: "Hyper Bazooka↵(Unicorn)", Part Type: "Ranged Wep.", Base Stat Total (BST): 5145, BST (w. Marks): 7203, Mark Slots: 1, …}
+776 {Part Name: "Hyper Bazooka (Gundam)↵(Pre-Reg. Reward)", Part Type: "Ranged Wep.", Base Stat Total (BST): 2251, BST (w. Marks): 4952, Mark Slots: 3, …}
+777 {Part Name: "Hyper Bazooka [ALT]↵(Stark Jegan)", Part Type: "Ranged Wep.", Base Stat Total (BST): 1772, BST (w. Marks): 4607, Mark Slots: 4, …}
+778 {Part Name: "Hyper Beam Saber↵(Tryon 3)", Part Type: "Melee Wep.", Base Stat Total (BST): 4995, BST (w. Marks): 6993, Mark Slots: 1, …}
+779 {Part Name: "Hyper Beam Saber↵[Enhanced ZZ (Ver. Ka)] ", Part Type: "Melee Wep.", Base Stat Total (BST): 5376, BST (w. Marks): 7526, Mark Slots: 1, …}
+780 {Part Name: "Hyper Beam Sword", Part Type: "Melee Wep.", Base Stat Total (BST): 5380, BST (w. Marks): 7532, Mark Slots: 1, …}
+781 {Part Name: "Hyper DODS Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 2992, BST (w. Marks): 5386, Mark Slots: 2, …}
+782 {Part Name: "Hyper Impulse Long-↵Range Sniper Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 3586, BST (w. Marks): 6455, Mark Slots: 2, …}
+783 {Part Name: "Hyper Mega↵Launcher", Part Type: "Ranged Wep.", Base Stat Total (BST): 5170, BST (w. Marks): 7238, Mark Slots: 1, …}
+784 {Part Name: "Hyper Mega Rifle↵[Hi-nu HWS (Ver. Ka)]", Part Type: "Ranged Wep.", Base Stat Total (BST): 5916, BST (w. Marks): 8282, Mark Slots: 1, …}
+785 {Part Name: "Hyper Minovsky↵Chohouken", Part Type: "Melee Wep.", Base Stat Total (BST): 4995, BST (w. Marks): 6993, Mark Slots: 1, …}
+786 {Part Name: "Jagd Doga", Part Type: "Head", Base Stat Total (BST): 3812, BST (w. Marks): 6862, Mark Slots: 2, …}
+787 {Part Name: "Jagd Doga", Part Type: "Torso", Base Stat Total (BST): 3617, BST (w. Marks): 6511, Mark Slots: 2, …}
+788 {Part Name: "Jagd Doga", Part Type: "Arms", Base Stat Total (BST): 3745, BST (w. Marks): 6741, Mark Slots: 2, …}
+789 {Part Name: "Jagd Doga", Part Type: "Legs", Base Stat Total (BST): 3303, BST (w. Marks): 5945, Mark Slots: 2, …}
+790 {Part Name: "Jagd Doga", Part Type: "Back", Base Stat Total (BST): 3292, BST (w. Marks): 5926, Mark Slots: 2, …}
+791 {Part Name: "Jamil Neate", Part Type: "Pilot", Base Stat Total (BST): 3344, BST (w. Marks): 3344, Mark Slots: 0, …}
+792 {Part Name: "Jean-Luc Duval", Part Type: "Pilot", Base Stat Total (BST): 3747, BST (w. Marks): 3747, Mark Slots: 0, …}
+793 {Part Name: "Jegan", Part Type: "Arms", Base Stat Total (BST): 2548, BST (w. Marks): 5606, Mark Slots: 3, …}
+794 {Part Name: "Jegan", Part Type: "Torso", Base Stat Total (BST): 2473, BST (w. Marks): 5441, Mark Slots: 3, …}
+795 {Part Name: "Jegan", Part Type: "Back", Base Stat Total (BST): 2446, BST (w. Marks): 5381, Mark Slots: 3, …}
+796 {Part Name: "Jegan", Part Type: "Legs", Base Stat Total (BST): 2446, BST (w. Marks): 5381, Mark Slots: 3, …}
+797 {Part Name: "Jegan", Part Type: "Head", Base Stat Total (BST): 2441, BST (w. Marks): 5370, Mark Slots: 3, …}
+798 {Part Name: "Jerid Messa", Part Type: "Pilot", Base Stat Total (BST): 3885, BST (w. Marks): 3885, Mark Slots: 0, …}
+799 {Part Name: "Jesta", Part Type: "Arms", Base Stat Total (BST): 2777, BST (w. Marks): 6109, Mark Slots: 3, …}
+800 {Part Name: "Jesta", Part Type: "Torso", Base Stat Total (BST): 2540, BST (w. Marks): 5588, Mark Slots: 3, …}
+801 {Part Name: "Jesta", Part Type: "Back", Base Stat Total (BST): 2364, BST (w. Marks): 5201, Mark Slots: 3, …}
+802 {Part Name: "Jesta", Part Type: "Legs", Base Stat Total (BST): 2334, BST (w. Marks): 5135, Mark Slots: 3, …}
+803 {Part Name: "Jesta", Part Type: "Head", Base Stat Total (BST): 2527, BST (w. Marks): 5559, Mark Slots: 3, …}
+804 {Part Name: "Jesta Cannon", Part Type: "Arms", Base Stat Total (BST): 2344, BST (w. Marks): 5157, Mark Slots: 3, …}
+805 {Part Name: "Jesta Cannon", Part Type: "Torso", Base Stat Total (BST): 2527, BST (w. Marks): 5559, Mark Slots: 3, …}
+806 {Part Name: "Jesta Cannon", Part Type: "Back", Base Stat Total (BST): 2338, BST (w. Marks): 5144, Mark Slots: 3, …}
+807 {Part Name: "Jesta Cannon", Part Type: "Legs", Base Stat Total (BST): 2338, BST (w. Marks): 5144, Mark Slots: 3, …}
+808 {Part Name: "Jesta Cannon", Part Type: "Head", Base Stat Total (BST): 2611, BST (w. Marks): 5744, Mark Slots: 3, …}
+809 {Part Name: "Jesta Cannon [ALT]", Part Type: "Arms", Base Stat Total (BST): 2344, BST (w. Marks): 5157, Mark Slots: 3, …}
+810 {Part Name: "Jesta Cannon [ALT]", Part Type: "Torso", Base Stat Total (BST): 2527, BST (w. Marks): 5559, Mark Slots: 3, …}
+811 {Part Name: "Jesta Cannon [ALT]", Part Type: "Back", Base Stat Total (BST): 2338, BST (w. Marks): 5144, Mark Slots: 3, …}
+812 {Part Name: "Jesta Cannon [ALT]", Part Type: "Legs", Base Stat Total (BST): 2338, BST (w. Marks): 5144, Mark Slots: 3, …}
+813 {Part Name: "Jesta Cannon [ALT]", Part Type: "Head", Base Stat Total (BST): 2611, BST (w. Marks): 5744, Mark Slots: 3, …}
+814 {Part Name: "Johnny Ridden", Part Type: "Pilot", Base Stat Total (BST): 3535, BST (w. Marks): 3535, Mark Slots: 0, …}
+815 {Part Name: "Juaggu↵(Unicorn Ver.)", Part Type: "Back", Base Stat Total (BST): 1633, BST (w. Marks): 4246, Mark Slots: 4, …}
+816 {Part Name: "Juaggu↵(Unicorn Ver.)", Part Type: "Legs", Base Stat Total (BST): 1633, BST (w. Marks): 4246, Mark Slots: 4, …}
+817 {Part Name: "Juaggu↵(Unicorn Ver.)", Part Type: "Arms", Base Stat Total (BST): 1690, BST (w. Marks): 4394, Mark Slots: 4, …}
+818 {Part Name: "Juaggu↵(Unicorn Ver.)", Part Type: "Torso", Base Stat Total (BST): 1828, BST (w. Marks): 4753, Mark Slots: 4, …}
+819 {Part Name: "Juaggu↵(Unicorn Ver.)", Part Type: "Head", Base Stat Total (BST): 1772, BST (w. Marks): 4607, Mark Slots: 4, …}
+820 {Part Name: "Judau Ashta", Part Type: "Pilot", Base Stat Total (BST): 5004, BST (w. Marks): 5004, Mark Slots: 0, …}
+821 {Part Name: "Judicium Beam Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 5182, BST (w. Marks): 7255, Mark Slots: 1, …}
+822 {Part Name: "Juri Wu Nien", Part Type: "Pilot", Base Stat Total (BST): 2280, BST (w. Marks): 2280, Mark Slots: 0, …}
+823 {Part Name: "Justice", Part Type: "Head", Base Stat Total (BST): 5533, BST (w. Marks): 7746, Mark Slots: 1, …}
+824 {Part Name: "Justice", Part Type: "Torso", Base Stat Total (BST): 6213, BST (w. Marks): 8698, Mark Slots: 1, …}
+825 {Part Name: "Justice", Part Type: "Arms", Base Stat Total (BST): 6705, BST (w. Marks): 9387, Mark Slots: 1, …}
+826 {Part Name: "Justice", Part Type: "Legs", Base Stat Total (BST): 5910, BST (w. Marks): 8274, Mark Slots: 1, …}
+827 {Part Name: "Justice", Part Type: "Back", Base Stat Total (BST): 5940, BST (w. Marks): 8316, Mark Slots: 1, …}
+828 {Part Name: "Kabakali", Part Type: "Head", Base Stat Total (BST): 3965, BST (w. Marks): 7137, Mark Slots: 2, …}
+829 {Part Name: "Kabakali", Part Type: "Torso", Base Stat Total (BST): 3928, BST (w. Marks): 7070, Mark Slots: 2, …}
+830 {Part Name: "Kabakali", Part Type: "Arms", Base Stat Total (BST): 4325, BST (w. Marks): 7785, Mark Slots: 2, …}
+831 {Part Name: "Kabakali", Part Type: "Legs", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+832 {Part Name: "Kabakali", Part Type: "Back", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+833 {Part Name: "Kai Shiden", Part Type: "Pilot", Base Stat Total (BST): 2219, BST (w. Marks): 2219, Mark Slots: 0, …}
+834 {Part Name: "Kamille Bidan", Part Type: "Pilot", Base Stat Total (BST): 4814, BST (w. Marks): 4814, Mark Slots: 0, …}
+835 {Part Name: "Kampfer", Part Type: "Arms", Base Stat Total (BST): 3599, BST (w. Marks): 6478, Mark Slots: 2, …}
+836 {Part Name: "Kampfer", Part Type: "Torso", Base Stat Total (BST): 3852, BST (w. Marks): 6934, Mark Slots: 2, …}
+837 {Part Name: "Kampfer", Part Type: "Back", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+838 {Part Name: "Kampfer", Part Type: "Legs", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+839 {Part Name: "Kampfer", Part Type: "Head", Base Stat Total (BST): 4062, BST (w. Marks): 7312, Mark Slots: 2, …}
+840 {Part Name: "Kampfer [ALT]", Part Type: "Arms", Base Stat Total (BST): 3599, BST (w. Marks): 6478, Mark Slots: 2, …}
+841 {Part Name: "Kampfer [ALT]", Part Type: "Torso", Base Stat Total (BST): 3852, BST (w. Marks): 6934, Mark Slots: 2, …}
+842 {Part Name: "Kampfer [ALT]", Part Type: "Back", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+843 {Part Name: "Kampfer [ALT]", Part Type: "Legs", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+844 {Part Name: "Kampfer [ALT]", Part Type: "Head", Base Stat Total (BST): 4062, BST (w. Marks): 7312, Mark Slots: 2, …}
+845 {Part Name: "Kayra Su", Part Type: "Pilot", Base Stat Total (BST): 3739, BST (w. Marks): 3739, Mark Slots: 0, …}
+846 {Part Name: "Kira Yamato", Part Type: "Pilot", Base Stat Total (BST): 5177, BST (w. Marks): 5177, Mark Slots: 0, …}
+847 {Part Name: "Knight", Part Type: "Head", Base Stat Total (BST): 5928, BST (w. Marks): 8299, Mark Slots: 1, …}
+848 {Part Name: "Knight", Part Type: "Torso", Base Stat Total (BST): 6240, BST (w. Marks): 8736, Mark Slots: 1, …}
+849 {Part Name: "Knight", Part Type: "Arms", Base Stat Total (BST): 6581, BST (w. Marks): 9213, Mark Slots: 1, …}
+850 {Part Name: "Knight", Part Type: "Legs", Base Stat Total (BST): 5902, BST (w. Marks): 8263, Mark Slots: 1, …}
+851 {Part Name: "Knight", Part Type: "Back", Base Stat Total (BST): 5927, BST (w. Marks): 8298, Mark Slots: 1, …}
+852 {Part Name: "Knight Shield", Part Type: "Shield", Base Stat Total (BST): 5218, BST (w. Marks): 7305, Mark Slots: 1, …}
+853 {Part Name: "Knight Sword", Part Type: "Melee Wep.", Base Stat Total (BST): 5778, BST (w. Marks): 8089, Mark Slots: 1, …}
+854 {Part Name: "Kou Uraki", Part Type: "Pilot", Base Stat Total (BST): 5196, BST (w. Marks): 5196, Mark Slots: 0, …}
+855 {Part Name: "Kshatriya", Part Type: "Head", Base Stat Total (BST): 6044, BST (w. Marks): 8462, Mark Slots: 1, …}
+856 {Part Name: "Kshatriya", Part Type: "Torso", Base Stat Total (BST): 6064, BST (w. Marks): 8490, Mark Slots: 1, …}
+857 {Part Name: "Kshatriya", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 11818, BST (w. Marks): 14182, Mark Slots: 1, …}
+858 {Part Name: "Kshatriya", Part Type: "Legs", Base Stat Total (BST): 5751, BST (w. Marks): 8051, Mark Slots: 1, …}
+859 {Part Name: "Kyrios", Part Type: "Head", Base Stat Total (BST): 3912, BST (w. Marks): 7042, Mark Slots: 2, …}
+860 {Part Name: "Kyrios", Part Type: "Torso", Base Stat Total (BST): 3886, BST (w. Marks): 6995, Mark Slots: 2, …}
+861 {Part Name: "Kyrios", Part Type: "Arms", Base Stat Total (BST): 4309, BST (w. Marks): 7756, Mark Slots: 2, …}
+862 {Part Name: "Kyrios", Part Type: "Legs", Base Stat Total (BST): 3040, BST (w. Marks): 5472, Mark Slots: 2, …}
+863 {Part Name: "Kyrios", Part Type: "Back", Base Stat Total (BST): 3040, BST (w. Marks): 5472, Mark Slots: 2, …}
+864 {Part Name: "Lacerta Beam Saber", Part Type: "Melee Wep.", Base Stat Total (BST): 5198, BST (w. Marks): 7277, Mark Slots: 1, …}
+865 {Part Name: "Lacus Clyne", Part Type: "Pilot", Base Stat Total (BST): 4795, BST (w. Marks): 4795, Mark Slots: 0, …}
+866 {Part Name: "Lalah Sune", Part Type: "Pilot", Base Stat Total (BST): 5177, BST (w. Marks): 5177, Mark Slots: 0, …}
+867 {Part Name: "Laminated Anti-Beam↵Shield (Freedom)", Part Type: "Shield", Base Stat Total (BST): 5166, BST (w. Marks): 7232, Mark Slots: 1, …}
+868 {Part Name: "Laminated Anti-Beam↵Shield (Justice)", Part Type: "Shield", Base Stat Total (BST): 5537, BST (w. Marks): 7752, Mark Slots: 1, …}
+869 {Part Name: "Large Beam Machine↵Gun (Gelgoog Jaeger)", Part Type: "Ranged Wep.", Base Stat Total (BST): 2498, BST (w. Marks): 5496, Mark Slots: 3, …}
+870 {Part Name: "Large Beam Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 5438, BST (w. Marks): 7613, Mark Slots: 1, …}
+871 {Part Name: "Large Beam Sword", Part Type: "Melee Wep.", Base Stat Total (BST): 4520, BST (w. Marks): 6328, Mark Slots: 1, …}
+872 {Part Name: "Large Heat Hawk", Part Type: "Melee Wep.", Base Stat Total (BST): 2078, BST (w. Marks): 4572, Mark Slots: 3, …}
+873 {Part Name: "Launcher Strike", Part Type: "Head", Base Stat Total (BST): 4062, BST (w. Marks): 7312, Mark Slots: 2, …}
+874 {Part Name: "Launcher Strike", Part Type: "Torso", Base Stat Total (BST): 3852, BST (w. Marks): 6934, Mark Slots: 2, …}
+875 {Part Name: "Launcher Strike", Part Type: "Arms", Base Stat Total (BST): 3599, BST (w. Marks): 6478, Mark Slots: 2, …}
+876 {Part Name: "Launcher Strike", Part Type: "Legs", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+877 {Part Name: "Launcher Strike", Part Type: "Back", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+878 {Part Name: "Legilis", Part Type: "Head", Base Stat Total (BST): 5343, BST (w. Marks): 7480, Mark Slots: 1, …}
+879 {Part Name: "Legilis", Part Type: "Torso", Base Stat Total (BST): 5360, BST (w. Marks): 7504, Mark Slots: 1, …}
+880 {Part Name: "Legilis", Part Type: "Arms", Base Stat Total (BST): 5135, BST (w. Marks): 7189, Mark Slots: 1, …}
+881 {Part Name: "Legilis", Part Type: "Legs", Base Stat Total (BST): 4954, BST (w. Marks): 6936, Mark Slots: 1, …}
+882 {Part Name: "Legilis", Part Type: "Back", Base Stat Total (BST): 4954, BST (w. Marks): 6936, Mark Slots: 1, …}
+883 {Part Name: "Legilis Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 5182, BST (w. Marks): 7255, Mark Slots: 1, …}
+884 {Part Name: "Leo", Part Type: "Head", Base Stat Total (BST): 1772, BST (w. Marks): 4607, Mark Slots: 4, …}
+885 {Part Name: "Leo", Part Type: "Torso", Base Stat Total (BST): 1828, BST (w. Marks): 4753, Mark Slots: 4, …}
+886 {Part Name: "Leo", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 3230, BST (w. Marks): 5814, Mark Slots: 4, …}
+887 {Part Name: "Leo", Part Type: "Legs", Base Stat Total (BST): 1633, BST (w. Marks): 4246, Mark Slots: 4, …}
+888 {Part Name: "Lightning", Part Type: "Head", Base Stat Total (BST): 5510, BST (w. Marks): 7714, Mark Slots: 1, …}
+889 {Part Name: "Lightning", Part Type: "Torso", Base Stat Total (BST): 5379, BST (w. Marks): 7531, Mark Slots: 1, …}
+890 {Part Name: "Lightning", Part Type: "Arms", Base Stat Total (BST): 4977, BST (w. Marks): 6968, Mark Slots: 1, …}
+891 {Part Name: "Lightning", Part Type: "Legs", Base Stat Total (BST): 4990, BST (w. Marks): 6986, Mark Slots: 1, …}
+892 {Part Name: "Lightning", Part Type: "Back", Base Stat Total (BST): 4990, BST (w. Marks): 6986, Mark Slots: 1, …}
+893 {Part Name: "Lila Milla Rira", Part Type: "Pilot", Base Stat Total (BST): 3798, BST (w. Marks): 3798, Mark Slots: 0, …}
+894 {Part Name: "Lockon Stratos", Part Type: "Pilot", Base Stat Total (BST): 5227, BST (w. Marks): 5227, Mark Slots: 0, …}
+895 {Part Name: "Long Beam Saber", Part Type: "Melee Wep.", Base Stat Total (BST): 5170, BST (w. Marks): 7238, Mark Slots: 1, …}
+896 {Part Name: "Long Sword↵(Barbatos)", Part Type: "Melee Wep.", Base Stat Total (BST): 5402, BST (w. Marks): 7563, Mark Slots: 1, …}
+897 {Part Name: "Loran Cehack", Part Type: "Pilot", Base Stat Total (BST): 5384, BST (w. Marks): 5384, Mark Slots: 0, …}
+898 {Part Name: "Louise Halevy", Part Type: "Pilot", Base Stat Total (BST): 3401, BST (w. Marks): 3401, Mark Slots: 0, …}
+899 {Part Name: "Lowe Guele", Part Type: "Pilot", Base Stat Total (BST): 5157, BST (w. Marks): 5157, Mark Slots: 0, …}
+900 {Part Name: "Lucrezia Noin", Part Type: "Pilot", Base Stat Total (BST): 3804, BST (w. Marks): 3804, Mark Slots: 0, …}
+901 {Part Name: "Lunamaria Hawke", Part Type: "Pilot", Base Stat Total (BST): 3535, BST (w. Marks): 3535, Mark Slots: 0, …}
+902 {Part Name: "Lupus Beam Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 5598, BST (w. Marks): 7837, Mark Slots: 1, …}
+903 {Part Name: "M'Quve", Part Type: "Pilot", Base Stat Total (BST): 3472, BST (w. Marks): 3472, Mark Slots: 0, …}
+904 {Part Name: "MA-BAR72 High-Energy↵Beam Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 4788, BST (w. Marks): 6703, Mark Slots: 1, …}
+905 {Part Name: "Mace", Part Type: "Melee Wep.", Base Stat Total (BST): 5402, BST (w. Marks): 7563, Mark Slots: 1, …}
+906 {Part Name: "Mack Knife↵[Mask]", Part Type: "Head", Base Stat Total (BST): 3745, BST (w. Marks): 6741, Mark Slots: 2, …}
+907 {Part Name: "Mack Knife↵[Mask]", Part Type: "Torso", Base Stat Total (BST): 3832, BST (w. Marks): 6898, Mark Slots: 2, …}
+908 {Part Name: "Mack Knife↵[Mask]", Part Type: "Arms", Base Stat Total (BST): 3983, BST (w. Marks): 7169, Mark Slots: 2, …}
+909 {Part Name: "Mack Knife↵[Mask]", Part Type: "Legs", Base Stat Total (BST): 3814, BST (w. Marks): 6865, Mark Slots: 2, …}
+910 {Part Name: "Mack Knife↵[Mask]", Part Type: "Back", Base Stat Total (BST): 3814, BST (w. Marks): 6865, Mark Slots: 2, …}
+911 {Part Name: "Magella-Top Cannon", Part Type: "Ranged Wep.", Base Stat Total (BST): 2332, BST (w. Marks): 5130, Mark Slots: 3, …}
+912 {Part Name: "Marida Cruz", Part Type: "Pilot", Base Stat Total (BST): 3632, BST (w. Marks): 3632, Mark Slots: 0, …}
+913 {Part Name: "MARSFOUR", Part Type: "Head", Base Stat Total (BST): 4556, BST (w. Marks): 6378, Mark Slots: 1, …}
+914 {Part Name: "MARSFOUR", Part Type: "Torso", Base Stat Total (BST): 5379, BST (w. Marks): 7531, Mark Slots: 1, …}
+915 {Part Name: "MARSFOUR", Part Type: "Arms", Base Stat Total (BST): 5931, BST (w. Marks): 8303, Mark Slots: 1, …}
+916 {Part Name: "MARSFOUR", Part Type: "Legs", Base Stat Total (BST): 4990, BST (w. Marks): 6986, Mark Slots: 1, …}
+917 {Part Name: "MARSFOUR", Part Type: "Back", Base Stat Total (BST): 4990, BST (w. Marks): 6986, Mark Slots: 1, …}
+918 {Part Name: "Martial Module", Part Type: "Melee Wep.", Base Stat Total (BST): 1542, BST (w. Marks): 4009, Mark Slots: 4, …}
+919 {Part Name: "Mash", Part Type: "Pilot", Base Stat Total (BST): 2417, BST (w. Marks): 2417, Mark Slots: 0, …}
+920 {Part Name: "Mashymre Cello", Part Type: "Pilot", Base Stat Total (BST): 3789, BST (w. Marks): 3789, Mark Slots: 0, …}
+921 {Part Name: "Master", Part Type: "Head", Base Stat Total (BST): 4556, BST (w. Marks): 6378, Mark Slots: 1, …}
+922 {Part Name: "Master", Part Type: "Torso", Base Stat Total (BST): 5379, BST (w. Marks): 7531, Mark Slots: 1, …}
+923 {Part Name: "Master", Part Type: "Arms", Base Stat Total (BST): 5931, BST (w. Marks): 8303, Mark Slots: 1, …}
+924 {Part Name: "Master", Part Type: "Legs", Base Stat Total (BST): 4990, BST (w. Marks): 6986, Mark Slots: 1, …}
+925 {Part Name: "Master", Part Type: "Back", Base Stat Total (BST): 4990, BST (w. Marks): 6986, Mark Slots: 1, …}
+926 {Part Name: "Master Asia", Part Type: "Pilot", Base Stat Total (BST): 4869, BST (w. Marks): 4869, Mark Slots: 0, …}
+927 {Part Name: "Master Cloth", Part Type: "Melee Wep.", Base Stat Total (BST): 5011, BST (w. Marks): 7015, Mark Slots: 1, …}
+928 {Part Name: "Maxter", Part Type: "Head", Base Stat Total (BST): 3346, BST (w. Marks): 6023, Mark Slots: 2, …}
+929 {Part Name: "Maxter", Part Type: "Torso", Base Stat Total (BST): 3852, BST (w. Marks): 6934, Mark Slots: 2, …}
+930 {Part Name: "Maxter", Part Type: "Arms", Base Stat Total (BST): 4315, BST (w. Marks): 7767, Mark Slots: 2, …}
+931 {Part Name: "Maxter", Part Type: "Legs", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+932 {Part Name: "Maxter", Part Type: "Back", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+933 {Part Name: "Mayura Labatt", Part Type: "Pilot", Base Stat Total (BST): 2222, BST (w. Marks): 2222, Mark Slots: 0, …}
+934 {Part Name: "Mega Gatling Gun", Part Type: "Ranged Wep.", Base Stat Total (BST): 3883, BST (w. Marks): 6989, Mark Slots: 2, …}
+935 {Part Name: "Mikazuki Augus", Part Type: "Pilot", Base Stat Total (BST): 5186, BST (w. Marks): 5186, Mark Slots: 0, …}
+936 {Part Name: "Milliardo Peacecraft", Part Type: "Pilot", Base Stat Total (BST): 5004, BST (w. Marks): 5004, Mark Slots: 0, …}
+937 {Part Name: "Missile Shield", Part Type: "Shield", Base Stat Total (BST): 1487, BST (w. Marks): 3866, Mark Slots: 4, …}
+938 {Part Name: "Mk-II↵(A.E.U.G. Design)", Part Type: "Arms", Base Stat Total (BST): 2771, BST (w. Marks): 6096, Mark Slots: 3, …}
+939 {Part Name: "Mk-II↵(A.E.U.G. Design)", Part Type: "Torso", Base Stat Total (BST): 2527, BST (w. Marks): 5559, Mark Slots: 3, …}
+940 {Part Name: "Mk-II↵(A.E.U.G. Design)", Part Type: "Back", Base Stat Total (BST): 1922, BST (w. Marks): 4228, Mark Slots: 3, …}
+941 {Part Name: "Mk-II↵(A.E.U.G. Design)", Part Type: "Legs", Base Stat Total (BST): 1922, BST (w. Marks): 4228, Mark Slots: 3, …}
+942 {Part Name: "Mk-II↵(A.E.U.G. Design)", Part Type: "Head", Base Stat Total (BST): 2536, BST (w. Marks): 5579, Mark Slots: 3, …}
+943 {Part Name: "Mk-II↵(Titans Design)", Part Type: "Arms", Base Stat Total (BST): 2762, BST (w. Marks): 6076, Mark Slots: 3, …}
+944 {Part Name: "Mk-II↵(Titans Design)", Part Type: "Torso", Base Stat Total (BST): 2524, BST (w. Marks): 5553, Mark Slots: 3, …}
+945 {Part Name: "Mk-II↵(Titans Design)", Part Type: "Back", Base Stat Total (BST): 1977, BST (w. Marks): 4349, Mark Slots: 3, …}
+946 {Part Name: "Mk-II↵(Titans Design)", Part Type: "Legs", Base Stat Total (BST): 1977, BST (w. Marks): 4349, Mark Slots: 3, …}
+947 {Part Name: "Mk-II↵(Titans Design)", Part Type: "Head", Base Stat Total (BST): 2532, BST (w. Marks): 5570, Mark Slots: 3, …}
+948 {Part Name: "Mobile Kapool", Part Type: "Torso↵(+ Head)", Base Stat Total (BST): 3369, BST (w. Marks): 6064, Mark Slots: 4, …}
+949 {Part Name: "Mobile Kapool", Part Type: "Arms", Base Stat Total (BST): 1732, BST (w. Marks): 4503, Mark Slots: 4, …}
+950 {Part Name: "Mobile Kapool", Part Type: "Legs", Base Stat Total (BST): 1771, BST (w. Marks): 4605, Mark Slots: 4, …}
+951 {Part Name: "Mobile Shield", Part Type: "Shield", Base Stat Total (BST): 5013, BST (w. Marks): 7018, Mark Slots: 1, …}
+952 {Part Name: "Mobile Shield↵(Gaia)", Part Type: "Shield", Base Stat Total (BST): 3522, BST (w. Marks): 6340, Mark Slots: 2, …}
+953 {Part Name: "Mobile SUMO↵(Gold Type)", Part Type: "Back", Base Stat Total (BST): 3256, BST (w. Marks): 5861, Mark Slots: 2, …}
+954 {Part Name: "Mobile SUMO↵(Gold Type)", Part Type: "Legs", Base Stat Total (BST): 3256, BST (w. Marks): 5861, Mark Slots: 2, …}
+955 {Part Name: "Mobile SUMO↵(Gold Type)", Part Type: "Torso", Base Stat Total (BST): 3806, BST (w. Marks): 6851, Mark Slots: 2, …}
+956 {Part Name: "Mobile SUMO↵(Gold Type)", Part Type: "Arms", Base Stat Total (BST): 4026, BST (w. Marks): 7247, Mark Slots: 2, …}
+957 {Part Name: "Mobile SUMO↵(Gold Type)", Part Type: "Head", Base Stat Total (BST): 3856, BST (w. Marks): 6941, Mark Slots: 2, …}
+958 {Part Name: "Mobile Worker", Part Type: "Arms", Base Stat Total (BST): 1744, BST (w. Marks): 4534, Mark Slots: 4, …}
+959 {Part Name: "Mobile Worker", Part Type: "Torso", Base Stat Total (BST): 1868, BST (w. Marks): 4857, Mark Slots: 4, …}
+960 {Part Name: "Mobile Worker", Part Type: "Back", Base Stat Total (BST): 1674, BST (w. Marks): 4352, Mark Slots: 4, …}
+961 {Part Name: "Mobile Worker", Part Type: "Legs", Base Stat Total (BST): 1674, BST (w. Marks): 4352, Mark Slots: 4, …}
+962 {Part Name: "Mobile Worker", Part Type: "Head", Base Stat Total (BST): 1707, BST (w. Marks): 4438, Mark Slots: 4, …}
+963 {Part Name: "Moon", Part Type: "Head", Base Stat Total (BST): 5365, BST (w. Marks): 7511, Mark Slots: 1, …}
+964 {Part Name: "Moon", Part Type: "Torso", Base Stat Total (BST): 5404, BST (w. Marks): 7566, Mark Slots: 1, …}
+965 {Part Name: "Moon", Part Type: "Arms", Base Stat Total (BST): 5531, BST (w. Marks): 7743, Mark Slots: 1, …}
+966 {Part Name: "Moon", Part Type: "Legs", Base Stat Total (BST): 4601, BST (w. Marks): 6441, Mark Slots: 1, …}
+967 {Part Name: "Moon", Part Type: "Back", Base Stat Total (BST): 4601, BST (w. Marks): 6441, Mark Slots: 1, …}
+968 {Part Name: "Movable Shield", Part Type: "Shield", Base Stat Total (BST): 3305, BST (w. Marks): 5949, Mark Slots: 2, …}
+969 {Part Name: "Mr. Bushido", Part Type: "Pilot", Base Stat Total (BST): 3535, BST (w. Marks): 3535, Mark Slots: 0, …}
+970 {Part Name: "Mu La Flaga", Part Type: "Pilot", Base Stat Total (BST): 3344, BST (w. Marks): 3344, Mark Slots: 0, …}
+971 {Part Name: "Nadleeh", Part Type: "Head", Base Stat Total (BST): 3965, BST (w. Marks): 7137, Mark Slots: 2, …}
+972 {Part Name: "Nadleeh", Part Type: "Torso", Base Stat Total (BST): 3928, BST (w. Marks): 7070, Mark Slots: 2, …}
+973 {Part Name: "Nadleeh", Part Type: "Arms", Base Stat Total (BST): 4325, BST (w. Marks): 7785, Mark Slots: 2, …}
+974 {Part Name: "Nadleeh", Part Type: "Legs", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+975 {Part Name: "Nadleeh", Part Type: "Back", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+976 {Part Name: "Nena Trinity", Part Type: "Pilot", Base Stat Total (BST): 3747, BST (w. Marks): 3747, Mark Slots: 0, …}
+977 {Part Name: "Neo Roanoke", Part Type: "Pilot", Base Stat Total (BST): 5384, BST (w. Marks): 5384, Mark Slots: 0, …}
+978 {Part Name: "New Hyper Bazooka↵(Nu Ver.Ka)", Part Type: "Ranged Wep.", Base Stat Total (BST): 5412, BST (w. Marks): 7577, Mark Slots: 1, …}
+979 {Part Name: "Nicol Amalfi", Part Type: "Pilot", Base Stat Total (BST): 3739, BST (w. Marks): 3739, Mark Slots: 0, …}
+980 {Part Name: "Noble", Part Type: "Head", Base Stat Total (BST): 4511, BST (w. Marks): 6315, Mark Slots: 1, …}
+981 {Part Name: "Noble", Part Type: "Torso", Base Stat Total (BST): 5359, BST (w. Marks): 7503, Mark Slots: 1, …}
+982 {Part Name: "Noble", Part Type: "Arms", Base Stat Total (BST): 5939, BST (w. Marks): 8315, Mark Slots: 1, …}
+983 {Part Name: "Noble", Part Type: "Legs", Base Stat Total (BST): 4682, BST (w. Marks): 6555, Mark Slots: 1, …}
+984 {Part Name: "NT-1", Part Type: "Head", Base Stat Total (BST): 4964, BST (w. Marks): 6950, Mark Slots: 1, …}
+985 {Part Name: "NT-1", Part Type: "Torso", Base Stat Total (BST): 5357, BST (w. Marks): 7500, Mark Slots: 1, …}
+986 {Part Name: "NT-1", Part Type: "Arms", Base Stat Total (BST): 5937, BST (w. Marks): 8312, Mark Slots: 1, …}
+987 {Part Name: "NT-1", Part Type: "Legs", Base Stat Total (BST): 4949, BST (w. Marks): 6929, Mark Slots: 1, …}
+988 {Part Name: "NT-1", Part Type: "Back", Base Stat Total (BST): 4949, BST (w. Marks): 6929, Mark Slots: 1, …}
+989 {Part Name: "NT-1↵(Chobham Armor)", Part Type: "Torso", Base Stat Total (BST): 3565, BST (w. Marks): 6417, Mark Slots: 2, …}
+990 {Part Name: "NT-1↵(Chobham Armor)", Part Type: "Back", Base Stat Total (BST): 3481, BST (w. Marks): 6266, Mark Slots: 2, …}
+991 {Part Name: "NT-1↵(Chobham Armor)", Part Type: "Head", Base Stat Total (BST): 3952, BST (w. Marks): 7114, Mark Slots: 2, …}
+992 {Part Name: "NT-1↵(Chobham Armor)↵", Part Type: "Arms", Base Stat Total (BST): 3650, BST (w. Marks): 6570, Mark Slots: 2, …}
+993 {Part Name: "NT-1↵(Chobham Armor)↵", Part Type: "Legs", Base Stat Total (BST): 3468, BST (w. Marks): 6242, Mark Slots: 2, …}
+994 {Part Name: "Nu↵(Ver.Ka)", Part Type: "Arms", Base Stat Total (BST): 5911, BST (w. Marks): 8275, Mark Slots: 1, …}
+995 {Part Name: "Nu↵(Ver.Ka)", Part Type: "Torso", Base Stat Total (BST): 6213, BST (w. Marks): 8698, Mark Slots: 1, …}
+996 {Part Name: "Nu↵(Ver.Ka)", Part Type: "Back", Base Stat Total (BST): 5910, BST (w. Marks): 8274, Mark Slots: 1, …}
+997 {Part Name: "Nu↵(Ver.Ka)", Part Type: "Legs", Base Stat Total (BST): 5910, BST (w. Marks): 8274, Mark Slots: 1, …}
+998 {Part Name: "Nu↵(Ver.Ka)", Part Type: "Head", Base Stat Total (BST): 6327, BST (w. Marks): 8858, Mark Slots: 1, …}
+999 {Part Name: "Oni No Tate", Part Type: "Shield", Base Stat Total (BST): 4594, BST (w. Marks): 6432, Mark Slots: 1, …}
+1000 {Part Name: "Ortega", Part Type: "Pilot", Base Stat Total (BST): 2422, BST (w. Marks): 2422, Mark Slots: 0, …}
+1001 {Part Name: "Palace Athene", Part Type: "Arms", Base Stat Total (BST): 2319, BST (w. Marks): 5102, Mark Slots: 3, …}
+1002 {Part Name: "Palace Athene", Part Type: "Torso", Base Stat Total (BST): 2322, BST (w. Marks): 5108, Mark Slots: 3, …}
+1003 {Part Name: "Palace Athene", Part Type: "Legs", Base Stat Total (BST): 2290, BST (w. Marks): 5038, Mark Slots: 3, …}
+1004 {Part Name: "Palace Athene", Part Type: "Back", Base Stat Total (BST): 2280, BST (w. Marks): 5016, Mark Slots: 3, …}
+1005 {Part Name: "Palace Athene", Part Type: "Head", Base Stat Total (BST): 2539, BST (w. Marks): 5586, Mark Slots: 3, …}
+1006 {Part Name: "Palace Athene [ALT]", Part Type: "Head", Base Stat Total (BST): 2539, BST (w. Marks): 5586, Mark Slots: 3, …}
+1007 {Part Name: "Palace Athene [ALT]", Part Type: "Torso", Base Stat Total (BST): 2322, BST (w. Marks): 5108, Mark Slots: 3, …}
+1008 {Part Name: "Palace Athene [ALT]", Part Type: "Arms", Base Stat Total (BST): 2319, BST (w. Marks): 5102, Mark Slots: 3, …}
+1009 {Part Name: "Palace Athene [ALT]", Part Type: "Legs", Base Stat Total (BST): 2290, BST (w. Marks): 5038, Mark Slots: 3, …}
+1010 {Part Name: "Palace Athene [ALT]", Part Type: "Back", Base Stat Total (BST): 2280, BST (w. Marks): 5016, Mark Slots: 3, …}
+1011 {Part Name: "Pale Rider", Part Type: "Head", Base Stat Total (BST): 5324, BST (w. Marks): 7454, Mark Slots: 1, …}
+1012 {Part Name: "Pale Rider", Part Type: "Torso", Base Stat Total (BST): 5364, BST (w. Marks): 7510, Mark Slots: 1, …}
+1013 {Part Name: "Pale Rider", Part Type: "Arms", Base Stat Total (BST): 5965, BST (w. Marks): 8351, Mark Slots: 1, …}
+1014 {Part Name: "Pale Rider", Part Type: "Legs", Base Stat Total (BST): 4098, BST (w. Marks): 5737, Mark Slots: 1, …}
+1015 {Part Name: "Pale Rider", Part Type: "Back", Base Stat Total (BST): 4098, BST (w. Marks): 5737, Mark Slots: 1, …}
+1016 {Part Name: "Pale Rider↵(Beginner Campaign)", Part Type: "Head", Base Stat Total (BST): 4769, BST (w. Marks): 6677, Mark Slots: 1, …}
+1017 {Part Name: "Pale Rider↵(Beginner Campaign)", Part Type: "Torso", Base Stat Total (BST): 4641, BST (w. Marks): 6497, Mark Slots: 1, …}
+1018 {Part Name: "Pale Rider↵(Beginner Campaign)", Part Type: "Arms", Base Stat Total (BST): 5405, BST (w. Marks): 7567, Mark Slots: 1, …}
+1019 {Part Name: "Pale Rider↵(Beginner Campaign)", Part Type: "Legs", Base Stat Total (BST): 3907, BST (w. Marks): 5470, Mark Slots: 1, …}
+1020 {Part Name: "Pale Rider↵(Beginner Campaign)", Part Type: "Back", Base Stat Total (BST): 3907, BST (w. Marks): 5470, Mark Slots: 1, …}
+1021 {Part Name: "Paptimus Scirocco", Part Type: "Pilot", Base Stat Total (BST): 5157, BST (w. Marks): 5157, Mark Slots: 0, …}
+1022 {Part Name: "Patrick Colasour", Part Type: "Pilot", Base Stat Total (BST): 3401, BST (w. Marks): 3401, Mark Slots: 0, …}
+1023 {Part Name: "Penelope", Part Type: "Head", Base Stat Total (BST): 6122, BST (w. Marks): 8571, Mark Slots: 1, …}
+1024 {Part Name: "Penelope", Part Type: "Torso", Base Stat Total (BST): 6278, BST (w. Marks): 8789, Mark Slots: 1, …}
+1025 {Part Name: "Penelope", Part Type: "Arms", Base Stat Total (BST): 5304, BST (w. Marks): 7426, Mark Slots: 1, …}
+1026 {Part Name: "Penelope", Part Type: "Legs", Base Stat Total (BST): 5900, BST (w. Marks): 8260, Mark Slots: 1, …}
+1027 {Part Name: "Penelope", Part Type: "Back", Base Stat Total (BST): 5900, BST (w. Marks): 8260, Mark Slots: 1, …}
+1028 {Part Name: "Poe Aijee", Part Type: "Pilot", Base Stat Total (BST): 2219, BST (w. Marks): 2219, Mark Slots: 0, …}
+1029 {Part Name: "Providence", Part Type: "Head", Base Stat Total (BST): 5343, BST (w. Marks): 7480, Mark Slots: 1, …}
+1030 {Part Name: "Providence", Part Type: "Torso", Base Stat Total (BST): 5360, BST (w. Marks): 7504, Mark Slots: 1, …}
+1031 {Part Name: "Providence", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 9751, BST (w. Marks): 11701, Mark Slots: 1, …}
+1032 {Part Name: "Providence", Part Type: "Legs", Base Stat Total (BST): 4954, BST (w. Marks): 6936, Mark Slots: 1, …}
+1033 {Part Name: "Providence", Part Type: "Back", Base Stat Total (BST): 4954, BST (w. Marks): 6936, Mark Slots: 1, …}
+1034 {Part Name: "Quatre Raberba Winner", Part Type: "Pilot", Base Stat Total (BST): 3472, BST (w. Marks): 3472, Mark Slots: 0, …}
+1035 {Part Name: "Quattro Bajeena", Part Type: "Pilot", Base Stat Total (BST): 5384, BST (w. Marks): 5384, Mark Slots: 0, …}
+1036 {Part Name: "Qubeley", Part Type: "Arms", Base Stat Total (BST): 5985, BST (w. Marks): 8379, Mark Slots: 1, …}
+1037 {Part Name: "Qubeley", Part Type: "Torso", Base Stat Total (BST): 5844, BST (w. Marks): 8182, Mark Slots: 1, …}
+1038 {Part Name: "Qubeley", Part Type: "Back", Base Stat Total (BST): 5506, BST (w. Marks): 7708, Mark Slots: 1, …}
+1039 {Part Name: "Qubeley", Part Type: "Legs", Base Stat Total (BST): 5542, BST (w. Marks): 7759, Mark Slots: 1, …}
+1040 {Part Name: "Qubeley", Part Type: "Head", Base Stat Total (BST): 6253, BST (w. Marks): 8754, Mark Slots: 1, …}
+1041 {Part Name: "Quess Paraya", Part Type: "Pilot", Base Stat Total (BST): 3472, BST (w. Marks): 3472, Mark Slots: 0, …}
+1042 {Part Name: "Radiator Shield", Part Type: "Shield", Base Stat Total (BST): 4572, BST (w. Marks): 6401, Mark Slots: 1, …}
+1043 {Part Name: "Raketen Bazooka", Part Type: "Ranged Wep.", Base Stat Total (BST): 1700, BST (w. Marks): 4420, Mark Slots: 4, …}
+1044 {Part Name: "Ramba Ral", Part Type: "Pilot", Base Stat Total (BST): 3535, BST (w. Marks): 3535, Mark Slots: 0, …}
+1045 {Part Name: "Rau Le Creuset", Part Type: "Pilot", Base Stat Total (BST): 5162, BST (w. Marks): 5162, Mark Slots: 0, …}
+1046 {Part Name: "Rebawoo", Part Type: "Head", Base Stat Total (BST): 3346, BST (w. Marks): 6023, Mark Slots: 2, …}
+1047 {Part Name: "Rebawoo", Part Type: "Torso", Base Stat Total (BST): 3852, BST (w. Marks): 6934, Mark Slots: 2, …}
+1048 {Part Name: "Rebawoo", Part Type: "Arms", Base Stat Total (BST): 4315, BST (w. Marks): 7767, Mark Slots: 2, …}
+1049 {Part Name: "Rebawoo", Part Type: "Legs", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+1050 {Part Name: "Rebawoo", Part Type: "Back", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+1051 {Part Name: "Reccoa Londe", Part Type: "Pilot", Base Stat Total (BST): 2457, BST (w. Marks): 2457, Mark Slots: 0, …}
+1052 {Part Name: "Rey Za Burrel", Part Type: "Pilot", Base Stat Total (BST): 3804, BST (w. Marks): 3804, Mark Slots: 0, …}
+1053 {Part Name: "Ribbons Almark", Part Type: "Pilot", Base Stat Total (BST): 5384, BST (w. Marks): 5384, Mark Slots: 0, …}
+1054 {Part Name: "Rick Dias↵(Quattro Bajeena Colors)", Part Type: "Arms", Base Stat Total (BST): 2239, BST (w. Marks): 4926, Mark Slots: 3, …}
+1055 {Part Name: "Rick Dias↵(Quattro Bajeena Colors)", Part Type: "Back", Base Stat Total (BST): 2267, BST (w. Marks): 4987, Mark Slots: 3, …}
+1056 {Part Name: "Rick Dias↵(Quattro Bajeena Colors)", Part Type: "Legs", Base Stat Total (BST): 2267, BST (w. Marks): 4987, Mark Slots: 3, …}
+1057 {Part Name: "Rick Dias↵(Quattro Bajeena Colors)", Part Type: "Torso", Base Stat Total (BST): 2033, BST (w. Marks): 4473, Mark Slots: 3, …}
+1058 {Part Name: "Rick Dias↵(Quattro Bajeena Colors)", Part Type: "Head", Base Stat Total (BST): 2257, BST (w. Marks): 4965, Mark Slots: 3, …}
+1059 {Part Name: "Rick Dias [ALT]↵(Quattro Bajeena Colors)", Part Type: "Arms", Base Stat Total (BST): 2239, BST (w. Marks): 4926, Mark Slots: 3, …}
+1060 {Part Name: "Rick Dias [ALT]↵(Quattro Bajeena Colors)", Part Type: "Back", Base Stat Total (BST): 2267, BST (w. Marks): 4987, Mark Slots: 3, …}
+1061 {Part Name: "Rick Dias [ALT]↵(Quattro Bajeena Colors)", Part Type: "Legs", Base Stat Total (BST): 2267, BST (w. Marks): 4987, Mark Slots: 3, …}
+1062 {Part Name: "Rick Dias [ALT]↵(Quattro Bajeena Colors)", Part Type: "Torso", Base Stat Total (BST): 2033, BST (w. Marks): 4473, Mark Slots: 3, …}
+1063 {Part Name: "Rick Dias [ALT]↵(Quattro Bajeena Colors)", Part Type: "Head", Base Stat Total (BST): 2257, BST (w. Marks): 4965, Mark Slots: 3, …}
+1064 {Part Name: "Rifle↵(Astaroth)", Part Type: "Ranged Wep.", Base Stat Total (BST): 4169, BST (w. Marks): 5837, Mark Slots: 1, …}
+1065 {Part Name: "Rising", Part Type: "Arms", Base Stat Total (BST): 4315, BST (w. Marks): 7767, Mark Slots: 2, …}
+1066 {Part Name: "Rising", Part Type: "Torso", Base Stat Total (BST): 3852, BST (w. Marks): 6934, Mark Slots: 2, …}
+1067 {Part Name: "Rising", Part Type: "Back", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+1068 {Part Name: "Rising", Part Type: "Legs", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+1069 {Part Name: "Rising", Part Type: "Head", Base Stat Total (BST): 3346, BST (w. Marks): 6023, Mark Slots: 2, …}
+1070 {Part Name: "Roberto", Part Type: "Pilot", Base Stat Total (BST): 2175, BST (w. Marks): 2175, Mark Slots: 0, …}
+1071 {Part Name: "Rocket Launcher", Part Type: "Ranged Wep.", Base Stat Total (BST): 3320, BST (w. Marks): 5976, Mark Slots: 2, …}
+1072 {Part Name: "Rosamia Badam", Part Type: "Pilot", Base Stat Total (BST): 3739, BST (w. Marks): 3739, Mark Slots: 0, …}
+1073 {Part Name: "Rose", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 7597, BST (w. Marks): 10636, Mark Slots: 2, …}
+1074 {Part Name: "Rose", Part Type: "Torso", Base Stat Total (BST): 3875, BST (w. Marks): 6975, Mark Slots: 2, …}
+1075 {Part Name: "Rose", Part Type: "Back", Base Stat Total (BST): 3059, BST (w. Marks): 5506, Mark Slots: 2, …}
+1076 {Part Name: "Rose", Part Type: "Legs", Base Stat Total (BST): 3059, BST (w. Marks): 5506, Mark Slots: 2, …}
+1077 {Part Name: "Rose", Part Type: "Head", Base Stat Total (BST): 3900, BST (w. Marks): 7020, Mark Slots: 2, …}
+1078 {Part Name: "Rose [ALT]", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 7597, BST (w. Marks): 10636, Mark Slots: 2, …}
+1079 {Part Name: "Rose [ALT]", Part Type: "Back", Base Stat Total (BST): 3059, BST (w. Marks): 5506, Mark Slots: 2, …}
+1080 {Part Name: "Rose [ALT]", Part Type: "Legs", Base Stat Total (BST): 3059, BST (w. Marks): 5506, Mark Slots: 2, …}
+1081 {Part Name: "Rose [ALT]", Part Type: "Torso", Base Stat Total (BST): 3875, BST (w. Marks): 6975, Mark Slots: 2, …}
+1082 {Part Name: "Rose [ALT]", Part Type: "Head", Base Stat Total (BST): 3900, BST (w. Marks): 7020, Mark Slots: 2, …}
+1083 {Part Name: "Roux Louka", Part Type: "Pilot", Base Stat Total (BST): 3719, BST (w. Marks): 3719, Mark Slots: 0, …}
+1084 {Part Name: "Rozen Zulu", Part Type: "Head", Base Stat Total (BST): 3613, BST (w. Marks): 6503, Mark Slots: 2, …}
+1085 {Part Name: "Rozen Zulu", Part Type: "Torso", Base Stat Total (BST): 3826, BST (w. Marks): 6887, Mark Slots: 2, …}
+1086 {Part Name: "Rozen Zulu", Part Type: "Arms", Base Stat Total (BST): 4327, BST (w. Marks): 7789, Mark Slots: 2, …}
+1087 {Part Name: "Rozen Zulu", Part Type: "Legs", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+1088 {Part Name: "Rozen Zulu", Part Type: "Back", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+1089 {Part Name: "Ryu Jose", Part Type: "Pilot", Base Stat Total (BST): 2457, BST (w. Marks): 2457, Mark Slots: 0, …}
+1090 {Part Name: "Ryusei-Go↵[Graze Custom II]", Part Type: "Head", Base Stat Total (BST): 3917, BST (w. Marks): 7051, Mark Slots: 2, …}
+1091 {Part Name: "Ryusei-Go↵[Graze Custom II]", Part Type: "Torso", Base Stat Total (BST): 3928, BST (w. Marks): 7070, Mark Slots: 2, …}
+1092 {Part Name: "Ryusei-Go↵[Graze Custom II]", Part Type: "Arms", Base Stat Total (BST): 4327, BST (w. Marks): 7789, Mark Slots: 2, …}
+1093 {Part Name: "Ryusei-Go↵[Graze Custom II]", Part Type: "Legs", Base Stat Total (BST): 3642, BST (w. Marks): 6556, Mark Slots: 2, …}
+1094 {Part Name: "Ryusei-Go↵[Graze Custom II]", Part Type: "Back", Base Stat Total (BST): 3642, BST (w. Marks): 6556, Mark Slots: 2, …}
+1095 {Part Name: "Sai Saici", Part Type: "Pilot", Base Stat Total (BST): 5004, BST (w. Marks): 5004, Mark Slots: 0, …}
+1096 {Part Name: "Sanakapool", Part Type: "Torso↵(+ Head)", Base Stat Total (BST): 10740, BST (w. Marks): 12888, Mark Slots: 1, …}
+1097 {Part Name: "Sanakapool", Part Type: "Arms", Base Stat Total (BST): 5926, BST (w. Marks): 8296, Mark Slots: 1, …}
+1098 {Part Name: "Sanakapool", Part Type: "Legs", Base Stat Total (BST): 4984, BST (w. Marks): 6978, Mark Slots: 1, …}
+1099 {Part Name: "Sarah Zabiarov", Part Type: "Pilot", Base Stat Total (BST): 3472, BST (w. Marks): 3472, Mark Slots: 0, …}
+1100 {Part Name: "Sayla Mass", Part Type: "Pilot", Base Stat Total (BST): 3401, BST (w. Marks): 3401, Mark Slots: 0, …}
+1101 {Part Name: "Sazabi", Part Type: "Head", Base Stat Total (BST): 5533, BST (w. Marks): 7746, Mark Slots: 1, …}
+1102 {Part Name: "Sazabi", Part Type: "Torso", Base Stat Total (BST): 6213, BST (w. Marks): 8698, Mark Slots: 1, …}
+1103 {Part Name: "Sazabi", Part Type: "Arms", Base Stat Total (BST): 6705, BST (w. Marks): 9387, Mark Slots: 1, …}
+1104 {Part Name: "Sazabi", Part Type: "Legs", Base Stat Total (BST): 5910, BST (w. Marks): 8274, Mark Slots: 1, …}
+1105 {Part Name: "Sazabi", Part Type: "Back", Base Stat Total (BST): 5910, BST (w. Marks): 8274, Mark Slots: 1, …}
+1106 {Part Name: "Schwert Gewehr", Part Type: "Melee Wep.", Base Stat Total (BST): 3617, BST (w. Marks): 6511, Mark Slots: 2, …}
+1107 {Part Name: "Seabook Arno", Part Type: "Pilot", Base Stat Total (BST): 5004, BST (w. Marks): 5004, Mark Slots: 0, …}
+1108 {Part Name: "Selene McGriff", Part Type: "Pilot", Base Stat Total (BST): 3535, BST (w. Marks): 3535, Mark Slots: 0, …}
+1109 {Part Name: "Sengoku Astray", Part Type: "Head", Base Stat Total (BST): 4964, BST (w. Marks): 6950, Mark Slots: 1, …}
+1110 {Part Name: "Sengoku Astray", Part Type: "Torso", Base Stat Total (BST): 5357, BST (w. Marks): 7500, Mark Slots: 1, …}
+1111 {Part Name: "Sengoku Astray", Part Type: "Arms", Base Stat Total (BST): 5937, BST (w. Marks): 8312, Mark Slots: 1, …}
+1112 {Part Name: "Sengoku Astray", Part Type: "Legs", Base Stat Total (BST): 4949, BST (w. Marks): 6929, Mark Slots: 1, …}
+1113 {Part Name: "Sengoku Astray", Part Type: "Back", Base Stat Total (BST): 4949, BST (w. Marks): 6929, Mark Slots: 1, …}
+1114 {Part Name: "Sergei Smirnov", Part Type: "Pilot", Base Stat Total (BST): 2421, BST (w. Marks): 2421, Mark Slots: 0, …}
+1115 {Part Name: "Serpent Custom", Part Type: "Arms", Base Stat Total (BST): 1636, BST (w. Marks): 4254, Mark Slots: 4, …}
+1116 {Part Name: "Serpent Custom", Part Type: "Torso", Base Stat Total (BST): 1773, BST (w. Marks): 4610, Mark Slots: 4, …}
+1117 {Part Name: "Serpent Custom", Part Type: "Back", Base Stat Total (BST): 1687, BST (w. Marks): 4386, Mark Slots: 4, …}
+1118 {Part Name: "Serpent Custom", Part Type: "Legs", Base Stat Total (BST): 1687, BST (w. Marks): 4386, Mark Slots: 4, …}
+1119 {Part Name: "Serpent Custom", Part Type: "Head", Base Stat Total (BST): 1795, BST (w. Marks): 4667, Mark Slots: 4, …}
+1120 {Part Name: "Serpent Custom↵(Double Gatling Gun)", Part Type: "Arms", Base Stat Total (BST): 1665, BST (w. Marks): 4329, Mark Slots: 4, …}
+1121 {Part Name: "Serpent Custom↵(Double Gatling Gun)", Part Type: "Torso", Base Stat Total (BST): 1803, BST (w. Marks): 4688, Mark Slots: 4, …}
+1122 {Part Name: "Serpent Custom↵(Double Gatling Gun)", Part Type: "Back", Base Stat Total (BST): 1635, BST (w. Marks): 4251, Mark Slots: 4, …}
+1123 {Part Name: "Serpent Custom↵(Double Gatling Gun)", Part Type: "Legs", Base Stat Total (BST): 1635, BST (w. Marks): 4251, Mark Slots: 4, …}
+1124 {Part Name: "Serpent Custom↵(Double Gatling Gun)", Part Type: "Head", Base Stat Total (BST): 1800, BST (w. Marks): 4680, Mark Slots: 4, …}
+1125 {Part Name: "Serpent Custom [ALT]", Part Type: "Arms", Base Stat Total (BST): 1636, BST (w. Marks): 4254, Mark Slots: 4, …}
+1126 {Part Name: "Serpent Custom [ALT]", Part Type: "Torso", Base Stat Total (BST): 1773, BST (w. Marks): 4610, Mark Slots: 4, …}
+1127 {Part Name: "Serpent Custom [ALT]", Part Type: "Back", Base Stat Total (BST): 1687, BST (w. Marks): 4386, Mark Slots: 4, …}
+1128 {Part Name: "Serpent Custom [ALT]", Part Type: "Legs", Base Stat Total (BST): 1687, BST (w. Marks): 4386, Mark Slots: 4, …}
+1129 {Part Name: "Serpent Custom [ALT]", Part Type: "Head", Base Stat Total (BST): 1795, BST (w. Marks): 4667, Mark Slots: 4, …}
+1130 {Part Name: "Setsuna F. Seiei", Part Type: "Pilot", Base Stat Total (BST): 5004, BST (w. Marks): 5004, Mark Slots: 0, …}
+1131 {Part Name: "Shenlong", Part Type: "Arms", Base Stat Total (BST): 5321, BST (w. Marks): 7449, Mark Slots: 1, …}
+1132 {Part Name: "Shenlong", Part Type: "Torso", Base Stat Total (BST): 5355, BST (w. Marks): 7497, Mark Slots: 1, …}
+1133 {Part Name: "Shenlong", Part Type: "Back", Base Stat Total (BST): 5135, BST (w. Marks): 7189, Mark Slots: 1, …}
+1134 {Part Name: "Shenlong", Part Type: "Legs", Base Stat Total (BST): 5135, BST (w. Marks): 7189, Mark Slots: 1, …}
+1135 {Part Name: "Shenlong", Part Type: "Head", Base Stat Total (BST): 5182, BST (w. Marks): 7255, Mark Slots: 1, …}
+1136 {Part Name: "Shenlong Shield", Part Type: "Shield", Base Stat Total (BST): 4572, BST (w. Marks): 6401, Mark Slots: 1, …}
+1137 {Part Name: "Shield↵(AGE-2)", Part Type: "Shield", Base Stat Total (BST): 3266, BST (w. Marks): 5879, Mark Slots: 2, …}
+1138 {Part Name: "Shield↵(AGE)", Part Type: "Shield", Base Stat Total (BST): 3268, BST (w. Marks): 5882, Mark Slots: 2, …}
+1139 {Part Name: "Shield↵(BD1)", Part Type: "Shield", Base Stat Total (BST): 3552, BST (w. Marks): 6394, Mark Slots: 2, …}
+1140 {Part Name: "Shield↵(Delta Plus)", Part Type: "Shield", Base Stat Total (BST): 3289, BST (w. Marks): 5920, Mark Slots: 2, …}
+1141 {Part Name: "Shield↵(EARTHREE)", Part Type: "Shield", Base Stat Total (BST): 5013, BST (w. Marks): 7018, Mark Slots: 1, …}
+1142 {Part Name: "Shield↵(Geara Doga)", Part Type: "Shield", Base Stat Total (BST): 2279, BST (w. Marks): 5014, Mark Slots: 3, …}
+1143 {Part Name: "Shield↵(GM)", Part Type: "Shield", Base Stat Total (BST): 1622, BST (w. Marks): 4217, Mark Slots: 4, …}
+1144 {Part Name: "Shield↵(Gouf)", Part Type: "Shield", Base Stat Total (BST): 1690, BST (w. Marks): 4394, Mark Slots: 4, …}
+1145 {Part Name: "Shield↵(GP01)", Part Type: "Shield", Base Stat Total (BST): 4572, BST (w. Marks): 6401, Mark Slots: 1, …}
+1146 {Part Name: "Shield↵(Gundam)", Part Type: "Shield", Base Stat Total (BST): 4834, BST (w. Marks): 6768, Mark Slots: 1, …}
+1147 {Part Name: "Shield↵(Gusion Rebake)", Part Type: "Shield", Base Stat Total (BST): 4964, BST (w. Marks): 6950, Mark Slots: 1, …}
+1148 {Part Name: "Shield↵(Jegan)", Part Type: "Shield", Base Stat Total (BST): 2172, BST (w. Marks): 4778, Mark Slots: 3, …}
+1149 {Part Name: "Shield↵(Legilis)", Part Type: "Shield", Base Stat Total (BST): 4598, BST (w. Marks): 6437, Mark Slots: 1, …}
+1150 {Part Name: "Shield↵(Mk-II / A.E.U.G. Design)", Part Type: "Shield", Base Stat Total (BST): 2094, BST (w. Marks): 4607, Mark Slots: 3, …}
+1151 {Part Name: "Shield↵(Mk-II / Titans Design)", Part Type: "Shield", Base Stat Total (BST): 2125, BST (w. Marks): 4675, Mark Slots: 3, …}
+1152 {Part Name: "Shield↵(Mobile Worker)", Part Type: "Shield", Base Stat Total (BST): 1408, BST (w. Marks): 3661, Mark Slots: 4, …}
+1153 {Part Name: "Shield↵(NT-1)", Part Type: "Shield", Base Stat Total (BST): 4594, BST (w. Marks): 6432, Mark Slots: 1, …}
+1154 {Part Name: "Shield↵(Nu Ver.Ka)", Part Type: "Shield", Base Stat Total (BST): 5537, BST (w. Marks): 7752, Mark Slots: 1, …}
+1155 {Part Name: "Shield↵(Palace Athene)", Part Type: "Shield", Base Stat Total (BST): 1994, BST (w. Marks): 4387, Mark Slots: 3, …}
+1156 {Part Name: "Shield↵(Pale Rider)", Part Type: "Shield", Base Stat Total (BST): 4543, BST (w. Marks): 6360, Mark Slots: 1, …}
+1157 {Part Name: "Shield↵(Rebawoo)", Part Type: "Shield", Base Stat Total (BST): 3533, BST (w. Marks): 6359, Mark Slots: 2, …}
+1158 {Part Name: "Shield↵(Rozen Zulu)", Part Type: "Shield", Base Stat Total (BST): 3302, BST (w. Marks): 5944, Mark Slots: 2, …}
+1159 {Part Name: "Shield↵(Sazabi)", Part Type: "Shield", Base Stat Total (BST): 5537, BST (w. Marks): 7752, Mark Slots: 1, …}
+1160 {Part Name: "Shield↵(Turn A)", Part Type: "Shield", Base Stat Total (BST): 5192, BST (w. Marks): 7269, Mark Slots: 1, …}
+1161 {Part Name: "Shield↵(Unicorn)", Part Type: "Shield", Base Stat Total (BST): 5495, BST (w. Marks): 7693, Mark Slots: 1, …}
+1162 {Part Name: "Shield↵(Wing)", Part Type: "Shield", Base Stat Total (BST): 4601, BST (w. Marks): 6441, Mark Slots: 1, …}
+1163 {Part Name: "Shield↵[Jagd Doga (Quess Custom)]", Part Type: "Shield", Base Stat Total (BST): 3262, BST (w. Marks): 5872, Mark Slots: 2, …}
+1164 {Part Name: "Shield↵[Lightning]", Part Type: "Shield", Base Stat Total (BST): 5000, BST (w. Marks): 7000, Mark Slots: 1, …}
+1165 {Part Name: "Shield (Gundam)↵(Pre-Reg. Reward)", Part Type: "Shield", Base Stat Total (BST): 2286, BST (w. Marks): 5029, Mark Slots: 3, …}
+1166 {Part Name: "Shield (Wing)↵(Pre-Reg. Reward)", Part Type: "Shield", Base Stat Total (BST): 2279, BST (w. Marks): 5014, Mark Slots: 3, …}
+1167 {Part Name: "Shield [ALT]↵(Palace Athene)", Part Type: "Shield", Base Stat Total (BST): 1994, BST (w. Marks): 4387, Mark Slots: 3, …}
+1168 {Part Name: "Shield [High Mobility↵Gelgoog (Johnny Ridden)]", Part Type: "Shield", Base Stat Total (BST): 3533, BST (w. Marks): 6359, Mark Slots: 2, …}
+1169 {Part Name: "Shield Booster", Part Type: "Shield", Base Stat Total (BST): 3391, BST (w. Marks): 6104, Mark Slots: 2, …}
+1170 {Part Name: "Shield Buster Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 4968, BST (w. Marks): 6955, Mark Slots: 1, …}
+1171 {Part Name: "Shiho Hahnenfuss", Part Type: "Pilot", Base Stat Total (BST): 3535, BST (w. Marks): 3535, Mark Slots: 0, …}
+1172 {Part Name: "Shining", Part Type: "Head", Base Stat Total (BST): 4964, BST (w. Marks): 6950, Mark Slots: 1, …}
+1173 {Part Name: "Shining", Part Type: "Torso", Base Stat Total (BST): 5357, BST (w. Marks): 7500, Mark Slots: 1, …}
+1174 {Part Name: "Shining", Part Type: "Arms", Base Stat Total (BST): 5937, BST (w. Marks): 8312, Mark Slots: 1, …}
+1175 {Part Name: "Shining", Part Type: "Legs", Base Stat Total (BST): 4949, BST (w. Marks): 6929, Mark Slots: 1, …}
+1176 {Part Name: "Shining", Part Type: "Back", Base Stat Total (BST): 4949, BST (w. Marks): 6929, Mark Slots: 1, …}
+1177 {Part Name: "Shinn Asuka", Part Type: "Pilot", Base Stat Total (BST): 5384, BST (w. Marks): 5384, Mark Slots: 0, …}
+1178 {Part Name: "Shiranui/Unryu", Part Type: "Melee Wep.", Base Stat Total (BST): 3586, BST (w. Marks): 6455, Mark Slots: 2, …}
+1179 {Part Name: "Shiro Amada", Part Type: "Pilot", Base Stat Total (BST): 5157, BST (w. Marks): 5157, Mark Slots: 0, …}
+1180 {Part Name: "Shot Lancer", Part Type: "Melee Wep.", Base Stat Total (BST): 2128, BST (w. Marks): 4682, Mark Slots: 3, …}
+1181 {Part Name: "Shot Lancer↵(Heavy Machine Gun)", Part Type: "Ranged Wep.", Base Stat Total (BST): 2412, BST (w. Marks): 5306, Mark Slots: 3, …}
+1182 {Part Name: "Shot Lancer↵[X2]", Part Type: "Melee Wep.", Base Stat Total (BST): 4589, BST (w. Marks): 6425, Mark Slots: 1, …}
+1183 {Part Name: "Sigh Argyle", Part Type: "Pilot", Base Stat Total (BST): 2417, BST (w. Marks): 2417, Mark Slots: 0, …}
+1184 {Part Name: "SLASH BLADE", Part Type: "Melee Wep.", Base Stat Total (BST): 5011, BST (w. Marks): 7015, Mark Slots: 1, …}
+1185 {Part Name: "Sleggar Law", Part Type: "Pilot", Base Stat Total (BST): 2315, BST (w. Marks): 2315, Mark Slots: 0, …}
+1186 {Part Name: "Smoothbore Cannon", Part Type: "Ranged Wep.", Base Stat Total (BST): 4402, BST (w. Marks): 6163, Mark Slots: 1, …}
+1187 {Part Name: "Sochie Heim", Part Type: "Pilot", Base Stat Total (BST): 2233, BST (w. Marks): 2233, Mark Slots: 0, …}
+1188 {Part Name: "Soma Peries", Part Type: "Pilot", Base Stat Total (BST): 3472, BST (w. Marks): 3472, Mark Slots: 0, …}
+1189 {Part Name: "Stargazer", Part Type: "Head", Base Stat Total (BST): 3818, BST (w. Marks): 6872, Mark Slots: 2, …}
+1190 {Part Name: "Stargazer", Part Type: "Torso", Base Stat Total (BST): 3637, BST (w. Marks): 6547, Mark Slots: 2, …}
+1191 {Part Name: "Stargazer", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 7508, BST (w. Marks): 10511, Mark Slots: 2, …}
+1192 {Part Name: "Stargazer", Part Type: "Legs", Base Stat Total (BST): 3848, BST (w. Marks): 6926, Mark Slots: 2, …}
+1193 {Part Name: "Stargazer", Part Type: "Back", Base Stat Total (BST): 3848, BST (w. Marks): 6926, Mark Slots: 2, …}
+1194 {Part Name: "Stark Jegan", Part Type: "Arms", Base Stat Total (BST): 1729, BST (w. Marks): 4495, Mark Slots: 4, …}
+1195 {Part Name: "Stark Jegan", Part Type: "Torso", Base Stat Total (BST): 1644, BST (w. Marks): 4274, Mark Slots: 4, …}
+1196 {Part Name: "Stark Jegan", Part Type: "Back", Base Stat Total (BST): 1544, BST (w. Marks): 4014, Mark Slots: 4, …}
+1197 {Part Name: "Stark Jegan", Part Type: "Legs", Base Stat Total (BST): 1558, BST (w. Marks): 4051, Mark Slots: 4, …}
+1198 {Part Name: "Stark Jegan", Part Type: "Head", Base Stat Total (BST): 1807, BST (w. Marks): 4698, Mark Slots: 4, …}
+1199 {Part Name: "Stark Jegan [ALT]", Part Type: "Arms", Base Stat Total (BST): 1729, BST (w. Marks): 4495, Mark Slots: 4, …}
+1200 {Part Name: "Stark Jegan [ALT]", Part Type: "Torso", Base Stat Total (BST): 1644, BST (w. Marks): 4274, Mark Slots: 4, …}
+1201 {Part Name: "Stark Jegan [ALT]", Part Type: "Back", Base Stat Total (BST): 1544, BST (w. Marks): 4014, Mark Slots: 4, …}
+1202 {Part Name: "Stark Jegan [ALT]", Part Type: "Legs", Base Stat Total (BST): 1558, BST (w. Marks): 4051, Mark Slots: 4, …}
+1203 {Part Name: "Stark Jegan [ALT]", Part Type: "Head", Base Stat Total (BST): 1807, BST (w. Marks): 4698, Mark Slots: 4, …}
+1204 {Part Name: "Stella Loussier", Part Type: "Pilot", Base Stat Total (BST): 3885, BST (w. Marks): 3885, Mark Slots: 0, …}
+1205 {Part Name: "Strike Noir", Part Type: "Head", Base Stat Total (BST): 4062, BST (w. Marks): 7312, Mark Slots: 2, …}
+1206 {Part Name: "Strike Noir", Part Type: "Torso", Base Stat Total (BST): 3852, BST (w. Marks): 6934, Mark Slots: 2, …}
+1207 {Part Name: "Strike Noir", Part Type: "Arms", Base Stat Total (BST): 3599, BST (w. Marks): 6478, Mark Slots: 2, …}
+1208 {Part Name: "Strike Noir", Part Type: "Legs", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+1209 {Part Name: "Strike Noir", Part Type: "Back", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+1210 {Part Name: "Strike Rouge↵(IWSP)", Part Type: "Head", Base Stat Total (BST): 3965, BST (w. Marks): 7137, Mark Slots: 2, …}
+1211 {Part Name: "Strike Rouge↵(IWSP)", Part Type: "Torso", Base Stat Total (BST): 3928, BST (w. Marks): 7070, Mark Slots: 2, …}
+1212 {Part Name: "Strike Rouge↵(IWSP)", Part Type: "Arms", Base Stat Total (BST): 4325, BST (w. Marks): 7785, Mark Slots: 2, …}
+1213 {Part Name: "Strike Rouge↵(IWSP)", Part Type: "Legs", Base Stat Total (BST): 3468, BST (w. Marks): 6242, Mark Slots: 2, …}
+1214 {Part Name: "Strike Rouge↵(IWSP)", Part Type: "Back", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+1215 {Part Name: "Strike Shooter", Part Type: "Ranged Wep.", Base Stat Total (BST): 5182, BST (w. Marks): 7255, Mark Slots: 1, …}
+1216 {Part Name: "Submachine Gun", Part Type: "Ranged Wep.", Base Stat Total (BST): 3351, BST (w. Marks): 6032, Mark Slots: 2, …}
+1217 {Part Name: "Susanowo", Part Type: "Head", Base Stat Total (BST): 3346, BST (w. Marks): 6023, Mark Slots: 2, …}
+1218 {Part Name: "Susanowo", Part Type: "Torso", Base Stat Total (BST): 3852, BST (w. Marks): 6934, Mark Slots: 2, …}
+1219 {Part Name: "Susanowo", Part Type: "Arms", Base Stat Total (BST): 4315, BST (w. Marks): 7767, Mark Slots: 2, …}
+1220 {Part Name: "Susanowo", Part Type: "Legs", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+1221 {Part Name: "Susanowo", Part Type: "Back", Base Stat Total (BST): 3570, BST (w. Marks): 6426, Mark Slots: 2, …}
+1222 {Part Name: "Sven Cal Bayang", Part Type: "Pilot", Base Stat Total (BST): 3789, BST (w. Marks): 3789, Mark Slots: 0, …}
+1223 {Part Name: "Sword Mace", Part Type: "Melee Wep.", Base Stat Total (BST): 5412, BST (w. Marks): 7577, Mark Slots: 1, …}
+1224 {Part Name: "Sword Strike", Part Type: "Head", Base Stat Total (BST): 3856, BST (w. Marks): 6941, Mark Slots: 2, …}
+1225 {Part Name: "Sword Strike", Part Type: "Torso", Base Stat Total (BST): 3806, BST (w. Marks): 6851, Mark Slots: 2, …}
+1226 {Part Name: "Sword Strike", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 7381, BST (w. Marks): 10333, Mark Slots: 2, …}
+1227 {Part Name: "Sword Strike", Part Type: "Legs", Base Stat Total (BST): 3256, BST (w. Marks): 5861, Mark Slots: 2, …}
+1228 {Part Name: "Sword Strike", Part Type: "Back", Base Stat Total (BST): 3256, BST (w. Marks): 5861, Mark Slots: 2, …}
+1229 {Part Name: "Tallgeese ↵(Endless Waltz Ver.)", Part Type: "Head", Base Stat Total (BST): 5166, BST (w. Marks): 7232, Mark Slots: 1, …}
+1230 {Part Name: "Tallgeese ↵(Endless Waltz Ver.)", Part Type: "Torso", Base Stat Total (BST): 5382, BST (w. Marks): 7535, Mark Slots: 1, …}
+1231 {Part Name: "Tallgeese ↵(Endless Waltz Ver.)", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 10117, BST (w. Marks): 12140, Mark Slots: 1, …}
+1232 {Part Name: "Tallgeese ↵(Endless Waltz Ver.)", Part Type: "Legs", Base Stat Total (BST): 4534, BST (w. Marks): 6348, Mark Slots: 1, …}
+1233 {Part Name: "Tallgeese ↵(Endless Waltz Ver.)", Part Type: "Back", Base Stat Total (BST): 4534, BST (w. Marks): 6348, Mark Slots: 1, …}
+1234 {Part Name: "Tallgeese (Endless Waltz Ver.)↵(Beginner Campaign)", Part Type: "Head", Base Stat Total (BST): 4905, BST (w. Marks): 6867, Mark Slots: 1, …}
+1235 {Part Name: "Tallgeese (Endless Waltz Ver.)↵(Beginner Campaign)", Part Type: "Torso", Base Stat Total (BST): 4651, BST (w. Marks): 6511, Mark Slots: 1, …}
+1236 {Part Name: "Tallgeese (Endless Waltz Ver.)↵(Beginner Campaign)", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 9317, BST (w. Marks): 11180, Mark Slots: 1, …}
+1237 {Part Name: "Tallgeese (Endless Waltz Ver.)↵(Beginner Campaign)", Part Type: "Legs", Base Stat Total (BST): 4159, BST (w. Marks): 5823, Mark Slots: 1, …}
+1238 {Part Name: "Tallgeese (Endless Waltz Ver.)↵(Beginner Campaign)", Part Type: "Back", Base Stat Total (BST): 4159, BST (w. Marks): 5823, Mark Slots: 1, …}
+1239 {Part Name: "Tallgeese II", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 7719, BST (w. Marks): 10807, Mark Slots: 2, …}
+1240 {Part Name: "Tallgeese II", Part Type: "Torso", Base Stat Total (BST): 3928, BST (w. Marks): 7070, Mark Slots: 2, …}
+1241 {Part Name: "Tallgeese II", Part Type: "Back", Base Stat Total (BST): 3642, BST (w. Marks): 6556, Mark Slots: 2, …}
+1242 {Part Name: "Tallgeese II", Part Type: "Legs", Base Stat Total (BST): 3642, BST (w. Marks): 6556, Mark Slots: 2, …}
+1243 {Part Name: "Tallgeese II", Part Type: "Head", Base Stat Total (BST): 3917, BST (w. Marks): 7051, Mark Slots: 2, …}
+1244 {Part Name: "The O", Part Type: "Head", Base Stat Total (BST): 5928, BST (w. Marks): 8299, Mark Slots: 1, …}
+1245 {Part Name: "The O", Part Type: "Torso", Base Stat Total (BST): 6240, BST (w. Marks): 8736, Mark Slots: 1, …}
+1246 {Part Name: "The O", Part Type: "Arms", Base Stat Total (BST): 6581, BST (w. Marks): 9213, Mark Slots: 1, …}
+1247 {Part Name: "The O", Part Type: "Legs", Base Stat Total (BST): 5902, BST (w. Marks): 8263, Mark Slots: 1, …}
+1248 {Part Name: "The O", Part Type: "Back", Base Stat Total (BST): 5927, BST (w. Marks): 8298, Mark Slots: 1, …}
+1249 {Part Name: "Throne Drei", Part Type: "Head", Base Stat Total (BST): 3891, BST (w. Marks): 7004, Mark Slots: 2, …}
+1250 {Part Name: "Throne Drei", Part Type: "Torso", Base Stat Total (BST): 3826, BST (w. Marks): 6887, Mark Slots: 2, …}
+1251 {Part Name: "Throne Drei", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 6958, BST (w. Marks): 9741, Mark Slots: 2, …}
+1252 {Part Name: "Throne Drei", Part Type: "Legs", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+1253 {Part Name: "Throne Drei", Part Type: "Back", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+1254 {Part Name: "Tieren Taozi", Part Type: "Head", Base Stat Total (BST): 3745, BST (w. Marks): 6741, Mark Slots: 2, …}
+1255 {Part Name: "Tieren Taozi", Part Type: "Torso", Base Stat Total (BST): 3832, BST (w. Marks): 6898, Mark Slots: 2, …}
+1256 {Part Name: "Tieren Taozi", Part Type: "Arms", Base Stat Total (BST): 3983, BST (w. Marks): 7169, Mark Slots: 2, …}
+1257 {Part Name: "Tieren Taozi", Part Type: "Legs", Base Stat Total (BST): 3814, BST (w. Marks): 6865, Mark Slots: 2, …}
+1258 {Part Name: "Tieren Taozi", Part Type: "Back", Base Stat Total (BST): 3814, BST (w. Marks): 6865, Mark Slots: 2, …}
+1259 {Part Name: "Tieria Erde", Part Type: "Pilot", Base Stat Total (BST): 3719, BST (w. Marks): 3719, Mark Slots: 0, …}
+1260 {Part Name: "Tobia Arronax", Part Type: "Pilot", Base Stat Total (BST): 5004, BST (w. Marks): 5004, Mark Slots: 0, …}
+1261 {Part Name: "TR-1 (Advanced Hazel↵w/ Optical Sensor Unit)", Part Type: "Head", Base Stat Total (BST): 3745, BST (w. Marks): 6741, Mark Slots: 2, …}
+1262 {Part Name: "TR-1 (Advanced Hazel↵w/ Optical Sensor Unit)", Part Type: "Torso", Base Stat Total (BST): 3832, BST (w. Marks): 6898, Mark Slots: 2, …}
+1263 {Part Name: "TR-1 (Advanced Hazel↵w/ Optical Sensor Unit)", Part Type: "Arms", Base Stat Total (BST): 3983, BST (w. Marks): 7169, Mark Slots: 2, …}
+1264 {Part Name: "TR-1 (Advanced Hazel↵w/ Optical Sensor Unit)", Part Type: "Legs", Base Stat Total (BST): 3814, BST (w. Marks): 6865, Mark Slots: 2, …}
+1265 {Part Name: "TR-1 (Advanced Hazel↵w/ Optical Sensor Unit)", Part Type: "Back", Base Stat Total (BST): 3814, BST (w. Marks): 6865, Mark Slots: 2, …}
+1266 {Part Name: "Treize Khushrenada", Part Type: "Pilot", Base Stat Total (BST): 3394, BST (w. Marks): 3394, Mark Slots: 0, …}
+1267 {Part Name: "Trowa Barton", Part Type: "Pilot", Base Stat Total (BST): 3794, BST (w. Marks): 3794, Mark Slots: 0, …}
+1268 {Part Name: "Tryon 3", Part Type: "Head", Base Stat Total (BST): 5365, BST (w. Marks): 7511, Mark Slots: 1, …}
+1269 {Part Name: "Tryon 3", Part Type: "Torso", Base Stat Total (BST): 5404, BST (w. Marks): 7566, Mark Slots: 1, …}
+1270 {Part Name: "Tryon 3", Part Type: "Arms", Base Stat Total (BST): 5531, BST (w. Marks): 7743, Mark Slots: 1, …}
+1271 {Part Name: "Tryon 3", Part Type: "Legs", Base Stat Total (BST): 4601, BST (w. Marks): 6441, Mark Slots: 1, …}
+1272 {Part Name: "Tryon 3", Part Type: "Back", Base Stat Total (BST): 4601, BST (w. Marks): 6441, Mark Slots: 1, …}
+1273 {Part Name: "Turn A", Part Type: "Head", Base Stat Total (BST): 6340, BST (w. Marks): 8876, Mark Slots: 1, …}
+1274 {Part Name: "Turn A", Part Type: "Torso", Base Stat Total (BST): 6356, BST (w. Marks): 8898, Mark Slots: 1, …}
+1275 {Part Name: "Turn A", Part Type: "Arms", Base Stat Total (BST): 6779, BST (w. Marks): 9491, Mark Slots: 1, …}
+1276 {Part Name: "Turn A", Part Type: "Legs", Base Stat Total (BST): 5103, BST (w. Marks): 7144, Mark Slots: 1, …}
+1277 {Part Name: "Turn X", Part Type: "Head", Base Stat Total (BST): 6294, BST (w. Marks): 8812, Mark Slots: 1, …}
+1278 {Part Name: "Turn X", Part Type: "Torso", Base Stat Total (BST): 6267, BST (w. Marks): 8774, Mark Slots: 1, …}
+1279 {Part Name: "Turn X", Part Type: "Arms", Base Stat Total (BST): 6349, BST (w. Marks): 8889, Mark Slots: 1, …}
+1280 {Part Name: "Turn X", Part Type: "Legs", Base Stat Total (BST): 5550, BST (w. Marks): 7770, Mark Slots: 1, …}
+1281 {Part Name: "Turn X", Part Type: "Back", Base Stat Total (BST): 5550, BST (w. Marks): 7770, Mark Slots: 1, …}
+1282 {Part Name: "Twin Buster Rifle↵(Coupled)", Part Type: "Ranged Wep.", Base Stat Total (BST): 6213, BST (w. Marks): 8698, Mark Slots: 1, …}
+1283 {Part Name: "Twin Maces", Part Type: "Melee Wep.", Base Stat Total (BST): 5412, BST (w. Marks): 7577, Mark Slots: 1, …}
+1284 {Part Name: "Twin Sword Rifle", Part Type: "Melee Wep.", Base Stat Total (BST): 2333, BST (w. Marks): 5133, Mark Slots: 3, …}
+1285 {Part Name: "Twin Sword Rifle", Part Type: "Ranged Wep.", Base Stat Total (BST): 2141, BST (w. Marks): 4710, Mark Slots: 3, …}
+1286 {Part Name: "Type 71 Experimental↵Defensive Shield", Part Type: "Shield", Base Stat Total (BST): 4973, BST (w. Marks): 6962, Mark Slots: 1, …}
+1287 {Part Name: "Unicorn", Part Type: "Head", Base Stat Total (BST): 6294, BST (w. Marks): 8812, Mark Slots: 1, …}
+1288 {Part Name: "Unicorn", Part Type: "Torso", Base Stat Total (BST): 6267, BST (w. Marks): 8774, Mark Slots: 1, …}
+1289 {Part Name: "Unicorn", Part Type: "Arms", Base Stat Total (BST): 6349, BST (w. Marks): 8889, Mark Slots: 1, …}
+1290 {Part Name: "Unicorn", Part Type: "Legs", Base Stat Total (BST): 5550, BST (w. Marks): 7770, Mark Slots: 1, …}
+1291 {Part Name: "Unicorn", Part Type: "Back", Base Stat Total (BST): 5550, BST (w. Marks): 7770, Mark Slots: 1, …}
+1292 {Part Name: "Üso Ewin", Part Type: "Pilot", Base Stat Total (BST): 4795, BST (w. Marks): 4795, Mark Slots: 0, …}
+1293 {Part Name: "Vajra Beam Saber", Part Type: "Melee Wep.", Base Stat Total (BST): 4788, BST (w. Marks): 6703, Mark Slots: 1, …}
+1294 {Part Name: "Vajra Beam Saber↵(Gaia)", Part Type: "Melee Wep.", Base Stat Total (BST): 3409, BST (w. Marks): 6136, Mark Slots: 2, …}
+1295 {Part Name: "VEETWO", Part Type: "Head", Base Stat Total (BST): 5370, BST (w. Marks): 7518, Mark Slots: 1, …}
+1296 {Part Name: "VEETWO", Part Type: "Torso", Base Stat Total (BST): 4973, BST (w. Marks): 6962, Mark Slots: 1, …}
+1297 {Part Name: "VEETWO", Part Type: "Arms", Base Stat Total (BST): 5148, BST (w. Marks): 7207, Mark Slots: 1, …}
+1298 {Part Name: "VEETWO", Part Type: "Legs", Base Stat Total (BST): 4584, BST (w. Marks): 6418, Mark Slots: 1, …}
+1299 {Part Name: "VEETWO", Part Type: "Back", Base Stat Total (BST): 4573, BST (w. Marks): 6402, Mark Slots: 1, …}
+1300 {Part Name: "Victory", Part Type: "Head", Base Stat Total (BST): 4556, BST (w. Marks): 6378, Mark Slots: 1, …}
+1301 {Part Name: "Victory", Part Type: "Torso", Base Stat Total (BST): 5379, BST (w. Marks): 7531, Mark Slots: 1, …}
+1302 {Part Name: "Victory", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 10948, BST (w. Marks): 13138, Mark Slots: 1, …}
+1303 {Part Name: "Victory", Part Type: "Legs", Base Stat Total (BST): 4990, BST (w. Marks): 6986, Mark Slots: 1, …}
+1304 {Part Name: "Victory", Part Type: "Back", Base Stat Total (BST): 4990, BST (w. Marks): 6986, Mark Slots: 1, …}
+1305 {Part Name: "Victory↵(Beginner Campaign)", Part Type: "Head", Base Stat Total (BST): 4357, BST (w. Marks): 6100, Mark Slots: 1, …}
+1306 {Part Name: "Victory↵(Beginner Campaign)", Part Type: "Torso", Base Stat Total (BST): 4841, BST (w. Marks): 6777, Mark Slots: 1, …}
+1307 {Part Name: "Victory↵(Beginner Campaign)", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 10263, BST (w. Marks): 12316, Mark Slots: 1, …}
+1308 {Part Name: "Victory↵(Beginner Campaign)", Part Type: "Legs", Base Stat Total (BST): 4369, BST (w. Marks): 6117, Mark Slots: 1, …}
+1309 {Part Name: "Victory↵(Beginner Campaign)", Part Type: "Back", Base Stat Total (BST): 4369, BST (w. Marks): 6117, Mark Slots: 1, …}
+1310 {Part Name: "Vidar", Part Type: "Head", Base Stat Total (BST): 6294, BST (w. Marks): 8812, Mark Slots: 1, …}
+1311 {Part Name: "Vidar", Part Type: "Torso", Base Stat Total (BST): 6267, BST (w. Marks): 8774, Mark Slots: 1, …}
+1312 {Part Name: "Vidar", Part Type: "Arms", Base Stat Total (BST): 6349, BST (w. Marks): 8889, Mark Slots: 1, …}
+1313 {Part Name: "Vidar", Part Type: "Legs", Base Stat Total (BST): 5550, BST (w. Marks): 7770, Mark Slots: 1, …}
+1314 {Part Name: "Vidar", Part Type: "Back", Base Stat Total (BST): 5550, BST (w. Marks): 7770, Mark Slots: 1, …}
+1315 {Part Name: "Virsago", Part Type: "Head", Base Stat Total (BST): 5343, BST (w. Marks): 7480, Mark Slots: 1, …}
+1316 {Part Name: "Virsago", Part Type: "Torso", Base Stat Total (BST): 5360, BST (w. Marks): 7504, Mark Slots: 1, …}
+1317 {Part Name: "Virsago", Part Type: "Arms", Base Stat Total (BST): 5135, BST (w. Marks): 7189, Mark Slots: 1, …}
+1318 {Part Name: "Virsago", Part Type: "Legs", Base Stat Total (BST): 4954, BST (w. Marks): 6936, Mark Slots: 1, …}
+1319 {Part Name: "Virsago", Part Type: "Back", Base Stat Total (BST): 4954, BST (w. Marks): 6936, Mark Slots: 1, …}
+1320 {Part Name: "Virsago↵(Beginner Campaign)", Part Type: "Head", Base Stat Total (BST): 5018, BST (w. Marks): 7025, Mark Slots: 1, …}
+1321 {Part Name: "Virsago↵(Beginner Campaign)", Part Type: "Torso", Base Stat Total (BST): 4690, BST (w. Marks): 6566, Mark Slots: 1, …}
+1322 {Part Name: "Virsago↵(Beginner Campaign)", Part Type: "Arms", Base Stat Total (BST): 4836, BST (w. Marks): 6770, Mark Slots: 1, …}
+1323 {Part Name: "Virsago↵(Beginner Campaign)", Part Type: "Legs", Base Stat Total (BST): 4344, BST (w. Marks): 6082, Mark Slots: 1, …}
+1324 {Part Name: "Virsago↵(Beginner Campaign)", Part Type: "Back", Base Stat Total (BST): 4344, BST (w. Marks): 6082, Mark Slots: 1, …}
+1325 {Part Name: "Virtue", Part Type: "Head", Base Stat Total (BST): 4071, BST (w. Marks): 7328, Mark Slots: 2, …}
+1326 {Part Name: "Virtue", Part Type: "Torso", Base Stat Total (BST): 3857, BST (w. Marks): 6943, Mark Slots: 2, …}
+1327 {Part Name: "Virtue", Part Type: "Arms", Base Stat Total (BST): 3604, BST (w. Marks): 6487, Mark Slots: 2, …}
+1328 {Part Name: "Virtue", Part Type: "Legs", Base Stat Total (BST): 3452, BST (w. Marks): 6214, Mark Slots: 2, …}
+1329 {Part Name: "Virtue", Part Type: "Back", Base Stat Total (BST): 3452, BST (w. Marks): 6214, Mark Slots: 2, …}
+1330 {Part Name: "Wing", Part Type: "Head", Base Stat Total (BST): 5365, BST (w. Marks): 7511, Mark Slots: 1, …}
+1331 {Part Name: "Wing", Part Type: "Torso", Base Stat Total (BST): 5404, BST (w. Marks): 7566, Mark Slots: 1, …}
+1332 {Part Name: "Wing", Part Type: "Arms", Base Stat Total (BST): 5531, BST (w. Marks): 7743, Mark Slots: 1, …}
+1333 {Part Name: "Wing", Part Type: "Legs", Base Stat Total (BST): 4601, BST (w. Marks): 6441, Mark Slots: 1, …}
+1334 {Part Name: "Wing", Part Type: "Back", Base Stat Total (BST): 4601, BST (w. Marks): 6441, Mark Slots: 1, …}
+1335 {Part Name: "Wing↵(Pre-Reg. Reward)", Part Type: "Arms", Base Stat Total (BST): 2344, BST (w. Marks): 5157, Mark Slots: 3, …}
+1336 {Part Name: "Wing↵(Pre-Reg. Reward)", Part Type: "Torso", Base Stat Total (BST): 2527, BST (w. Marks): 5559, Mark Slots: 3, …}
+1337 {Part Name: "Wing↵(Pre-Reg. Reward)", Part Type: "Back", Base Stat Total (BST): 2338, BST (w. Marks): 5144, Mark Slots: 3, …}
+1338 {Part Name: "Wing↵(Pre-Reg. Reward)", Part Type: "Legs", Base Stat Total (BST): 2338, BST (w. Marks): 5144, Mark Slots: 3, …}
+1339 {Part Name: "Wing↵(Pre-Reg. Reward)", Part Type: "Head", Base Stat Total (BST): 2611, BST (w. Marks): 5744, Mark Slots: 3, …}
+1340 {Part Name: "Wing 0↵(Endless Waltz Ver.)", Part Type: "Head", Base Stat Total (BST): 5841, BST (w. Marks): 8177, Mark Slots: 1, …}
+1341 {Part Name: "Wing 0↵(Endless Waltz Ver.)", Part Type: "Torso", Base Stat Total (BST): 5898, BST (w. Marks): 8257, Mark Slots: 1, …}
+1342 {Part Name: "Wing 0↵(Endless Waltz Ver.)", Part Type: "Arms", Base Stat Total (BST): 5975, BST (w. Marks): 8365, Mark Slots: 1, …}
+1343 {Part Name: "Wing 0↵(Endless Waltz Ver.)", Part Type: "Legs", Base Stat Total (BST): 5753, BST (w. Marks): 8054, Mark Slots: 1, …}
+1344 {Part Name: "Wing 0↵(Endless Waltz Ver.)", Part Type: "Back", Base Stat Total (BST): 5805, BST (w. Marks): 8127, Mark Slots: 1, …}
+1345 {Part Name: "Wing Gundam Fenice", Part Type: "Head", Base Stat Total (BST): 5370, BST (w. Marks): 7518, Mark Slots: 1, …}
+1346 {Part Name: "Wing Gundam Fenice", Part Type: "Torso", Base Stat Total (BST): 4973, BST (w. Marks): 6962, Mark Slots: 1, …}
+1347 {Part Name: "Wing Gundam Fenice", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 9793, BST (w. Marks): 11752, Mark Slots: 1, …}
+1348 {Part Name: "Wing Gundam Fenice", Part Type: "Legs", Base Stat Total (BST): 4584, BST (w. Marks): 6418, Mark Slots: 1, …}
+1349 {Part Name: "Wing Gundam Fenice", Part Type: "Back", Base Stat Total (BST): 4593, BST (w. Marks): 6430, Mark Slots: 1, …}
+1350 {Part Name: "Wrench Mace", Part Type: "Melee Wep.", Base Stat Total (BST): 5228, BST (w. Marks): 7319, Mark Slots: 1, …}
+1351 {Part Name: "X Divider", Part Type: "Arms", Base Stat Total (BST): 4937, BST (w. Marks): 6912, Mark Slots: 1, …}
+1352 {Part Name: "X Divider", Part Type: "Torso", Base Stat Total (BST): 4951, BST (w. Marks): 6931, Mark Slots: 1, …}
+1353 {Part Name: "X Divider", Part Type: "Legs", Base Stat Total (BST): 4762, BST (w. Marks): 6667, Mark Slots: 1, …}
+1354 {Part Name: "X Divider", Part Type: "Back", Base Stat Total (BST): 4751, BST (w. Marks): 6651, Mark Slots: 1, …}
+1355 {Part Name: "X Divider", Part Type: "Head", Base Stat Total (BST): 5355, BST (w. Marks): 7497, Mark Slots: 1, …}
+1356 {Part Name: "Yami Syougun", Part Type: "Head", Base Stat Total (BST): 6484, BST (w. Marks): 9078, Mark Slots: 1, …}
+1357 {Part Name: "Yami Syougun", Part Type: "Torso", Base Stat Total (BST): 6271, BST (w. Marks): 8779, Mark Slots: 1, …}
+1358 {Part Name: "Yami Syougun", Part Type: "Arms", Base Stat Total (BST): 6875, BST (w. Marks): 9625, Mark Slots: 1, …}
+1359 {Part Name: "Yami Syougun", Part Type: "Legs", Base Stat Total (BST): 5967, BST (w. Marks): 8354, Mark Slots: 1, …}
+1360 {Part Name: "Yami Syougun", Part Type: "Back", Base Stat Total (BST): 5967, BST (w. Marks): 8354, Mark Slots: 1, …}
+1361 {Part Name: "Yazan Gable", Part Type: "Pilot", Base Stat Total (BST): 3747, BST (w. Marks): 3747, Mark Slots: 0, …}
+1362 {Part Name: "Yzak Joule", Part Type: "Pilot", Base Stat Total (BST): 3707, BST (w. Marks): 3707, Mark Slots: 0, …}
+1363 {Part Name: "Z'Gok", Part Type: "Arms", Base Stat Total (BST): 1732, BST (w. Marks): 4503, Mark Slots: 4, …}
+1364 {Part Name: "Z'Gok", Part Type: "Back", Base Stat Total (BST): 1771, BST (w. Marks): 4605, Mark Slots: 4, …}
+1365 {Part Name: "Z'Gok", Part Type: "Legs", Base Stat Total (BST): 1771, BST (w. Marks): 4605, Mark Slots: 4, …}
+1366 {Part Name: "Z'Gok", Part Type: "Torso↵(+ Legs)", Base Stat Total (BST): 3369, BST (w. Marks): 6064, Mark Slots: 4, …}
+1367 {Part Name: "Zaku Bazooka", Part Type: "Ranged Wep.", Base Stat Total (BST): 1703, BST (w. Marks): 4428, Mark Slots: 4, …}
+1368 {Part Name: "Zaku II", Part Type: "Arms", Base Stat Total (BST): 1597, BST (w. Marks): 4152, Mark Slots: 4, …}
+1369 {Part Name: "Zaku II", Part Type: "Torso", Base Stat Total (BST): 1679, BST (w. Marks): 4365, Mark Slots: 4, …}
+1370 {Part Name: "Zaku II", Part Type: "Back", Base Stat Total (BST): 1552, BST (w. Marks): 4035, Mark Slots: 4, …}
+1371 {Part Name: "Zaku II", Part Type: "Legs", Base Stat Total (BST): 1540, BST (w. Marks): 4004, Mark Slots: 4, …}
+1372 {Part Name: "Zaku II", Part Type: "Head", Base Stat Total (BST): 1735, BST (w. Marks): 4511, Mark Slots: 4, …}
+1373 {Part Name: "Zaku II↵(Char Aznable)", Part Type: "Arms", Base Stat Total (BST): 4325, BST (w. Marks): 7785, Mark Slots: 2, …}
+1374 {Part Name: "Zaku II↵(Char Aznable)", Part Type: "Torso", Base Stat Total (BST): 3928, BST (w. Marks): 7070, Mark Slots: 2, …}
+1375 {Part Name: "Zaku II↵(Char Aznable)", Part Type: "Back", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+1376 {Part Name: "Zaku II↵(Char Aznable)", Part Type: "Legs", Base Stat Total (BST): 3648, BST (w. Marks): 6566, Mark Slots: 2, …}
+1377 {Part Name: "Zaku II↵(Char Aznable)", Part Type: "Head", Base Stat Total (BST): 3965, BST (w. Marks): 7137, Mark Slots: 2, …}
+1378 {Part Name: "Zaku II Kai", Part Type: "Arms", Base Stat Total (BST): 2319, BST (w. Marks): 5102, Mark Slots: 3, …}
+1379 {Part Name: "Zaku II Kai", Part Type: "Torso", Base Stat Total (BST): 2322, BST (w. Marks): 5108, Mark Slots: 3, …}
+1380 {Part Name: "Zaku II Kai", Part Type: "Legs", Base Stat Total (BST): 2290, BST (w. Marks): 5038, Mark Slots: 3, …}
+1381 {Part Name: "Zaku II Kai", Part Type: "Back", Base Stat Total (BST): 2280, BST (w. Marks): 5016, Mark Slots: 3, …}
+1382 {Part Name: "Zaku II Kai", Part Type: "Head", Base Stat Total (BST): 2539, BST (w. Marks): 5586, Mark Slots: 3, …}
+1383 {Part Name: "Zaku II Type FS↵(Garma Zabi)", Part Type: "Arms", Base Stat Total (BST): 2343, BST (w. Marks): 5155, Mark Slots: 3, …}
+1384 {Part Name: "Zaku II Type FS↵(Garma Zabi)", Part Type: "Torso", Base Stat Total (BST): 2530, BST (w. Marks): 5566, Mark Slots: 3, …}
+1385 {Part Name: "Zaku II Type FS↵(Garma Zabi)", Part Type: "Back", Base Stat Total (BST): 2261, BST (w. Marks): 4974, Mark Slots: 3, …}
+1386 {Part Name: "Zaku II Type FS↵(Garma Zabi)", Part Type: "Legs", Base Stat Total (BST): 2261, BST (w. Marks): 4974, Mark Slots: 3, …}
+1387 {Part Name: "Zaku II Type FS↵(Garma Zabi)", Part Type: "Head", Base Stat Total (BST): 2614, BST (w. Marks): 5751, Mark Slots: 3, …}
+1388 {Part Name: "Zaku Machine Gun↵(Zaku II Kai)", Part Type: "Ranged Wep.", Base Stat Total (BST): 2426, BST (w. Marks): 5337, Mark Slots: 3, …}
+1389 {Part Name: "Zaku Machine Gun↵(Zaku II)", Part Type: "Ranged Wep.", Base Stat Total (BST): 1703, BST (w. Marks): 4428, Mark Slots: 4, …}
+1390 {Part Name: "Zaku Minelayer", Part Type: "Arms", Base Stat Total (BST): 1731, BST (w. Marks): 4501, Mark Slots: 4, …}
+1391 {Part Name: "Zaku Minelayer", Part Type: "Torso", Base Stat Total (BST): 1762, BST (w. Marks): 4581, Mark Slots: 4, …}
+1392 {Part Name: "Zaku Minelayer", Part Type: "Back", Base Stat Total (BST): 1583, BST (w. Marks): 4116, Mark Slots: 4, …}
+1393 {Part Name: "Zaku Minelayer", Part Type: "Legs", Base Stat Total (BST): 1571, BST (w. Marks): 4085, Mark Slots: 4, …}
+1394 {Part Name: "Zaku Minelayer", Part Type: "Head", Base Stat Total (BST): 1763, BST (w. Marks): 4584, Mark Slots: 4, …}
+1395 {Part Name: "Zanbuster", Part Type: "Ranged Wep.", Base Stat Total (BST): 3142, BST (w. Marks): 5656, Mark Slots: 2, …}
+1396 {Part Name: "Zanbuster↵[X2]", Part Type: "Ranged Wep.", Base Stat Total (BST): 5011, BST (w. Marks): 7015, Mark Slots: 1, …}
+1397 {Part Name: "Zechs Marquise", Part Type: "Pilot", Base Stat Total (BST): 4795, BST (w. Marks): 4795, Mark Slots: 0, …}
+1398 {Part Name: "Zeong", Part Type: "Head", Base Stat Total (BST): 5515, BST (w. Marks): 7721, Mark Slots: 1, …}
+1399 {Part Name: "Zeong", Part Type: "Torso", Base Stat Total (BST): 5359, BST (w. Marks): 7503, Mark Slots: 1, …}
+1400 {Part Name: "Zeong", Part Type: "Arms", Base Stat Total (BST): 4735, BST (w. Marks): 6629, Mark Slots: 1, …}
+1401 {Part Name: "Zeong", Part Type: "Legs", Base Stat Total (BST): 4812, BST (w. Marks): 6737, Mark Slots: 1, …}
+1402 {Part Name: "Zeta", Part Type: "Arms", Base Stat Total (BST): 6592, BST (w. Marks): 9229, Mark Slots: 1, …}
+1403 {Part Name: "Zeta", Part Type: "Torso", Base Stat Total (BST): 5887, BST (w. Marks): 8242, Mark Slots: 1, …}
+1404 {Part Name: "Zeta", Part Type: "Back", Base Stat Total (BST): 5586, BST (w. Marks): 7820, Mark Slots: 1, …}
+1405 {Part Name: "Zeta", Part Type: "Legs", Base Stat Total (BST): 5586, BST (w. Marks): 7820, Mark Slots: 1, …}
+1406 {Part Name: "Zeta", Part Type: "Head", Base Stat Total (BST): 5759, BST (w. Marks): 8063, Mark Slots: 1, …}
+1407 {Part Name: "Zeta Shield", Part Type: "Shield", Base Stat Total (BST): 5531, BST (w. Marks): 7743, Mark Slots: 1, …}
+1408 {Part Name: "Zudah", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 3521, BST (w. Marks): 6338, Mark Slots: 4, …}
+1409 {Part Name: "Zudah", Part Type: "Torso", Base Stat Total (BST): 1773, BST (w. Marks): 4610, Mark Slots: 4, …}
+1410 {Part Name: "Zudah", Part Type: "Legs", Base Stat Total (BST): 1687, BST (w. Marks): 4386, Mark Slots: 4, …}
+1411 {Part Name: "Zudah", Part Type: "Back", Base Stat Total (BST): 1687, BST (w. Marks): 4386, Mark Slots: 4, …}
+1412 {Part Name: "Zudah", Part Type: "Head", Base Stat Total (BST): 1497, BST (w. Marks): 3892, Mark Slots: 4, …}
+1413 {Part Name: "Zudah↵(Commander Type)", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 5133, BST (w. Marks): 8213, Mark Slots: 3, …}
+1414 {Part Name: "Zudah↵(Commander Type)", Part Type: "Torso", Base Stat Total (BST): 2527, BST (w. Marks): 5559, Mark Slots: 3, …}
+1415 {Part Name: "Zudah↵(Commander Type)", Part Type: "Back", Base Stat Total (BST): 2338, BST (w. Marks): 5144, Mark Slots: 3, …}
+1416 {Part Name: "Zudah↵(Commander Type)", Part Type: "Legs", Base Stat Total (BST): 2338, BST (w. Marks): 5144, Mark Slots: 3, …}
+1417 {Part Name: "Zudah↵(Commander Type)", Part Type: "Head", Base Stat Total (BST): 2160, BST (w. Marks): 4752, Mark Slots: 3, …}
+1418 {Part Name: "Zudah [ALT]", Part Type: "Arms↵(+ Shield)", Base Stat Total (BST): 3521, BST (w. Marks): 6338, Mark Slots: 4, …}
+1419 {Part Name: "Zudah [ALT]", Part Type: "Torso", Base Stat Total (BST): 1773, BST (w. Marks): 4610, Mark Slots: 4, …}
+1420 {Part Name: "Zudah [ALT]", Part Type: "Legs", Base Stat Total (BST): 1687, BST (w. Marks): 4386, Mark Slots: 4, …}
+1421 {Part Name: "Zudah [ALT]", Part Type: "Back", Base Stat Total (BST): 1687, BST (w. Marks): 4386, Mark Slots: 4, …}
+1422 {Part Name: "Zudah [ALT]", Part Type: "Head", Base Stat Total (BST): 1497, BST (w. Marks): 3892, Mark Slots: 4, …}
