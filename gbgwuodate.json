@@ -1,6 +1,5 @@
 {
-  "Gundam Artemis
-[Satellite Cannon]":{"Part_Type":"Back","Base_Stat_Total_BST":4981,"BST_w_Marks":6973,"Mark_Slots":1,"Armor":796,"Melee_ATK":384,"Shot_ATK":796,"Melee_DEF":796,"Shot_DEF":1181,"Beam_RES":611,"Phys_RES":417,"EX_TRAIT":"EX","EX_Name":"Satellite Cannon","Details_exclude_attack_description":"-","Category":"Beam Shot","Pierce":"A+","Power":"C-","Duration":"-","Magazine":"-","Cooldown":"79 (20)","Attribute":"Power","Word_Tag_One":"Protag.","Word_Tag_Two":"High
+  "Gundam Artemis [Satellite Cannon]":{"Part_Type":"Back","Base_Stat_Total_BST":4981,"BST_w_Marks":6973,"Mark_Slots":1,"Armor":796,"Melee_ATK":384,"Shot_ATK":796,"Melee_DEF":796,"Shot_DEF":1181,"Beam_RES":611,"Phys_RES":417,"EX_TRAIT":"EX","EX_Name":"Satellite Cannon","Details_exclude_attack_description":"-","Category":"Beam Shot","Pierce":"A+","Power":"C-","Duration":"-","Magazine":"-","Cooldown":"79 (20)","Attribute":"Power","Word_Tag_One":"Protag.","Word_Tag_Two":"High
 Firepower","Weapon_Type":"-","Weapon_Category":"-","Job_License":"-","AI_Type_One":"-","AI_Type_Two":"-","Rarity":"2*","Obtained_From":"Friend Point Capsule &
 Capital Shop","Initial_Release_Date":"April 21, 2020"},
   "Graze
