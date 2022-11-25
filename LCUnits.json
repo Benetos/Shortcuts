@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "ID": "100100001",
         "Age": "20",
@@ -13,7 +13,7 @@
         "Gender": "Male",
         "Category": "Story",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "May 18",
         "3 Sizes": "91 / 75 / 89",
         "From": "Ladour Village",
@@ -62,7 +62,7 @@
         "Gender": "Male",
         "Category": "Story",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "124 / 100 / 118",
         "From": "Unknown",
@@ -111,7 +111,7 @@
         "Gender": "Female",
         "Category": "Story",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "March 8",
         "3 Sizes": "76 / 51 / 78",
         "From": "Samel Town",
@@ -160,7 +160,7 @@
         "Gender": "Male",
         "Category": "Story",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "December 15",
         "3 Sizes": "93 / 76 / 89",
         "From": "Imperial Capital Aldana",
@@ -209,7 +209,7 @@
         "Gender": "Female",
         "Category": "Story",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "August 8",
         "3 Sizes": "83 / 62 / 81",
         "From": "Blaze Garden",
@@ -258,7 +258,7 @@
         "Gender": "Female",
         "Category": "Gacha",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "April 16",
         "3 Sizes": "72 / 54 / 70",
         "From": "Aldana Mainlands",
@@ -307,7 +307,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "June 5",
         "3 Sizes": "110 / 100 / 116",
         "From": "Aldana Mainlands (Market Town Badaal)",
@@ -356,7 +356,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "September 7",
         "3 Sizes": "90 / 72 / 94",
         "From": "Holy Lands Odal Empire",
@@ -405,7 +405,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "December 24",
         "3 Sizes": "92 / 73 / 90",
         "From": "Holy Kingdom Odal (Gorde Town)",
@@ -454,7 +454,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "86 / 65 / 84",
         "From": "Aldana Mainlands",
@@ -503,7 +503,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "July 29",
         "3 Sizes": "90 / 76 / 88",
         "From": "Odal Mainlands",
@@ -552,7 +552,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "January 23",
         "3 Sizes": "93 / 78 / 89",
         "From": "Mordana Mainlands (Unnamed Village)",
@@ -601,7 +601,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "88 / 68 / 84",
         "From": "Aldana Mainlands",
@@ -650,7 +650,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "October 10",
         "3 Sizes": "102 / 83 / 98",
         "From": "Odal Mainlands",
@@ -699,7 +699,7 @@
         "Gender": "Female",
         "Category": "Gacha",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "November 19",
         "3 Sizes": "78 / 53 / 76",
         "From": "Aldana Mainlands (Port Town Granada)",
@@ -748,7 +748,7 @@
         "Gender": "Female",
         "Category": "Gacha",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "January 3",
         "3 Sizes": "89 / 59 / 86",
         "From": "Holy Lands Odal Empire",
@@ -797,7 +797,7 @@
         "Gender": "Female",
         "Category": "Special",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "September 7",
         "3 Sizes": "83 / 52 / 85",
         "From": "Mordana Mainlands",
@@ -846,7 +846,7 @@
         "Gender": "Unknown",
         "Category": "Monster",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unable to Measure",
         "From": "Granzelia",
@@ -895,7 +895,7 @@
         "Gender": "Unknown",
         "Category": "Monster",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unable to Measure",
         "From": "Granzelia",
@@ -944,7 +944,7 @@
         "Gender": "Unknown",
         "Category": "Monster",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unable to Measure",
         "From": "Granzelia",
@@ -993,7 +993,7 @@
         "Gender": "Unknown",
         "Category": "Monster",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unable to Measure",
         "From": "Granzelia",
@@ -1042,7 +1042,7 @@
         "Gender": "Unknown",
         "Category": "Monster",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unable to Measure",
         "From": "Granzelia",
@@ -1091,7 +1091,7 @@
         "Gender": "Unknown",
         "Category": "Monster",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unable to Measure",
         "From": "Granzelia",
@@ -1140,7 +1140,7 @@
         "Gender": "Unknown",
         "Category": "Monster",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unable to Measure",
         "From": "Granzelia",
@@ -1189,7 +1189,7 @@
         "Gender": "Unknown",
         "Category": "Monster",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unable to Measure",
         "From": "Granzelia",
@@ -1238,7 +1238,7 @@
         "Gender": "Unknown",
         "Category": "Monster",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unable to Measure",
         "From": "Granzelia",
@@ -1287,7 +1287,7 @@
         "Gender": "Unknown",
         "Category": "Monster",
         "Release Date": "2019-10-17",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unable to Measure",
         "From": "Lanzelia Mainlands",
@@ -1336,7 +1336,7 @@
         "Gender": "Female",
         "Category": "Gacha",
         "Release Date": "2019-10-29",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "73 / 53 / 78",
         "From": "Lanzelia Mainlands",
@@ -1385,7 +1385,7 @@
         "Gender": "Female",
         "Category": "Gacha",
         "Release Date": "2019-11-12",
-        "": "",
+        
         "Birthday": "September 7",
         "3 Sizes": "83 / 52 / 85",
         "From": "Mordana Mainlands",
@@ -1434,7 +1434,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2019-11-26",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unknown",
         "From": "Potos Village",
@@ -1483,7 +1483,7 @@
         "Gender": "Female",
         "Category": "Collab",
         "Release Date": "2019-11-26",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "I'm not telling you!",
         "From": "The Kingdom of Pandora",
@@ -1532,7 +1532,7 @@
         "Gender": "Sprite",
         "Category": "Collab",
         "Release Date": "2019-11-26",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unknown",
         "From": "Sprite Village",
@@ -1581,7 +1581,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2019-12-13",
-        "": "",
+        
         "Birthday": "July 26",
         "3 Sizes": "88 / 71 / 91",
         "From": "Unknown",
@@ -1630,7 +1630,7 @@
         "Gender": "Female",
         "Category": "Seasonal",
         "Release Date": "2019-12-20",
-        "": "",
+        
         "Birthday": "March 8",
         "3 Sizes": "76 / 51 / 78",
         "From": "Samel Town",
@@ -1679,7 +1679,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2019-12-26",
-        "": "",
+        
         "Birthday": "July 29",
         "3 Sizes": "86 / 74 / 85",
         "From": "Odal Mainlands",
@@ -1728,7 +1728,7 @@
         "Gender": "Female",
         "Category": "Hero",
         "Release Date": "2019-12-30",
-        "": "",
+        
         "Birthday": "April 6",
         "3 Sizes": "84 / 66 / 82",
         "From": "Unknown",
@@ -1777,7 +1777,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2019-12-30",
-        "": "",
+        
         "Birthday": "May 30",
         "3 Sizes": "108 / 89 / 102",
         "From": "Imperial Capital Aldana",
@@ -1826,7 +1826,7 @@
         "Gender": "Female",
         "Category": "Gacha",
         "Release Date": "2020-01-15",
-        "": "",
+        
         "Birthday": "October 22",
         "3 Sizes": "80 / 55 / 78",
         "From": "Odal Mainland",
@@ -1875,7 +1875,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2020-01-28",
-        "": "",
+        
         "Birthday": "December 7",
         "3 Sizes": "100 / 85 / 90",
         "From": "Foreign Land",
@@ -1924,7 +1924,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2020-01-30",
-        "": "",
+        
         "Birthday": "September 10",
         "3 Sizes": "108 / 88 / 100",
         "From": "Aldana",
@@ -1973,7 +1973,7 @@
         "Gender": "Female",
         "Category": "Gacha",
         "Release Date": "2020-02-05",
-        "": "",
+        
         "Birthday": "April 16",
         "3 Sizes": "72 / 54 / 70",
         "From": "Aldana",
@@ -2022,7 +2022,7 @@
         "Gender": "Female",
         "Category": "Gacha",
         "Release Date": "2020-02-12",
-        "": "",
+        
         "Birthday": "February 8",
         "3 Sizes": "86 / 54 / 84",
         "From": "Unknown",
@@ -2071,7 +2071,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2020-02-27",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "98 / 79 / 96",
         "From": "Unknown",
@@ -2120,7 +2120,7 @@
         "Gender": "Female",
         "Category": "Seasonal",
         "Release Date": "2020-03-11",
-        "": "",
+        
         "Birthday": "January 3",
         "3 Sizes": "89 / 59 / 86",
         "From": "Holy Lands Odal Empire",
@@ -2169,7 +2169,7 @@
         "Gender": "Female",
         "Category": "Hero",
         "Release Date": "2020-03-30",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "79 / 47 / 78",
         "From": "Unknown",
@@ -2218,7 +2218,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2020-04-09",
-        "": "",
+        
         "Birthday": "January 20",
         "3 Sizes": "97 / 77 / 96",
         "From": "Lanzelia",
@@ -2267,7 +2267,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2020-04-16",
-        "": "",
+        
         "Birthday": "July 24",
         "3 Sizes": "95 / 75 / 93",
         "From": "Mordanian Mainlands",
@@ -2316,7 +2316,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2020-04-23",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "93 / 78 / 90",
         "From": "Unknown",
@@ -2365,7 +2365,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2020-04-30",
-        "": "",
+        
         "Birthday": "January 4",
         "3 Sizes": "Unknown",
         "From": "Japan",
@@ -2414,7 +2414,7 @@
         "Gender": "Female",
         "Category": "Collab",
         "Release Date": "2020-04-30",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unknown",
         "From": "Ishigami Village",
@@ -2463,7 +2463,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2020-05-14",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unknown",
         "From": "Japan",
@@ -2512,7 +2512,7 @@
         "Gender": "Female",
         "Category": "Gacha",
         "Release Date": "2020-05-21",
-        "": "",
+        
         "Birthday": "November 19",
         "3 Sizes": "78 / 53 / 76",
         "From": "Aldana Mainlands (Port Town Granada)",
@@ -2561,7 +2561,7 @@
         "Gender": "Female",
         "Category": "Gacha",
         "Release Date": "2020-05-28",
-        "": "",
+        
         "Birthday": "February 2",
         "3 Sizes": "78 / 53 / 79",
         "From": "Land of Stars! (Mordana Mainland)",
@@ -2610,7 +2610,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2020-06-04",
-        "": "",
+        
         "Birthday": "August 16",
         "3 Sizes": "126 / 102 / 114",
         "From": "Lanzelia Mainlands",
@@ -2659,7 +2659,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2020-06-18",
-        "": "",
+        
         "Birthday": "November 10",
         "3 Sizes": "84 / 72 / 83",
         "From": "Aldana Mainlands",
@@ -2708,7 +2708,7 @@
         "Gender": "Female",
         "Category": "Gacha",
         "Release Date": "2020-06-25",
-        "": "",
+        
         "Birthday": "October 18",
         "3 Sizes": "74 / 54 / 76",
         "From": "Mordana Mainlands (Unnamed Village)",
@@ -2757,7 +2757,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2020-07-02",
-        "": "",
+        
         "Birthday": "March 26",
         "3 Sizes": "92 / 74 / 91",
         "From": "Odalian Mainland",
@@ -2806,7 +2806,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2020-07-16",
-        "": "",
+        
         "Birthday": "December 12",
         "3 Sizes": "94 / 76 / 92",
         "From": "Imperial Capital Aldana",
@@ -2855,7 +2855,7 @@
         "Gender": "Female",
         "Category": "Seasonal",
         "Release Date": "2020-07-30",
-        "": "",
+        
         "Birthday": "February 2",
         "3 Sizes": "78 / 53 / 79",
         "From": "Land of Stars! (Mordana Mainland)",
@@ -2904,7 +2904,7 @@
         "Gender": "Unknown",
         "Category": "Collab",
         "Release Date": "2020-07-30",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unknown",
         "From": "Sealed Cave",
@@ -2953,7 +2953,7 @@
         "Gender": "Female",
         "Category": "Collab",
         "Release Date": "2020-08-06",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unknown",
         "From": "Unknown",
@@ -3002,7 +3002,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2020-08-13",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "52 / 50 / 53",
         "From": "Unknown",
@@ -3051,7 +3051,7 @@
         "Gender": "Female",
         "Category": "Gacha",
         "Release Date": "2020-08-27",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "73 / 53 / 78",
         "From": "Lanzelia Mainlands",
@@ -3100,7 +3100,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2020-09-10",
-        "": "",
+        
         "Birthday": "January 23",
         "3 Sizes": "93 / 78 / 89",
         "From": "Mordana Mainlands (Unnamed Village)",
@@ -3149,7 +3149,7 @@
         "Gender": "Female",
         "Category": "Collab",
         "Release Date": "2020-09-30",
-        "": "",
+        
         "Birthday": "September 23",
         "3 Sizes": "Unknown",
         "From": "Unknown",
@@ -3198,7 +3198,7 @@
         "Gender": "Female",
         "Category": "Collab",
         "Release Date": "2020-10-15",
-        "": "",
+        
         "Birthday": "February 2",
         "3 Sizes": "Unknown",
         "From": "Unknown",
@@ -3247,7 +3247,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2020-10-29",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "124 / 100 / 118",
         "From": "Unknown",
@@ -3296,7 +3296,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2020-11-12",
-        "": "",
+        
         "Birthday": "May 11",
         "3 Sizes": "89 / 77 / 87",
         "From": "Otherworld Megrona",
@@ -3345,7 +3345,7 @@
         "Gender": "Female",
         "Category": "Hero",
         "Release Date": "2020-11-26",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "79 / 47 / 78",
         "From": "Unknown",
@@ -3394,7 +3394,7 @@
         "Gender": "Female",
         "Category": "Hero",
         "Release Date": "2020-12-10",
-        "": "",
+        
         "Birthday": "February 26",
         "3 Sizes": "78 / 50 / 80",
         "From": "The White Laboratory",
@@ -3443,7 +3443,7 @@
         "Gender": "Female",
         "Category": "Hero",
         "Release Date": "2020-12-24",
-        "": "",
+        
         "Birthday": "March 8",
         "3 Sizes": "76 / 51 / 78",
         "From": "Samel Town",
@@ -3492,7 +3492,7 @@
         "Gender": "Female",
         "Category": "Hero",
         "Release Date": "2021-01-14",
-        "": "",
+        
         "Birthday": "August 8",
         "3 Sizes": "83 / 62 / 81",
         "From": "Blaze Garden",
@@ -3541,7 +3541,7 @@
         "Gender": "Male",
         "Category": "Special",
         "Release Date": "2021-01-14",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "80 / 74 / 79",
         "From": "Unknown",
@@ -3590,7 +3590,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2021-01-28",
-        "": "",
+        
         "Birthday": "",
         "3 Sizes": "",
         "From": "",
@@ -3639,7 +3639,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2021-01-28",
-        "": "",
+        
         "Birthday": "",
         "3 Sizes": "",
         "From": "",
@@ -3688,7 +3688,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2021-01-28",
-        "": "",
+        
         "Birthday": "",
         "3 Sizes": "",
         "From": "",
@@ -3737,7 +3737,7 @@
         "Gender": "Female",
         "Category": "Gacha",
         "Release Date": "2021-02-10",
-        "": "",
+        
         "Birthday": "June 21",
         "3 Sizes": "81 / 60 / 79",
         "From": "Lanzelia",
@@ -3786,7 +3786,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2021-02-25",
-        "": "",
+        
         "Birthday": "December 15",
         "3 Sizes": "93 / 76 / 89",
         "From": "Imperial Capital Aldana",
@@ -3835,7 +3835,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2021-03-02",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unknown",
         "From": "Japan",
@@ -3884,7 +3884,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2021-03-09",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unknown",
         "From": "Ishigami Village",
@@ -3933,7 +3933,7 @@
         "Gender": "Female",
         "Category": "Hero",
         "Release Date": "2021-03-25",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "85 / 58 / 84",
         "From": "Unknown",
@@ -3982,7 +3982,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2021-04-15",
-        "": "",
+        
         "Birthday": "May 18",
         "3 Sizes": "91 / 75 / 89",
         "From": "Ladour Village",
@@ -4031,7 +4031,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2021-04-28",
-        "": "",
+        
         "Birthday": "September 28",
         "3 Sizes": "98 / 79 / 96",
         "From": "Samael Village",
@@ -4080,7 +4080,7 @@
         "Gender": "Female",
         "Category": "Gacha",
         "Release Date": "2021-05-13",
-        "": "",
+        
         "Birthday": "October 22",
         "3 Sizes": "81 / 55 / 79",
         "From": "Odal Mainland",
@@ -4129,7 +4129,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2021-05-27",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "101 / 80 / 98",
         "From": "Unknown",
@@ -4178,7 +4178,7 @@
         "Gender": "Female",
         "Category": "Hero",
         "Release Date": "2021-05-27",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "84 / 56 / 81",
         "From": "Unknown",
@@ -4227,7 +4227,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2021-06-10",
-        "": "",
+        
         "Birthday": "June 5",
         "3 Sizes": "85 / 68 / 88",
         "From": "Aldana (Crowded City Badaal)",
@@ -4276,7 +4276,7 @@
         "Gender": "Unknown",
         "Category": "Hero",
         "Release Date": "2021-06-24",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unknown",
         "From": "Unknown",
@@ -4325,7 +4325,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2021-07-15",
-        "": "",
+        
         "Birthday": "",
         "3 Sizes": "",
         "From": "",
@@ -4374,7 +4374,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2021-07-15",
-        "": "",
+        
         "Birthday": "",
         "3 Sizes": "",
         "From": "",
@@ -4423,7 +4423,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2021-07-21",
-        "": "",
+        
         "Birthday": "",
         "3 Sizes": "",
         "From": "",
@@ -4472,7 +4472,7 @@
         "Gender": "Female",
         "Category": "Seasonal",
         "Release Date": "2021-07-29",
-        "": "",
+        
         "Birthday": "February 26",
         "3 Sizes": "78 / 50 / 80",
         "From": "The White Laboratory",
@@ -4521,7 +4521,7 @@
         "Gender": "Female",
         "Category": "Hero",
         "Release Date": "2021-08-19",
-        "": "",
+        
         "Birthday": "November 26",
         "3 Sizes": "84 / 61 / 80",
         "From": "Imperial capital",
@@ -4570,7 +4570,7 @@
         "Gender": "Female",
         "Category": "Collab",
         "Release Date": "2021-08-26",
-        "": "",
+        
         "Birthday": "January 7",
         "3 Sizes": "84 / 56 / 88",
         "From": "Lunar Orbital Bunker",
@@ -4619,7 +4619,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2021-08-26",
-        "": "",
+        
         "Birthday": "January 30",
         "3 Sizes": "61 / 53 / 73",
         "From": "Lunar Orbital Bunker",
@@ -4668,7 +4668,7 @@
         "Gender": "Female",
         "Category": "Collab",
         "Release Date": "2021-09-02",
-        "": "",
+        
         "Birthday": "May 20",
         "3 Sizes": "73 / 54 / 82",
         "From": "Lunar Orbital Bunker",
@@ -4717,7 +4717,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2021-09-16",
-        "": "",
+        
         "Birthday": "December 24",
         "3 Sizes": "92 / 73 / 90",
         "From": "Holy Kingdom Odal (Gorde Town)",
@@ -4766,7 +4766,7 @@
         "Gender": "Female",
         "Category": "Hero",
         "Release Date": "2021-09-30",
-        "": "",
+        
         "Birthday": "April 6",
         "3 Sizes": "84 / 66 / 82",
         "From": "Imperial Capital Aldana",
@@ -4815,7 +4815,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2021-10-14",
-        "": "",
+        
         "Birthday": "March 14",
         "3 Sizes": "88 / 75 / 85",
         "From": "Aldana Mainlands",
@@ -4864,7 +4864,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2021-10-28",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "75 / 49 / 73",
         "From": "Unknown",
@@ -4913,7 +4913,7 @@
         "Gender": "Unknown",
         "Category": "Monster",
         "Release Date": "2021-10-28",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unable to Measure",
         "From": "Unknown",
@@ -4962,7 +4962,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2021-11-11",
-        "": "",
+        
         "Birthday": "May 30",
         "3 Sizes": "108 / 89 / 102",
         "From": "Imperial Capital Aldana",
@@ -5011,7 +5011,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2021-11-25",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unknown",
         "From": "Valsena, Kingdom of the Plains",
@@ -5060,7 +5060,7 @@
         "Gender": "Female",
         "Category": "Collab",
         "Release Date": "2021-11-25",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unknown",
         "From": "Laurent, Kingdom of Wind",
@@ -5109,7 +5109,7 @@
         "Gender": "Female",
         "Category": "Collab",
         "Release Date": "2021-12-02",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unknown",
         "From": "Altena, Kingdom of Magicians",
@@ -5158,7 +5158,7 @@
         "Gender": "Female",
         "Category": "Seasonal",
         "Release Date": "2021-12-16",
-        "": "",
+        
         "Birthday": "August 8",
         "3 Sizes": "83 / 62 / 81",
         "From": "Blaze Garden",
@@ -5207,7 +5207,7 @@
         "Gender": "Female",
         "Category": "Hero",
         "Release Date": "2021-12-30",
-        "": "",
+        
         "Birthday": "June 12",
         "3 Sizes": "81 / 52 / 79",
         "From": "Unknown",
@@ -5256,7 +5256,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2022-01-13",
-        "": "",
+        
         "Birthday": "August 2",
         "3 Sizes": "96 / 78 / 93",
         "From": "Unknown",
@@ -5305,7 +5305,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2022-01-27",
-        "": "",
+        
         "Birthday": "March 30",
         "3 Sizes": "Unknown",
         "From": "Shiganshina District",
@@ -5354,7 +5354,7 @@
         "Gender": "Female",
         "Category": "Collab",
         "Release Date": "2022-01-27",
-        "": "",
+        
         "Birthday": "February 10",
         "3 Sizes": "Unknown",
         "From": "Shiganshina District",
@@ -5403,7 +5403,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2022-02-03",
-        "": "",
+        
         "Birthday": "December 25",
         "3 Sizes": "Unknown",
         "From": "Unknown",
@@ -5452,7 +5452,7 @@
         "Gender": "Female",
         "Category": "Gacha",
         "Release Date": "2022-02-10",
-        "": "",
+        
         "Birthday": "June 21",
         "3 Sizes": "81 / 60 / 79",
         "From": "Lanzelia",
@@ -5501,7 +5501,7 @@
         "Gender": "Unknown",
         "Category": "Collab",
         "Release Date": "2022-02-28",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unknown",
         "From": "Sealed Cave",
@@ -5550,7 +5550,7 @@
         "Gender": "Female",
         "Category": "Collab",
         "Release Date": "2022-03-07",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unknown",
         "From": "Unknown",
@@ -5599,7 +5599,7 @@
         "Gender": "Female",
         "Category": "Hero",
         "Release Date": "2022-03-14",
-        "": "",
+        
         "Birthday": "April 25",
         "3 Sizes": "78 / 54 / 77",
         "From": "Unknown",
@@ -5648,7 +5648,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2022-03-31",
-        "": "",
+        
         "Birthday": "July 4",
         "3 Sizes": "109 / 90 / 101",
         "From": "Imperial Capital Aldana",
@@ -5697,7 +5697,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2022-04-14",
-        "": "",
+        
         "Birthday": "December 12",
         "3 Sizes": "94 / 76 / 92",
         "From": "Imperial Capital Aldana",
@@ -5746,7 +5746,7 @@
         "Gender": "Male",
         "Category": "Story",
         "Release Date": "2022-04-14",
-        "": "",
+        
         "Birthday": "June 30",
         "3 Sizes": "89 / 75 / 87",
         "From": "Imperial capital",
@@ -5795,7 +5795,7 @@
         "Gender": "Female",
         "Category": "Hero",
         "Release Date": "2022-04-28",
-        "": "",
+        
         "Birthday": "February 26",
         "3 Sizes": "78 / 50 / 80",
         "From": "The White Laboratory",
@@ -5844,7 +5844,7 @@
         "Gender": "Male",
         "Category": "Gacha",
         "Release Date": "2022-05-12",
-        "": "",
+        
         "Birthday": "November 3",
         "3 Sizes": "82 / 74 / 82",
         "From": "Lanzelia",
@@ -5893,7 +5893,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2022-05-26",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unknown",
         "From": "Japan",
@@ -5942,7 +5942,7 @@
         "Gender": "Unknown",
         "Category": "Collab",
         "Release Date": "2022-05-26",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "Unknown",
         "From": "Unknown",
@@ -5991,7 +5991,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2022-06-02",
-        "": "",
+        
         "Birthday": "June 2",
         "3 Sizes": "Unknown",
         "From": "Japan",
@@ -6040,7 +6040,7 @@
         "Gender": "Female",
         "Category": "Collab",
         "Release Date": "2022-06-02",
-        "": "",
+        
         "Birthday": "March 25",
         "3 Sizes": "Unknown",
         "From": "Japan",
@@ -6089,7 +6089,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2022-06-16",
-        "": "",
+        
         "Birthday": "November 10",
         "3 Sizes": "84 / 72 / 83",
         "From": "Aldana Mainlands",
@@ -6138,7 +6138,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2022-06-30",
-        "": "",
+        
         "Birthday": "January 11",
         "3 Sizes": "86 / 74 / 84",
         "From": "Unknown",
@@ -6187,7 +6187,7 @@
         "Gender": "Female",
         "Category": "Gacha",
         "Release Date": "2022-07-14",
-        "": "",
+        
         "Birthday": "August 27",
         "3 Sizes": "82 / 51 / 80",
         "From": "St. Palm",
@@ -6236,7 +6236,7 @@
         "Gender": "Female",
         "Category": "Seasonal",
         "Release Date": "2022-07-28",
-        "": "",
+        
         "Birthday": "November 26",
         "3 Sizes": "84 / 61 / 80",
         "From": "Imperial capital",
@@ -6285,7 +6285,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2022-08-10",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "124 / 100 / 118",
         "From": "Unknown",
@@ -6334,7 +6334,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2022-08-25",
-        "": "",
+        
         "Birthday": "February 20",
         "3 Sizes": "92 / 75 / 91",
         "From": "Unknown",
@@ -6383,7 +6383,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2022-09-09",
-        "": "",
+        
         "Birthday": "",
         "3 Sizes": "",
         "From": "",
@@ -6432,7 +6432,7 @@
         "Gender": "Male",
         "Category": "Collab",
         "Release Date": "2022-09-15",
-        "": "",
+        
         "Birthday": "",
         "3 Sizes": "",
         "From": "",
@@ -6481,7 +6481,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2022-09-30",
-        "": "",
+        
         "Birthday": "Unknown",
         "3 Sizes": "70 / 54 / 63",
         "From": "Mamanap",
@@ -6530,7 +6530,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2022-10-13",
-        "": "",
+        
         "Birthday": "March 19",
         "3 Sizes": "93 / 74 / 91",
         "From": "Unknown",
@@ -6579,7 +6579,7 @@
         "Gender": "Male",
         "Category": "Hero",
         "Release Date": "2022-10-27",
-        "": "",
+        
         "Birthday": "May 4",
         "3 Sizes": "95 / 76 / 93",
         "From": "Unknown",
@@ -6628,7 +6628,7 @@
         "Gender": "Female",
         "Category": "Gacha",
         "Release Date": "2022-11-10",
-        "": "",
+        
         "Birthday": "April 28",
         "3 Sizes": "83 / 50 / 81",
         "From": "Imperial Capital",
